@@ -22,7 +22,7 @@ title: Writings
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   This space is meant to be a low-tech 'blog' of my writing on various topics of personal interest. It would be nice to have a private repository for this, but oh well...
-baseurl: "/writing/" # the subpath of your site, e.g. /blog
+baseurl: "/writing" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  emadmasroor
@@ -35,6 +35,9 @@ plugins:
 collections:
   GP_chapters:
     output: true
+    permalink: /GP/:path/
+    sort_by: order
+    
 
 # the above line (output:true) ensures that each chapter has its own page
 

@@ -1,16 +1,17 @@
 ---
 layout: page
 title: Commentaries on GP
-permalink: /test/
-nav: false
+permalink: /GP
+nav: true
 ---
 
-Sandbox for trying out Jekyll, Markdown, Liquid, HTML, etc.
+This page should have a collection of the chapter commentaries
 
 {% for entry in site.GP_chapters %}
   <h2>
-    <a href="{{entry.url }}">
+    <a href="{{site.baseurl}}{{entry.url}}">
       {{ entry.title }}
+    </a>
   </h2>
   <p>{{ entry.content | markdownify }}</p>
 {% endfor %}
