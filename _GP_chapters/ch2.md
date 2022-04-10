@@ -17,4 +17,4 @@ In Maimonides' account of the Garden of Eden, Adam and Eve already had "intellec
 When Adam and Eve transgressed God's commandment in the Garden, they were in a sense 'punished' by being given this additional faculty of distinguishing the "good" and the "bad", categories that simply did not exist for them before this. For Maimonides, this is the reason why the fall of Adam is a "fall", a demotion to a lower plane of existence. Because after the fall, 
 > he was wholly absorbed in the study of what is proper and what improper. Then he fully understood the magnitude of the loss he had sustained, what he had forfeited, and in what situation he was thereby placed.
 
-Mankind, in its current fallen state, has no choice but to be embroiled in the perennial thorny questions of "apparent truths" (المشهورات) of the human sort as opposed to "necessary truths" (المشهورات) of the divine sort. 
+Mankind, in its current fallen state, has no choice but to be embroiled in the perennial thorny questions of "apparent truths" (المشهورات) of the human sort as opposed to "necessary truths" (المعقولات) of the divine sort. 
