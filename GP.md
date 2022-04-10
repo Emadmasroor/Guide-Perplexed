@@ -7,7 +7,8 @@ nav: true
 
 This page should have a collection of the chapter commentaries
 
-{% for entry in site.GP_chapters %}
+{% assign sorted_chapters = site.GP_chapters | sort:"order" %}
+{% for entry in sorted_chapters %}
   <h2>
     <a href="{{site.baseurl}}{{entry.url}}">
       {{ entry.title }}
