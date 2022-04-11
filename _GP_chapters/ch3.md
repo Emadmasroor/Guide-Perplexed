@@ -1,0 +1,12 @@
+---
+layout: page
+title: Chapter 3
+order: 4
+nav: true
+---
+
+This short chapter is ultimately meant to explain the apparent anthropomorphism in Numbers XII 8: "and the similitude of the Lord shall he behold".
+
+Considering the seemingly similar words الشكل (_shakl_) and الهيئة (_hai'at_), corresponding to the Hebrew words תמונה (_tmunah_) and תבנית (_tavnit_), Maimonides states that the word _hai'at_ (هيئة) is never used in connection with God because the word refers to "the build and construction" of a thing. And the word _shakl_ (شكل) , whose apparent meaning is the sense-perceptible form of an object, also admits (according to Maimonides) the meaning of 'Form with a capital F': "the true form of an object, which is perceived only by the intellect". For Maimonides, this latter meaning is the only appropriate interpretation of Numbers XII 8. 
+
+The extant Arabic versions of Numbers XII:8 have the phrase "_wa shabha rabbi yu'ayin_ وَشِبْهَ الرَّبِّ يُعَايِنُ". It seems that beholding the _shabha_ (شِبْهَ) of God is much less theologically dangerous than beholding the _shakl_ (شكل) of God, but it is possible that 
