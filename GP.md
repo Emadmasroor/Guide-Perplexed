@@ -9,10 +9,10 @@ This is a personal commentary on _Guide for the Perplexed_ (دلالة الحا�
 
 {% assign sorted_chapters = site.GP_chapters | sort:"order" %}
 {% for entry in sorted_chapters %}
-  <h2>
+  <h3>
     <a href="{{site.baseurl}}{{entry.url}}">
       {{ entry.title }}
     </a>
-  </h2>
+  </h3>
   <p>{{ entry.content | markdownify }}</p>
 {% endfor %}
