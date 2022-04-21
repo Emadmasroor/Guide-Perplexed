@@ -15,6 +15,15 @@ This is a personal commentary on _Guide for the Perplexed_ (_dalalat al-haa'iree
       {{ entry.title }}
     </a>
   </h3>
+{% endfor %}
+
+{% assign sorted_chapters = site.GP_chapters | sort:"order" %}
+{% for entry in sorted_chapters %}
+  <h3>
+    <a href="{{site.baseurl}}{{entry.url}}">
+      {{ entry.title }}
+    </a>
+  </h3>
   <p>{{ entry.content | markdownify }}</p>
 {% endfor %}
 {:toc}
