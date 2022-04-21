@@ -62,3 +62,7 @@ collections:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Table of contents
+plugins:
+  - jekyll-toc
