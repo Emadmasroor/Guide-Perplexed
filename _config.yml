@@ -64,5 +64,5 @@ collections:
 #   - vendor/ruby/
 
 # Table of contents
-plugins:
+# plugins:
 #  - jekyll-toc
