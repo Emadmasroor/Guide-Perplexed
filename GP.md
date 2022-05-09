@@ -9,7 +9,7 @@ This is a personal commentary on _Guide for the Perplexed_ (_dalalat al-haa'iree
 
 <h2> Part I </h2>
 
-{% assign sorted_chapters = site.GP_chapters | sort:"order" %}
+{% assign sorted_chapters = site.GP_chapters | sort:"chapter" %}
 {% for entry in sorted_chapters %}
   <h3>
     <a href="{{site.baseurl}}{{entry.url}}">
