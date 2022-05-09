@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Chapter 3
+part: 1
 order: 4
+chapter: 3
 nav: true
 ---
 

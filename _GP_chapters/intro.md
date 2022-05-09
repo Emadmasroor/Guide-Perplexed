@@ -3,6 +3,7 @@ layout: page
 title: Introduction
 permalink: /GP/intro
 sort_by: 1
+chapter: 0
 nav: true
 ---
 

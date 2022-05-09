@@ -38,7 +38,7 @@ collections:
   GP_chapters:
     output: true
     permalink: /GP/:path/
-    sort_by: order
+    sort_by: chapter
     
 
 # the above line (output:true) ensures that each chapter has its own page
