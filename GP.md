@@ -9,16 +9,14 @@ This is a personal commentary on _Guide for the Perplexed_ (_dalalat al-haa'iree
 
 <h2> Part I </h2>
 
-{% assign sorted_chapters = site.GP_chapters | sort:"chapter" %}
+{% assign sorted_chapters = site.GPI_chapters | sort:"chapter" %}
 {% for entry in sorted_chapters %}
-{% if entry.part == 1 %}
   <h3>
     <a href="{{site.baseurl}}{{entry.url}}">
       {{ entry.title }}
     </a>
   </h3>
   <p>{{ entry.content | markdownify }}</p>
-{% endif %}
 {% endfor %}
 
 <h2> Part II </h2>
