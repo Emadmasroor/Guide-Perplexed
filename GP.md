@@ -20,3 +20,13 @@ This is a personal commentary on _Guide for the Perplexed_ (_dalalat al-haa'iree
 {% endfor %}
 
 <h2> Part II </h2>
+
+{% assign sorted_chapters = site.GPII_chapters | sort:"chapter" %}
+{% for entry in sorted_chapters %}
+  <h3>
+    <a href="{{site.baseurl}}{{entry.url}}">
+      {{ entry.title }}
+    </a>
+  </h3>
+  <p>{{ entry.content | markdownify }}</p>
+{% endfor %}
