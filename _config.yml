@@ -35,7 +35,11 @@ theme: minima
 markdown: kramdown
 
 collections:
-  GP_chapters:
+  GPI_chapters:
+    output: true
+    permalink: /GP/:path/
+    sort_by: chapter
+  GPII_chapters:
     output: true
     permalink: /GP/:path/
     sort_by: chapter
