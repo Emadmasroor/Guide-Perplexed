@@ -24,7 +24,9 @@ This is a personal commentary on _Guide for the Perplexed_ (_dalalat al-haa'iree
 {% assign sortedchapters = site.GPII_chapters | sort:"chapter" %}
 {% for entry in sortedchapters %}
   <h3>
+    <a href="{{site.baseurl}}{{entry.url}}">
       {{ entry.title }}
+    </a>
   </h3>
   <p>{{ entry.content | markdownify }}</p>
 {% endfor %}
