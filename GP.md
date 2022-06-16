@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Commentary on GP
-permalink: /GP
+title: Chapter Summaries
+permalink: /summaries
 nav: true
 ---
 
