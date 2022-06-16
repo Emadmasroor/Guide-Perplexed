@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Maimonides' Guide for the Perplexed
+title: Maimonides' _Guide for the Perplexed_
 author: Emad Masroor  
 
 description: >- # this means to ignore newlines until "baseurl:"
-  A commentary on Guide for the Perplexed
+  This website is for a personal commentary on 
+  Maimonides' _Guide for the Perplexed_
 baseurl: "/Guide-Perplexed" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username: emadmasroor
 email: emadmasroor@gmail.com
 
 # Build settings
