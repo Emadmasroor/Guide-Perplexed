@@ -24,7 +24,7 @@ author:
   email: emadmasroor@gmail.com
 
 description: >- # this means to ignore newlines until "baseurl:"
-  A commentary on _Guide for the Perplexed_
+  A commentary on Guide for the Perplexed
 baseurl: "/Guide-Perplexed" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: emadmasroor
