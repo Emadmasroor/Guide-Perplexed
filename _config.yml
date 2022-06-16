@@ -18,11 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Writings
+title: Maimonides' Guide for the Perplexed
 email: emadmasroor@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This space is meant to be a low-tech 'blog' of my writing on various topics of personal interest. It would be nice to have a private repository for this, but oh well...
-baseurl: "/writing" # the subpath of your site, e.g. /blog
+baseurl: "/Guide-Perplexed" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username: emadmasroor
