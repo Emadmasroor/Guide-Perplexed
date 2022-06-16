@@ -21,3 +21,22 @@ Grouped in this way, the sky therefore consists of four 'spheres'. Maimonides li
 - the moon is related to water, as is evident from the tides;
 - the sun is related to fire, as is evendient from its heating effect;
 - the planets are related to air, since they "move in many and different courses with retrogressions, progressions, and stations, and therefore produce the various forms of the air with its frequent changes"
+- the fixed stars are related to earth; Maimonides finds some support for this in Jewish writings.
+
+Continuing the theme of 'four', Maimonides goes on to articulate that each 'sphere' is associated with 4 properties, or "the four causes of the motion of the sphere":
+1. its spherical shape; this is necessary for the heavens' motion to be continuous and 'eternal'.
+2. its soul; "for only animate beings can move freely"
+3. its intellect; 
+4. the Intelligence which it aims to imitate
+
+the last two are necessitated because:
+> There must be some cause for the motion, and as it does not consist in the fear of that which is injurious, or the desire of that which is profitable, it must be found in the notion which the spheres form of a certain being, and in the desire to approach that being. This formation of a notion demands, in the first place, that the spheres possess intellect; it demands further that something exists which corresponds to that notion, and which the spheres desire to approach
+
+The spheres are associated with four "principal forces":
+1. the nature of minerals, _jamadat_ جمادات
+2. the nature of plants, _nabatat_ نباتات
+3. the nature of animals, _hayawanat_ حیوانات
+4. the intellect
+
+These 'natural forces', as Maimonides describes them, are what perpetuate life, both as species and as individual elements of species. 
+> These are also the functions ascribed to Nature, which is said to be wise, to govern the Universe, to provide, as it were, by plan for the production of living beings, and to provide also for their preservation and perpetuation. Nature creates formative faculties, which are the cause of the production of living beings, and nutritive faculties as the source of their temporal existence and preservation. It may be that by Nature the Divine Will is meant, which is the origin of these two kinds of faculties through the medium of the spheres.
