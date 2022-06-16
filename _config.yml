@@ -37,11 +37,11 @@ markdown: kramdown
 collections:
   GPI_chapters:
     output: true
-    permalink: /GP/:path/
+    permalink: /summaries/:path/
     sort_by: chapter
   GPII_chapters:
     output: true
-    permalink: /GP/:path/
+    permalink: /summaries/:path/
     sort_by: chapter
     
 
