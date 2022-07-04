@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Highlights
-permalink: /GP-highlights
+permalink: /highlights
 nav: true
 ---
 
@@ -9,12 +9,12 @@ nav: true
 
 {% assign sorted_chapters = site.GPI_chapters | sort:"chapter" %}
 {% for entry in sorted_chapters %}
-  {{ entry.title }} : {{ entry.highlights }}
+  <a>"{{site.baseurl}}{{entry.permalink}}" {{ entry.title }} </a>: {{ entry.highlights }}
 {% endfor %}
 
 <h4> Part II </h4>
 
 {% assign sorted_chapters = site.GPII_chapters | sort:"chapter" %}
 {% for entry in sorted_chapters %}
-  {{ entry.title }} : {{ entry.highlights }}
+  <a>"{{site.baseurl}}{{entry.permalink}}" {{ entry.title }} </a>: {{ entry.highlights }}
 {% endfor %}
