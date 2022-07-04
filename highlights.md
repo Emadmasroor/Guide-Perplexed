@@ -9,7 +9,7 @@ nav: true
 
 {% assign sorted_chapters = site.GPI_chapters | sort:"chapter" %}
 {% for entry in sorted_chapters %}
-  <a href="{{site.baseurl}}{{entry.permalink}}"> {{ entry.title }} </a>: {{ entry.highlights }}
+  <a href="{{site.baseurl}}{{entry.url}}"> {{ entry.title }} </a>: {{ entry.highlights }}
 {% endfor %}
 
 <h4> Part II </h4>
