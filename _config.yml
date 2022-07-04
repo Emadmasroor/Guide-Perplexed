@@ -19,10 +19,12 @@ collections:
   GPI_chapters:
     output: true
     permalink: /summaries/:path/
+    url: /summaries/:path/
     sort_by: chapter
   GPII_chapters:
     output: true
     permalink: /summaries/:path/
+    url: /summaries/:path/
     sort_by: chapter
     
 
