@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: chaptersummary
 title: Chapter 4-5
 part: 2
 chapter: 4
