@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: chaptersummary
 title: Introduction
 permalink: /GP/intro
 sort_by: 1

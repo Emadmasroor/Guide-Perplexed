@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: chaptersummary
 title: Chapter 1
 part: 1
 order: 2
