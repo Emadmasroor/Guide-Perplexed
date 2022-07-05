@@ -1,10 +1,15 @@
-# Not using this for now.
-<!doctype html>
-<html>
-  <head>
-    <title>{{ page.part }}: {{ page.title }}</title>
-  </head>
-  <body>
-    {{ content | markdownify }}
-  </body>
-</html>
+---
+layout: chaptersummary
+---
+<article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.part | escape }}</h1>
+    <h2 class="post-title">{{ page.title | escape }}</h2>
+  </header>
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+</article>
