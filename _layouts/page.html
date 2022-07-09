@@ -7,6 +7,7 @@ layout: default
     <h1 class="post-title">{{ page.title | escape }}</h1>
   </header>
 
+  <div class="post-content">
   <!-- The following line generates a table of contents. 
   I haven't found a way to make this hyper-link to sections
   within the page instead of hyper-linking to the page for
@@ -16,9 +17,12 @@ layout: default
   would do what I want, but it's not exactly what I want either.-->
   {% include anchor_headings.html html=content anchorBody="#" generateId=true %}
 
+  </div>
 
+  <!--
   <div class="post-content">
     {{ content }}
   </div>
+  -->
 
 </article>
