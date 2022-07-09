@@ -2,7 +2,6 @@
 layout: chaptersummary
 title: Introduction
 permalink: /GP/intro
-sort_by: 1
 part: 1
 chapter: 0
 nav: true
