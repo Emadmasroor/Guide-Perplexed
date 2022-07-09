@@ -5,6 +5,9 @@ permalink: /summaries
 nav: true
 ---
 
+* Do not remove this line (it will not be displayed)
+{:toc}
+
 <h2> Part I </h2>
 
 {% assign sorted_chapters = site.GPI_chapters | sort:"chapter" %}
