@@ -2,7 +2,6 @@
 layout: page
 title: Summaries
 permalink: /summaries
-toc: true
 nav: true
 ---
 
