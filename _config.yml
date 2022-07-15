@@ -49,5 +49,6 @@ collections:
 #   - vendor/ruby/
 
 # Table of contents
-# plugins:
+plugins:
+  - jemoji
 #  - jekyll-toc
