@@ -19,7 +19,7 @@ nav: true
   </h3>
   <p> 
   <a href="{{site.baseurl}}{{page.url}}#top">
-      back to top :arrow_up:
+      :arrow_up:
   </a>
   </p>
   <p>{{ entry.content | markdownify }}</p>
@@ -39,7 +39,7 @@ nav: true
   </h3>
   <p> 
   <a href="{{site.baseurl}}{{page.url}}#top">
-      back to top :arrow_up:
+      :arrow_up:
   </a>
   </p>
   <p>{{ entry.content | markdownify }}</p>
