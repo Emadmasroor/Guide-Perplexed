@@ -28,7 +28,9 @@ nav: true
     <a href="{{site.baseurl}}{{entry.url}}">
       {{ entry.title }}
     </a>
-  ({{ entry.highlights }})
+  {% if entry.highlights %}
+    ({{ entry.highlights }})
+  {% endif %}
   </h3>
   <p>{{ entry.content | markdownify }}</p>
 {% endfor %}
