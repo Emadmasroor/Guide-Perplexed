@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Summaries
+title: Chapter Summaries
 permalink: /summaries
 nav: true
 ---
