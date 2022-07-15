@@ -8,7 +8,7 @@ layout: default
   </header>
 
 <div class="post-content">
-    {% capture post_content %}{% include anchor_headings.html html=content anchorBody="#" generateId=true %}{% endcapture %}
+    {% capture post_content %}{% include anchor_headings.html html=content generateId=true %}{% endcapture %}
 
     <!-- Make sure to feed content **with** heading ids to correctly generate the TOC -->
     {% include toc.html html=post_content sanitize=true %}
