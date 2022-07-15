@@ -17,6 +17,7 @@ nav: true
     ({{ entry.highlights }})
   {% endif %}
   </h3>
+  <p> {{page.url}}#top </p>
   <p>{{ entry.content | markdownify }}</p>
 {% endfor %}
 
@@ -32,5 +33,6 @@ nav: true
     ({{ entry.highlights }})
   {% endif %}
   </h3>
+  <p> {{page.url}}#top </p>
   <p>{{ entry.content | markdownify }}</p>
 {% endfor %}
