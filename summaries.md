@@ -13,7 +13,7 @@ nav: true
     <a href="{{site.baseurl}}{{entry.url}}">
       {{ entry.title }}
     </a>
-  {{ entry.highlights }}
+  : {{ entry.highlights }}
   </h3>
   <p>{{ entry.content | markdownify }}</p>
 {% endfor %}
@@ -26,6 +26,7 @@ nav: true
     <a href="{{site.baseurl}}{{entry.url}}">
       {{ entry.title }}
     </a>
+  : {{ entry.highlights }}
   </h3>
   <p>{{ entry.content | markdownify }}</p>
 {% endfor %}
