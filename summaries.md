@@ -19,7 +19,7 @@ nav: true
   </h3>
   <p> 
   <a href="{{site.baseurl}}{{page.url}}#top">
-      back to top
+      back to top :arrow_up:
   </a>
   </p>
   <p>{{ entry.content | markdownify }}</p>
@@ -37,6 +37,10 @@ nav: true
     ({{ entry.highlights }})
   {% endif %}
   </h3>
-  <p> [back to top]({{ site.baseurl }}/{{page.url}}#top) </p>
+  <p> 
+  <a href="{{site.baseurl}}{{page.url}}#top">
+      back to top :arrow_up:
+  </a>
+  </p>
   <p>{{ entry.content | markdownify }}</p>
 {% endfor %}
