@@ -11,6 +11,10 @@ Harry A. Wolfson, _The Philosophy of Spinoza_ Vol.I Chapter 1 pg 20:
 Spinoza [Ethics I.29](https://www.ethicadb.org/pars.php?parid=1#129): 
 > Nothing in the universe is contingent, but all things are conditioned to exist and operate in a particular manner by the necessity of the divine nature.
 
+
+----
+
+
 Steven Nadler, _A Book Forged in Hell: Spinoza's Scandalous Treatise and the Birth of the Secular Age_, Chapter 4 p.65:
 > In the _Treatise_, Spinoza is deeply concerned to combat this notion of the prophet-philosopher [i.e., Maimonides' theory of prophecy]. One of the goals of the work is to secure the separation of the domains of religion and philosophy so that philosophers might be free to pursue secular wisdom unimpeded by ecclesiastic authority.
 
@@ -20,7 +24,9 @@ Steven Nadler, [_Why Spinoza Still Matters_](https://aeon.co/essays/at-a-time-of
 Steven Nadler, _A Book Forged in Hell: Spinoza's Scandalous Treatise and the Birth of the Secular Age_, Chapter 3 p.50:
 > Spinoza was always deeply offended by the accusation that he was an atheist, particularly if the charge meant, as his Voorburg opponents claimed, that he "mocks all religions." ... Spinoza writes, "Does that man, pray, renounce all religion who declares that God must be acknowledged as the highest good, and that he must be loved as such in a free spirit? And that in this alone does our supreme happiness and our highest freedom consist?"
 
+
 ----
+
 
 Maimonides departs from Aristotle on the question of the eternity of the Universe, but this is related to (and perhaps anciliary to) the question whether the Universe is entirely governed by natural laws. In the Guide II.20, Maimonides [says](https://www.sefaria.org/Guide_for_the_Perplexed%2C_Part_2.20.1?lang=en)
 > For as it is impossible to reconcile two opposites, so it is impossible to reconcile the two theories, that of [1] necessary existence by causality, and [2] that of Creation by the desire and will of a Creator
