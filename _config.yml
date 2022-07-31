@@ -24,6 +24,10 @@ collections:
     output: true
     permalink: /summaries/II/:path/
     sort_by: chapter
+  Resouces:
+    output: true
+    permalink: /resources/:path/
+    
     
 
 # the above line (output:true) ensures that each chapter has its own page
