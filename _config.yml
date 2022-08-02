@@ -24,7 +24,7 @@ collections:
     output: true
     permalink: /summaries/II/:path/
     sort_by: chapter
-  Resouces:
+  Resources:
     output: true
     permalink: /resources/:path/
     
