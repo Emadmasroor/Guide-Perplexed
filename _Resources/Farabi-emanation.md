@@ -5,4 +5,6 @@ permalink: /Farabi-emanation
 nav: true
 ---
 
-test
+From _Al-Farabi and His School_ by Ian R. Netton
+
+![image](/assets/Farabi-emanation.jpg)
