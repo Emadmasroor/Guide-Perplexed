@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Notes on Spinoza
-permalink: /Spinoza
 order: 2
 nav: true
 ---
