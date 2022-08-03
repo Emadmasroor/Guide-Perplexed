@@ -7,5 +7,5 @@ nav: true
 
 From _Al-Farabi and His School_ by Ian R. Netton
 
-![image](/assets/Farabi-emanation.png){:style="float: left"; width="200"}
+![image](/assets/Farabi-emanation.jpg)
 
