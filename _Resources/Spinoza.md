@@ -32,3 +32,8 @@ Maimonides departs from Aristotle on the question of the eternity of the Univers
 > For as it is impossible to reconcile two opposites, so it is impossible to reconcile the two theories, that of [1] necessary existence by causality, and [2] that of Creation by the desire and will of a Creator
 
 Maimonides emphatically rejects [1] and supports [2]. Spinoza, who had access to the Keplerian hypothesis and therefore no longer saw the same deficiencies that Maimonides did in the Aristotelian system, asserted [1] in [Ethics I.29](https://www.ethicadb.org/pars.php?parid=1#129) and denied [2] in [Ethics 1.17 sch](https://www.ethicadb.org/pars.php?parid=1#117sc). In doing so, he takes the opposite position to Maimonides while staying true to the latter's philosophical framework.
+
+----
+
+
+According to Carlos Fraenkel (in _Spinoza on Philosophy and Religion: The Averroistic Sources_, book chapter in _The Rationalists: Between Tradition and Innovation_) poitns out that the expression 'truth does not contradict truth' was used by Spinoza in _Cogitata Metaphysica_ (as 'veritas veritati non repugnat'). This phrase, of course, has a pedigree in Averroes' _Decisive Treatise_ where he uses it in the form (الحق لا يضاد الحق) _al-haqq la yuzad al-haq_. For Averroes, this statement is a lead-in to an allegorical interpretation of those parts of Scripture or religious tradition which contradict with philosophical truth. According to Fraenkel, Spinoza too held such a view at one point, although it seems very different from the position that Spinoza ultimately takes in the _Tractatus Theologico-Politicus_.
