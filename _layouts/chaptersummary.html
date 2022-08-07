@@ -6,6 +6,9 @@ layout: default
   <header class="post-header">
     <h1 class="post-title">Part {{ page.part}}, {{ page.title | escape }}</h1>
   </header>
+  
+  {{ "https://www.sefaria.org/Guide_for_the_Perplexed%2C_Part_" | append: {page.part}  }}
+
 
   <div class="post-content">
     {{ content }}
