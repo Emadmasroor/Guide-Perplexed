@@ -2,7 +2,6 @@
 layout: page
 title: Farabi's emanation scheme
 order: 1
-permalink: /Farabi
 nav: true
 ---
 
