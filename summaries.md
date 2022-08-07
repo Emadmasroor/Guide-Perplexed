@@ -17,7 +17,7 @@ nav: true
     ({{ entry.highlights }})
   {% endif %}
   </h3>
-  <p> 
+  <p style="text-align:left;"> 
   <a href="{{site.baseurl}}{{page.url}}#top">
       :arrow_up:
   </a>
@@ -40,7 +40,7 @@ nav: true
     ({{ entry.highlights }})
   {% endif %}
   </h3>
-  <p> 
+  <p style="text-align:left;"> 
   <a href="{{site.baseurl}}{{page.url}}#top">
       :arrow_up:
   </a>
