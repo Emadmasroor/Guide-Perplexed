@@ -22,7 +22,7 @@ nav: true
       :arrow_up:
   </a>
   <span style="float:right;">
-        <a href="https://www.sefaria.org/Guide_for_the_Perplexed%2C_Part_{{ page.part }}.{{ page.chapter }}?lang=en">read on Sefaria</a>
+        <a href="https://www.sefaria.org/Guide_for_the_Perplexed%2C_Part_{{ entry.part }}.{{ entry.chapter }}?lang=en">read on Sefaria</a>
     </span>
   </p>
   <p>{{ entry.content | markdownify }}</p>
@@ -45,7 +45,7 @@ nav: true
       :arrow_up:
   </a>
   <span style="float:right;">
-        <a href="https://www.sefaria.org/Guide_for_the_Perplexed%2C_Part_{{ page.part }}.{{ page.chapter }}?lang=en">read on Sefaria</a>
+        <a href="https://www.sefaria.org/Guide_for_the_Perplexed%2C_Part_{{ entry.part }}.{{ entry.chapter }}?lang=en">read on Sefaria</a>
     </span>
   </p>
   <p>{{ entry.content | markdownify }}</p>
