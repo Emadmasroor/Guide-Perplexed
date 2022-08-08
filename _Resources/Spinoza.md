@@ -47,6 +47,11 @@ Fraenkel's argument is that Spinoza follows Averroes rather than Maimonides in h
 
 1. Maimonides believes that the question of whether the world is eternal or created-in-time is not conclusively settled by philosophical speculation, and that from purely rational arguments we are forced to conclude (based on the scientific evidence available in the 12th century) that we do not know which one is true.
 2. Nevertheless, he chooses to believe in creation-in-time "on the authority of Our Teacher Moses".
-3. He expressly says that his reason for this decision is _not_ that a literal reading of Genesis tells us that God created the world at a certain instance of time.
+3. He expressly says that his reason for this decision is _not_ that a literal reading of Genesis tells us that God created the world at a certain instance of time, famously asserting that he would have had no trouble with interpreting the Genesis narrative allegorically had the scientific evidence for an eternal universe been conclusive.
+4. Nevertheless, he says that believing in creation-in-time is extremely important, and that the theory of the eternity of the world is "contrary to the fundamental principles of our religion". Why?
+5. If one accepts creation-in-time, then miracles and prophecy also become possible. He does not directly state the converse, but we can conjecture: if creation-in-time were conclusively disproven, would miracles and prophecy become impossible?
+6. Creation-in-time has a bearing on the question of whether the entirety of Nature is subject to fixed laws, or whether there is a supra-natural power of God which shaped the Universe, at least in the early days? This question is so important to Maimonides that he stakes the entirety of the law on it. "If Aristotle had a proof for his theory ... then we should be forced to other opinions".
+7. He believes that there is no difference between (1) believing in an a Universe which proceeds from God the way all effects proceed from their causes and (2) believing that the Universe is the result of a voluntary act of the design/will/determination of God, but it has always been so.
+8. 
 
 
