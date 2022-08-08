@@ -42,3 +42,11 @@ Fraenkel's argument is that Spinoza follows Averroes rather than Maimonides in h
 > The philosopher is prohibited from intervening in the beliefs of popular religion even if they are philosophically as untenable as the anthropomorphic representation of God. ... [According to Averroes], philosophical doctrines may only be recorded in books that employ scientific demonstrations. For these, according to Averroes, are protected by their difficulty: books which “use demonstrations are accessible only to those who understand demonstrations” (Faṣl al-maqâl, 21). This, of course, is as true for Spinoza’s Ethics, 450 years later, as it is for Averroes’ commentaries on Aristotle.
 
 
+----
+
+
+1. Maimonides believes that the question of whether the world is eternal or created-in-time is not conclusively settled by philosophical speculation, and that from purely rational arguments we are forced to conclude (based on the scientific evidence available in the 12th century) that we do not know which one is true.
+2. Nevertheless, he chooses to believe in creation-in-time "on the authority of Our Teacher Moses".
+3. He expressly says that his reason for this decision is _not_ that a literal reading of Genesis tells us that God created the world at a certain instance of time.
+
+
