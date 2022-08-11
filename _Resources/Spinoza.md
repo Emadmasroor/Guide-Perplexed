@@ -55,3 +55,18 @@ Fraenkel's argument is that Spinoza follows Averroes rather than Maimonides in h
 8. 
 
 
+----
+
+[GP.III.32](https://www.sefaria.org/Guide_for_the_Perplexed%2C_Part_3.32.1?lang=en) begins with "On considering the Divine acts, or the processes of Nature, we get an insight into...". The Arabic goes "إذا تاملت الأفعال الإلهي أعني الأفعال الطبيعية". It has been speculated by none less than Shlomo Pines that this expression of Maimonides may have suggested to Spinoza the famous formula tion _Deus sive Natura_. There is certainly a linguistic parallelism, if we ignore for a moment that Maimonides talks about _actions_ whereas Spinoza does not restrict his _sive_ to the actions of God or nature. 
+
+- Maimonides says "الأفعال الإلهي, أعني, الأفعال الطبيعية": "the actions of God, that is, the actions of Nature"
+- Spinoza says "God, _sive_, Nature"
+
+It might be instructive to look into the sort of equivalence set up by the Arabic أعني and the sort of equivalence set up by the Latin _sive_.
+
+But in at least two of the three places in the _Ethics_ where Spinoza uses this phrase, his argument never strays too far from Maimonides' circumscribed equivalence of the _actions_ of God with the _actions_ of Nature. Consider the preface to Part IV of the Ethics in Elwes' translation:
+> Now we showed in the Appendix to Part I., that Nature does not work with an end in view. For the eternal and infinite Being, which we call God or Nature, **acts** by the same necessity as that whereby it exists.
+
+Although Maimonides differs from Spinoza in the _conclusion_ which is stated here (for Maimonides, God _does not_ act by necessity but has free will), notice that the two preceding premises are entirely shared between them.
+1. "Nature does not work with an end in view". This is an opinion which was strongly held by Maimonides, and in Part III ...
+2. the actions of God and the actions of Nature are one and the same. This was stated explicitly by Maimonides in [GP.III.32](https://www.sefaria.org/Guide_for_the_Perplexed%2C_Part_3.32.1?lang=en).
