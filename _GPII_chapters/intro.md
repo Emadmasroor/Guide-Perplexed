@@ -1,6 +1,6 @@
 ---
 layout: chaptersummary
-title: Introduction
+title: Introduction to Part II
 part: 2
 chapter: 0
 nav: true
