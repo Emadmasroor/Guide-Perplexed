@@ -24,6 +24,10 @@ collections:
     output: true
     permalink: /summaries/II/:path/
     sort_by: chapter
+  GPIOI_chapters:
+    output: true
+    permalink: /summaries/III/:path/
+    sort_by: chapter
   Resources:
     output: true
     permalink: /resources/:path/
