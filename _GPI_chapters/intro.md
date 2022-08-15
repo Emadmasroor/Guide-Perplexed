@@ -1,6 +1,6 @@
 ---
 layout: chaptersummary
-title: Introduction
+title: Introduction to Part I
 permalink: /GP/intro
 part: 1
 chapter: 0
