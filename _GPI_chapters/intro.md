@@ -1,7 +1,6 @@
 ---
 layout: chaptersummary
 title: Introduction to Part I
-permalink: /GP/intro
 part: 1
 chapter: 0
 nav: true
