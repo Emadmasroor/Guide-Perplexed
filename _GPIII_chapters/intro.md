@@ -17,3 +17,5 @@ However, this kind of knowledge has "entirely disappeared from our nation, and n
 > my knowledge of them is based on reasoning, not on divine inspiration. I have not received my belief in this respect from any teacher, but it has been formed by what I learnt from Scripture and the utterances of our Sages, and by the philosophical principles which I have adopted. It is therefore possible that my view is wrong, and that I misunderstood the passages referred to.
 
 Conveying once again his reluctance to expound openly what religion commands him to conceal, he states once again that his method of exposition has been deliberately cursory; "those ... for whom this treatise has been composed will, on reflecting on it and thoroughly examining each chapter, obtain a perfect and clear insight into all that has been clear and intelligible to me."
+
+The following few chapters will be devoted to an explanation of the book of the prophet [Ezekiel](https://www.sefaria.org/Ezekiel), which contains the 'description of the Divine Chariot'; in Friedlander's translation, "this sublime, important, and grand (الشريف الجليل العظيم) subject". 
