@@ -74,4 +74,4 @@ Although Maimonides differs from Spinoza in the _conclusion_ which is stated her
 
 ----
 
-![image](/Guide-Perplexed/assets/meme.jpg){:style="float: left"; width="200"}
+![image](/Guide-Perplexed/assets/memev2.jpg){:style="float: left"; width="200"}
