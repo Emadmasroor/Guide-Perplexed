@@ -1,6 +1,6 @@
 ---
 layout: chaptersummary
-title: Introduction to Part III
+title: Chapter 8
 part: 3
 chapter: 8
 highlights: matter and form
