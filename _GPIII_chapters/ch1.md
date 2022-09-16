@@ -3,7 +3,7 @@ layout: chaptersummary
 title: 1-7
 part: 3
 chapter: 1
-highlights: matter and form
+highlights: commentary on Ezekiel
 nav: true
 ---
 
