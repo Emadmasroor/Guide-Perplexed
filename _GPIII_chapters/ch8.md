@@ -23,5 +23,3 @@ So what should we be engaged in, instead? Maimonides has a philosopher's reply:
 
 which he then qualifies with a theologian's lens, because he then says:
 > The best and sublimest among them is the idea which man forms of God, angels, and the rest of the creation according to his capacity. ... This is man's task and purpose. Others, however, that are separated from God form the multitude of fools, and do just the opposite. They neglect all thought and all reflection on ideas, and consider as their task the cultivation of the sense of touch, that sense which is the greatest disgrace.
-
-So, man's purpose is "the formation of ideas, and nothing else".
