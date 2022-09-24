@@ -25,7 +25,7 @@ This is reminiscent of [Mir](http://www.columbia.edu/itc/mealac/pritchett/00gard
 > _aaloodgi -e- jism se maati mein at gaya_
 > 
 > In the realm of spirits, I was sanctified; now, well, I ---  <br>
-> am mingled in the dirt from the pollutedness of body
+> am mingled in dust from the pollutedness of body
 
 
 This idea has ethical implications in the Maimonidean worldview, which in this chapter sounds quite monastic. Because man is distinguished by this 'God-like' ability to conquer his passions, one's ability to do so determines one's "station". The more one indulges in the desires of the flesh, the farther away one goes from his 'true', Godly nature. Chief among the culprits is the sense of touch, which Maimonides --- following Aristotle --- considers particularly distasteful. If we must tend to our bodily needs and desires, we should "reduce these wants, guard against them, feel grieved when satisfying them, abstain from speaking of them, discusissing them, and attending to them in company with others."
