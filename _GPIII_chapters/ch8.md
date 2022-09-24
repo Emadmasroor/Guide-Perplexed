@@ -21,10 +21,10 @@ This is reminiscent of [Mir](http://www.columbia.edu/itc/mealac/pritchett/00gard
 > عالم میں جاں کے مجھ کو تنزّہ تھا اب تو میں<br>
 > آلودگیِ جسم سے ماٹی میں اٹ گیا
 > 
-> _aalam mein jaan ke mujh ko tanazzuh thha ab to mein_ //
+> _aalam mein jaan ke mujh ko tanazzuh thha ab to mein_ <br>
 > _aaloodgi -e- jism se maati mein at gaya_
 > 
-> In the realm of spirits, I was sanctified; now, well, I ---  
+> In the realm of spirits, I was sanctified; now, well, I ---  <br>
 > am mingled in the dirt from the pollutedness of body
 
 
