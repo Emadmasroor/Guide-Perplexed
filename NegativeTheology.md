@@ -39,7 +39,7 @@ If we think of the set of natural numbers {1,2,3,...} and based on our knowledge
 
 ∞ > 10
 
-i.e., we can be quite certain that the number we seek, ∞, is larger than 10. But this is only a necessary statement. This is a statement that confirms to us what ∞ is not; it is not 1,2,3,...,9,10. But what **is** it? Is it 11? No. Is it 12? No. In one sense, once we state that ∞ > 10, we circumscribe the possibility to some extent (we can rule out ten numbers), but once we do so we find that we are still no closer to finding out what ∞ _really_ is. This state of affairs exists because we do not have access to any _sufficient_ statements about ∞, but only necessary ones. We may be able to circumscribe ∞ further if we make a subsequent necessary statement about ∞, i.e.,
+i.e., we can be quite certain that the number we seek, ∞, is larger than 10. But this is only a necessary statement. This is a statement that confirms to us what ∞ is not; it is not 1,2,3,...,9,10. But what **is** it? Is it 11? No. Is it 12? No. In one sense, once we state that ∞ > 10, we circumscribe the possibility to some extent (we can rule out ten numbers), but once we do so we find that we are still no closer to finding out what ∞ _really_ is. This state of affairs exists because we do not have access to any _sufficient_ statements about ∞, but only necessary ones. We may be able to circumscribe ∞ further if we learn a subsequent necessary statement about ∞, i.e.,
 
 ∞ > 20
 
