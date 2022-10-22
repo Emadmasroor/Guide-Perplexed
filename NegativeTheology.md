@@ -35,7 +35,7 @@ Suppose we now learn of another necessary condition for Z, D. Then again, we hav
 
 If we think of each successive negative attribute as a kind of 'necessary statement' about God, we can begin to make more sense of what Maimonides means. He says that "there is no possibility of obtaining a knolwedge of the true essence of God ... and the only thing that man can apprehend of Him is the fact that He exists, and that all positive attributes are inadmissible". We can interpret this statement to mean that no **sufficient** statements can ever be made of God. Instead, all that we have are a succession of **necessary** statements, each of which circumscribes God and tells us with definitiveness (i.e., with a _positive_ knowledge) what God is not, while only 'pointing the way', albeit indirectly, toward what God _is_. No _positive_ knowledge about the essence of God is gained by each additional 'negative attribute', but we can still justly say that these do put us on a path toward true knowledge of God.
 
-If we think of the set of natural numbers {1,2,3,...} and based on our knowledge of this set, we try to define the largest natural number, we run into a similar situation. Let us denote by ∞ something like 'the largest natural number'. What we can we positively assert about ∞? We can make the following necessary statement:
+If we think of the set of natural numbers {1,2,3,...} and based on our knowledge of this set, we try to define the largest natural number, we run into a similar situation. Let us denote by ∞ something like 'the largest natural number'. What can we positively assert about ∞? We can make the following necessary statement:
 
 ∞ > 10
 
