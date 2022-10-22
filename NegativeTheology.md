@@ -13,7 +13,15 @@ If he cannot have any attributes, then how are we to understand the usual statem
 
 A paradigmatic example for (2) is how Maimonides explains the expression 'Living' when used for God. According to him, this being is not like the four elements of sublunary matter (earth, air, fire, water); “we therefore say that it is living, expressing thereby that it is not dead”.
 
-Thus, when we say that God is living, what we are _really_ saying (according to Maimonides) is that God is not dead. But this is a very strange statement to make, because either way it seems that we have made _some_ positive statement about God. So Maimonides' argument seems, at first glance, to be more sophistry with words: he has replaced one positive statement about God, (A) 'that he is living' with a different positive statement, (A') 'that he is not dead'. He is very serious about the deep chasm that exists between asserting A and A' about God. 
+Thus, when we say that God is living, what we are _really_ saying (according to Maimonides) is that God is not dead. But this is a very strange statement to make, because either way it seems that we have made _some_ positive statement about God. So Maimonides' argument seems, at first glance, to be more sophistry with words: he has replaced one positive statement about God, 
+
+(A) 'that he is living' 
+
+with a different positive statement, 
+
+(A') 'that he is not dead'. 
+
+He is very serious about the deep chasm that exists between asserting A and A' about God. 
 
 Asserting A' is one step in the journey toward a true knowledge of God as he is, for he says in [GP I.59](/summaries/I/ch59/), "by each additional negative attribute you advance toward the knowledge of God, and you are nearer to it than he who does not negative [that attribute]".
 
