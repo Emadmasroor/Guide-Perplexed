@@ -23,7 +23,7 @@ with a different positive statement,
 
 He is very serious about the deep chasm that exists between asserting A and A' about God. 
 
-Asserting A' is one step in the journey toward a true knowledge of God as he is, for he says in [GP I.59](/Guide-Perplexed/summaries/I/ch59/), "by each additional negative attribute you advance toward the knowledge of God, and you are nearer to it than he who does not negative [that attribute]".
+Asserting A' is one step in the journey toward a true knowledge of God as He is, for Maimondies says in [GP I.59](/Guide-Perplexed/summaries/I/ch59/), "by each additional negative attribute you advance toward the knowledge of God, and you are nearer to it than he who does not negative [that attribute]".
 
 However, asserting A puts one in grave error. If we truly assert A, we begin to believe in an attribute-full God, and for Maimonides, "he who affirms attributes of God ... unconsciously loses his belief in God" ([GP I.60](/Guide-Perplexed/summaries/I/ch60/)).
 
