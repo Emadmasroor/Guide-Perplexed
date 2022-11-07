@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Negative Theology
-permalink: /negative-theology
+order: 2
 nav: true
 ---
 
