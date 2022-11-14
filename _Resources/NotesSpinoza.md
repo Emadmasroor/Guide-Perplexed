@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Notes on Spinoza
-order: 2
+order: 3
 nav: true
 ---
 
