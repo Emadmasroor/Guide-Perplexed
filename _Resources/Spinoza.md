@@ -75,3 +75,33 @@ Although Maimonides differs from Spinoza in the _conclusion_ which is stated her
 ----
 
 ![image](/Guide-Perplexed/assets/memev2.jpg){:style="float: left"; width="200"}
+
+----
+## Spinoza on Jesus
+
+Most of my thoughts on this topic are indebted to Melamed, Yitzhak. "“Christus secundum spiritum”: Spinoza, Jesus and the infinite intellect." Jesus among the Jews. Routledge, 2012. 152-163. In fact, I am not sure if there's anything new I'm going to say here.
+
+Spinoza's views on Jesus are somewhat enigmatic. His 'God' is nothing like the usual God of the Abrahamic faiths, and so we would expect, at first glance, that a God who does not even possess a will, much less a 'personality', cannot possibly have much to do with the Christian God who manifests himself in the person of Jesus, walks around, and interacts with humans. At the same time, however, his works _do_ include references to Christ; the _Ethics_ uses the word 'Christ' at least once, and the _Theoloigcal-Political Treatise_ uses the word several times. What, exactly, does Spinoza understand by Jesus?
+
+Harry Wolfson, toward the end of his monumental work on Spinoza, describes the following moving scene.
+
+> And I can picture him, once of a Sunday, at the invitation of the good old Doctor, taking the services in the church. He preaches a sermon which is an invective against what he styles "the prejudices of the theologians of our time." ' In it he inveighs against prevailing credulous beliefs in the spirituality of God, His  personal relation to men. His direct guidance of human affairs, the divine origin of the Scriptures, human freedom of the will, the separability of soul from body, and the survival of the soul after death as an individual entity. The sermon over, he pauses and says, "Now let us pray." And in his prayer he thanks God, "the creator of the universe," for His bountiful goodness; he begs for the forgiveness of "our sins," asks for divine enlightenment in the true understanding of "Thy revealed Word," and petitions for divine grace in "guiding us" in the paths of righteousness, to the end that "we may inherit" life everlasting and enjoy eternal bliss in the presence of "Thy glory." As he is about to close his prayer, he catches a glimpse of the congregation and suddenly realizes that he is in a Christian church. Immediately he adds: " In the name of Christ, the mouth of God,' whose spirit is the idea of God, which alone leads us unto liberty, salvation, blessedness, and regeneration. Amen."
+
+Wolfson has succeeded in the unthinkable: he has crafted from the words of the "atheist" (see: Nadler) and heretical (see: the Portuguese Synagogue of Amsterdam, going strong for 400-ish years) Spinoza a pious and even Christian sermon. Clearly, for Spinoza, Jesus' spirit if the 'idea of God', which --- if we take some linguistic latitude and interpret this as meaning 'the Word of God', or the _λόγος_ --- means that Spinoza is happy to think of Jesus Christ as being the Word of God. But what does this mean? Does this mean that Spinoza essentially agrees with John 1? Let us start from John 1 in its most strongly Homoousistic form, and through a series of substitutions arrive at the words of Spinoza.
+
+1. Word = God
+2. Christ = God (substitute Christ for Word)
+3. spirit of Christ = God (substitute 'spirit of Christ' for Christ)
+4. spirit of Christ = idea of God (substitute 'idea of God' for God)
+
+Thus, it would be a stretch to say that Spinoza's identification of the spirit of Christ with the idea of God is in agreement with the words of John 1, and even more of a stretch to say that he is in agreement with the 'consubstantial with God' of the Nicene creed. There seems to be little room in Spinoza's thought for a God who can become incarnate as a human being; it must have been in tacit response to the Christian understanding of Jesus that he wrote in one of his letters (LVI), "A triangle, if only it had the power of speech, would say in like manner that God is eminently triangular". The pedigree of this idea apparently goes all the way to [Xenophanes](https://en.wikipedia.org/wiki/Xenophanes), quoted on p.451 of _The Correspondence of Spinoza_, quoting from Burnet _Early Greek Philosophy_.
+
+Henry Oldenburg (Letter LXXIV) put the question to Spinoza clearly:
+> Moreover they say that you conceal your opinion of Jesus Christ, the Redeemer of the world, and the only Mediator for mankind, and of his Incarnation and Atonement; and they want you to open your mind clearly on [this head].
+
+and Spinoza's reply:
+> it is not entirely necessary to salvation to know Christ according to the flesh
+
+suggests that he does not really believe that being a follower of the person, Jesus, is important to 'salvation', i.e., is an important part of 'true religion', such as it is.
+
+
