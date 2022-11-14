@@ -79,7 +79,9 @@ Although Maimonides differs from Spinoza in the _conclusion_ which is stated her
 ----
 ## Spinoza on Jesus
 
-Most of my thoughts on this topic are indebted to Melamed, Yitzhak. "“Christus secundum spiritum”: Spinoza, Jesus and the infinite intellect." Jesus among the Jews. Routledge, 2012. 152-163. In fact, I am not sure if there's anything new I'm going to say here.
+Most of my thoughts on this topic are indebted to Melamed, Yitzhak. "“Christus secundum spiritum”: Spinoza, Jesus and the infinite intellect." Jesus among the Jews. Routledge, 2012. 152-163. In fact, I am not sure if there's anything new I'm going to say here. 
+
+slightly important **disclaimer** for the reader: I don't claim to believe any of these things lol. 
 
 Spinoza's views on Jesus are somewhat enigmatic. His 'God' is nothing like the usual God of the Abrahamic faiths, and so we would expect, at first glance, that a God who does not even possess a will, much less a 'personality', cannot possibly have much to do with the Christian God who manifests himself in the person of Jesus, walks around, and interacts with humans. At the same time, however, his works _do_ include references to Christ; the _Ethics_ uses the word 'Christ' at least once, and the _Theoloigcal-Political Treatise_ uses the word several times. What, exactly, does Spinoza understand by Jesus?
 
@@ -99,9 +101,34 @@ Thus, it would be a stretch to say that Spinoza's identification of the spirit o
 Henry Oldenburg (Letter LXXIV) put the question to Spinoza clearly:
 > Moreover they say that you conceal your opinion of Jesus Christ, the Redeemer of the world, and the only Mediator for mankind, and of his Incarnation and Atonement; and they want you to open your mind clearly on [this head].
 
-and Spinoza's reply:
-> it is not entirely necessary to salvation to know Christ according to the flesh
+and Spinoza's reply,
+> it is not entirely necessary to salvation to know Christ according to the flesh ...
 
-suggests that he does not really believe that being a follower of the person, Jesus, is important to 'salvation', i.e., is an important part of 'true religion', such as it is.
+suggests that he does not really believe that being a follower of the person, Jesus, is important to 'salvation', i.e., he does not believe that this is an important part of 'true religion', such as it is.
+
+He then continues,
+> ... but we must think far otherwise of the eternal son of God, that is, the eternal wisdom of God ...
+
+'far otherwise' here means that Spinoza thinks that it is **definitely** important for salvation to know 'the eternal son of God', the Word that was with God from the beginning, the _logos_ that undergirds all reality, and the divine Wisdom that is identical with the essence of God. So far so good: Spinoza identifies an entity ("the eternal son of God, i.e., the eternal wisdom of God") which Christians can take to mean Jesus, whereas Spinoza could take to mean something different. But then he goes on:
+> ... which has manifested itself in all things, more especially in the human mind, and most of all in Christ Jesus.
+
+so the eternal wisdom of God is not something _outside_ the Universe; the eternal wisdom of God manifests itself in the entire Universe; _everything_ can be considered a manifestation of the eternal wisdom of God. We can set up a hierarchy, consisting of ever more restricted spheres within which we can understand the world:
+
+1. **God**
+2. the eternal **wisdom of God** (a.k.a. the 'eternal son of God')
+3. which has manifested itself in **all things**
+4. more especially in the **human mind**
+5. and most of all in **Christ Jesus**
+
+Thus, Jesus qua human is not that important for salvation; one might or might not 'know' Jesus in that sense. But it _is_ important to 'know Christ according to the spirit', as Yitzhak Melamed would say. But for this it is important to simply know the 'eternal wisdom of God' which is available to all of us, since it "has manifested itself in all things, more especially in the human mind". 
+
+
+> For without this wisdom no one can attain to a state of blessendess, inasmuch as it alone teaches what is true and what is false, what is good and what is evil.
+
+The 'Word' comes pre-inscribed in the works of God, especially in our own minds, and it should (in theory) be possible to discover the idea of God and gain a correct understanding of truth and righteousness and be led into salvation, blessedness and everlasting life without having known Jesus.
+
+> For the rest, as to the doctrine which certain Churches add to these, namely, that God assumed human nature, I expressly warned them that I do not understand what they say. Indeed, to confess the truth, they seem to me to speak no less absurdly than if some one were to tell me that a circle had assumed the nature of a square.
+
+He ends the note by saying "Whether this opinion will please the Christians whom you know, you will be able to judge better than I can."
 
 
