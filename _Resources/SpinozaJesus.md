@@ -9,7 +9,7 @@ nav: true
 
 Most of my thoughts on this topic are indebted to Melamed, Yitzhak. "“Christus secundum spiritum”: Spinoza, Jesus and the infinite intellect." Jesus among the Jews. Routledge, 2012. 152-163. In fact, I am not sure if there's anything new I'm going to say here. 
 
-slightly important **disclaimer** for the reader: I don't claim to believe any of these things lol. 
+**disclaimer**: The arguments in this section are not my own, and only consist of an attempt to understand Spinoza's understanding. 
 
 Spinoza's views on Jesus are somewhat enigmatic. His 'God' is nothing like the usual God of the Abrahamic faiths, and so we would expect, at first glance, that a God who does not even possess a will, much less a 'personality', cannot possibly have much to do with the Christian God who manifests himself in the person of Jesus, walks around, and interacts with humans. At the same time, however, his works _do_ include references to Christ; the _Ethics_ uses the word 'Christ' at least once, and the _Theoloigcal-Political Treatise_ uses the word several times. What, exactly, does Spinoza understand by Jesus?
 
