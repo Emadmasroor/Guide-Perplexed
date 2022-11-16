@@ -5,8 +5,6 @@ order: 4
 nav: true
 ---
 
-## Spinoza on Jesus
-
 Most of my thoughts on this topic are indebted to Melamed, Yitzhak. "“Christus secundum spiritum”: Spinoza, Jesus and the infinite intellect." Jesus among the Jews. Routledge, 2012. 152-163. In fact, I am not sure if there's anything new I'm going to say here. 
 
 **disclaimer**: The arguments in this section are not my own, and only consist of an attempt to understand Spinoza's understanding. 
