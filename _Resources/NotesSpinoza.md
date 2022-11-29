@@ -70,3 +70,7 @@ But in at least two of the three places in the _Ethics_ where Spinoza uses this 
 Although Maimonides differs from Spinoza in the _conclusion_ which is stated here (for Maimonides, God _does not_ act by necessity but has free will), notice that the two preceding premises are entirely shared between them.
 1. "Nature does not work with an end in view". This is an opinion which was strongly held by Maimonides, and in Part III ...
 2. the actions of God and the actions of Nature are one and the same. This was stated explicitly by Maimonides in [GP.III.32](https://www.sefaria.org/Guide_for_the_Perplexed%2C_Part_3.32.1?lang=en).
+
+---
+
+![image](/Guide-Perplexed/assets/meme1.gif){:style="float: left"; width="300"}
