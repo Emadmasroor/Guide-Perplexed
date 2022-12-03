@@ -7,7 +7,9 @@ nav: true
 
 ### Marvin Fox
 
-**Fox, Marvin**. _Interpreting Maimonides: Studies in Methodology, Metaphysics, and Moral Philosophy_. University of Chicago Press, 1995. This book begins, in its first chapter 'The Many-sided Maimonides', with the observation that "It is remarkable that despite the vast literature on many aspects of the work of Moses Maimonides, we do not have even one comprehensive study of his thought that compares in quality and scope to the great works that have been written on almost every important Western philosopher." He then cites several such comprehensive studies, e.g., Wolfson's _Philosophy of Spinoza_. This is despite the fact that, "in the eight hundred years since the _Guide_ first appeared, there has never been a time when interest in the _Guide_ was absent ... Maimonides has never disappeared from the Jewish scholarly agenda."
+**Fox, Marvin**. _Interpreting Maimonides: Studies in Methodology, Metaphysics, and Moral Philosophy_. University of Chicago Press, 1995. 
+
+This book begins, in its first chapter 'The Many-sided Maimonides', with the observation that "It is remarkable that despite the vast literature on many aspects of the work of Moses Maimonides, we do not have even one comprehensive study of his thought that compares in quality and scope to the great works that have been written on almost every important Western philosopher." He then cites several such comprehensive studies, e.g., Wolfson's _Philosophy of Spinoza_. This is despite the fact that, "in the eight hundred years since the _Guide_ first appeared, there has never been a time when interest in the _Guide_ was absent ... Maimonides has never disappeared from the Jewish scholarly agenda."
 
 Marvin Fox attributes this to the esoteric nature of the _Guide_, and to the seemingly conflicting ideological commitments which Maimonides seems to espouse in his philosophical writing. There is also the matter of Maimonides' towering stature in the Jewish (and broad mediaeval) canon, which makes it a weighty task to claim to give an authoritative account of his thought. The result, Fox says, is that "We still cannot say with certainty just what could be considered a thoroughly reliable account of Maimonides' doctrines".
 
@@ -17,14 +19,18 @@ In my estimation, Marvin Fox's book represents the best that a Maimonides _tafsi
 
 ### Herbert Davidson
 
-**Davidson, Herbert A**. _Moses Maimonides: the man and his works_. Oxford University Press on Demand, 2005. This book has a different flavor; the author is not as abashedly a disciple of the Great Eagle as Marvin Fox declares himself to be. It's different in at least two ways:
+**Davidson, Herbert A**. _Moses Maimonides: the man and his works_. Oxford University Press on Demand, 2005. 
+
+This book has a different flavor; the author is not as abashedly a disciple of the Great Eagle as Marvin Fox declares himself to be. It's different in at least two ways:
 - For one thing, Davidson works much more methodically and matter-of-factly than Marvin Fox. You get the sense that he is a 'no-nonsense' writer, who has before him a subject and works through his subject matter like a thorough scholar. In contrast, Marvin Fox writes almost like a hagiographer (though he is no less 'scholarly' than Davidson), one who is in awe of Maimonides. You don't get this sense from Davidson.
 - The second difference is that Davidson covers both his rabbinic work and his philosophical and medical work.
 - Davidson is almost critical of Maimonides when he writes about his philosophical work. He claims, for instance, that Maimonides was not as well-read in Aristotle as people have often assumed, or as much as he seems to imply in his own writing. He does this by examining the materials available to Maimonides based on the records that we have; unless more information comes to light, he may be right in his conclusions, which are rather deflating ... (more to come)
 
 ### Oliver Leaman
 
-**Leaman, Oliver**. _Moses Maimonides_. Routledge, 2013. This is a really perceptive and thoughtful book about Maimonides' thought. It starts with a chapter on "How can we talk about God?" which delves deep into the weeds about the fact that Maimonides' God is so utterly removed from our earthly existence that he seems impossibly remote; if God cannot even be described by words, then can we say anything at all about him? Clearly, as a believer in revelation, Maimonides thinks that we _can_, but his theology seems on the surface to be extremely uncompromising and seems to leave little room for saying anything very meaningful about God.
+**Leaman, Oliver**. _Moses Maimonides_. Routledge, 2013. 
+
+This is a really perceptive and thoughtful book about Maimonides' thought. It starts with a chapter on "How can we talk about God?" which delves deep into the weeds about the fact that Maimonides' God is so utterly removed from our earthly existence that he seems impossibly remote; if God cannot even be described by words, then can we say anything at all about him? Clearly, as a believer in revelation, Maimonides thinks that we _can_, but his theology seems on the surface to be extremely uncompromising and seems to leave little room for saying anything very meaningful about God.
 
 I like how intellectually honest this book is: it presents serious intellectual challenges, and does not pretend to necessarily solve them. Instead, it gives us a thorough account of what Maimonides said, the different ways in which we can make sense of what he said, and the questions it leaves open. He also does a good job of placing Maimonides in the greater Arabophone and Islamic-philosophical context, exaplaining at length how and in what manner Maimonides engaged with the various _Kalam_ schools.
 
