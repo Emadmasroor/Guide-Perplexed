@@ -5,7 +5,6 @@ permalink: /resources
 nav: true
 ---
 
-This is a test page. List all the resources
 
 {% assign orderedlist = site.Resources | sort:"order" %}
 {% for entry in orderedlist %}
