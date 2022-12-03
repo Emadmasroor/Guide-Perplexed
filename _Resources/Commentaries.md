@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Commentaries on the _Guide_
+title: Commentaries on the Guide
 order: 5
 nav: true
 ---
