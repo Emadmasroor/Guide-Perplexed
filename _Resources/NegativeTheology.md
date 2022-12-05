@@ -24,6 +24,7 @@ So, according to Maimonides, if we are to apply the qualities usually attributed
 
 Some of the problems that arise due to a rigorous application of the idea that God does not have attributes are exemplified by the term 'existence'. God's existence is usually the most important fact about Him; after all, religion requires the existence (rather than a non-existence) of a God. But in general, "existence is an attribute for the existent (أن الوجود عارض للموجود)", and so, if we apply Maimonides' principle, we would not be able to predicate 'existence' of God, since that would be an attribute. Maimonides does not shrink from this conclusion, and would agree that existence cannot be predicated of God. However, the _shaykh al-ra'ees_ teaches that God is the entity for whom existence is identical with his essence, which is to say that his essence _is_ existence. This means that there is no need to predicate existence of God (and, properly speaking, we cannot.) Well, Maimonides has found a way to keep _this_ ostensible attribute for God without predicating it of God, since it is ~~part of~~ identical to his essence itself. But what about the others?
 
+Maimonides' answer to the others 
 
 
 ---
