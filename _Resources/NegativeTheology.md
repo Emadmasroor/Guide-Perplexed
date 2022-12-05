@@ -5,6 +5,19 @@ order: 2
 nav: true
 ---
 
+Maimonides is one of the proponents of `apophatic' theology, i.e., a `negative theology' in which nothing can be predicated of God and only negative statements can be made about Him. He develops this idea in close connection with the rest of his theology largely in Part I of the \textit{Guide for the Perplexed}. In fact, we can read the entire first part of the \textit{Guide} as a demonstration of apophatic theology in practice, i.e., a process of getting to know God through a series of negative --- rather than positive --- statements. In GP.I.55, he sets out a scheme for this as follows:
+
+> it is necessary to demonstrate by proof that nothing can be predicated of God that implies any of the following four things: 1) corporeality, 2) emotion or change, 3) nonexistence --- e.g., that something would be potential at one time and real at another --- and 4) similarity with any of His creatures. (numbering added)
+
+In the following two chapters, Maimonides stakes his position on the Ashari/Mutazilite debate about essential attributes of God. He follows a hard Mutazilite position by denying the existence of any essential attributes in God, arguing for a simple Unity which admits no internal differentiation. He is critical of what Oliver Leaman has called a `Superman' view of God, declaring
+
+> It cannot be said, as they practically believe, that His existence is only more stable, His life more permanent, His power greater, His wisdom more perfect, and His will more general than ours, and that the same definition applies to both. This is in no way admissible, for the expression “more than” is used in comparing two things as regards a certain attribute predicated of both of them in exactly the same sense, and consequently implies similarity [between God and His creatures]. 
+
+So, according to Maimonides, if we are to apply the qualities usually attributed to God in the Abrahamic faiths, such as Life, Power, Wisdom, etc., we must do so with the recognition that we are using terms 'equivocally', i.e., with entirely different meanings than when we use these terms in ordinary usage about, e.g., a human being. Believing that God has Power in the same way that we have power, but to an infinite degree, would violate the simplicity and `beyond-compare-ness' of God. Thus, while Maimonides does not go so far as to do away with these terms (Life, Power, Wisdom, etc.), he does render our usage of these terms quite empty of meaning. If these terms are to be used about God, they must carry \emph{some} meaning, but Maimonides insists that the mental content of these words (pace Alexander Key) when applied to God is emphatically not the normal linguistic meaning. What, then, do these terms mean? We will see that Maimonides' negative theology, which he has not yet stated at this point in the \emph{Guide}, provides the answer to this question. 
+
+
+---
+
 In _Guide for the Perplexed_, Maimonides makes very strong statements regarding Negative Theology. The gist of his argument is this: no positive statements can be made about God, only negative ones. This is an important plank in his stance that God does not have any essential attributes; i.e., God is a uniate substance, simple and devoid of any multiplicity. For Maimonides, this 'lack of multiplicity' implies that God must not have any attributes.
 
 If he cannot have any attributes, then how are we to understand the usual statements that are made about God, such as, e.g., that he is Living, Wise, and Powerful? For Maimonides, these three 'attributes' are
