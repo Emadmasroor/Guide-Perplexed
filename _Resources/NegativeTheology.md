@@ -5,8 +5,8 @@ order: 2
 nav: true
 ---
 
-Maimonides is one of the proponents of 'apophatic' theology, i.e., a 'negative theology' in which nothing can be predicated of God and only negative statements can be made about Him. He develops this idea in close connection with the rest of his theology largely in Part I of the _Guide for the Perplexed_. In fact, we can read the entire first part of the _Guide_ as a demonstration of apophatic theology in practice, i.e., a process of getting to know God through a series of negative --- rather than positive --- statements. 
 
+Maimonides is one of the proponents of 'apophatic' theology, i.e., a 'negative theology' in which nothing can be predicated of God and only negative statements can be made about Him. He develops this idea in close connection with the rest of his theology largely in Part I of the _Guide for the Perplexed_. In fact, we can read the entire first part of the _Guide_ as a demonstration of apophatic theology in practice, i.e., a process of getting to know God through a series of negative --- rather than positive --- statements. 
 
 In the Islamic theological debate between Ashari and Mutazili theologians, Maimonides takes a strong Mutazili position by denying the possibility of attributes in God. He does so developing a systematic analysis of what kinds of attributes can be predicated of a subject, and ruling out each of them in turn. These are:
 1. a definition
@@ -25,7 +25,9 @@ So, according to Maimonides, if we are to apply the qualities usually attributed
 
 Some of the problems that arise due to a rigorous application of the idea that God does not have attributes are exemplified by the term 'existence'. God's existence is usually the most important fact about Him; after all, religion requires the existence (rather than a non-existence) of a God. But in general, "existence is an attribute for the existent (أن الوجود عارض للموجود)", and so, if we apply Maimonides' principle, we would not be able to predicate 'existence' of God, since that would be an attribute. Maimonides does not shrink from this conclusion, and would agree that existence cannot be predicated of God. However, the _shaykh al-ra'ees_ teaches that God is the entity for whom existence is identical with his essence, which is to say that his essence _is_ existence. This means that there is no need to predicate existence of God (and, properly speaking, we cannot.) Well, Maimonides has found a way to keep _this_ ostensible attribute for God without predicating it of God, since it is ~~part of~~ identical to his essence itself. But what about the others?
 
-Maimonides' answer to the other typical attributes uses the following formula: God
+> To that being ... which has truly simple, absolute existence, and in which composition is inconceivable, the accident of unity is as inadmissible as the accident of plurality; that is to say, God’s unity is not an element superadded, but He is One without possessing the attribute of unity.
+
+Maimonides' answer to the other typical attributes thus uses the following formula: God
 - is one without having the attribute of unity,
 - lives without having the attribute of life,
 - knows, without having the attribute of knowledge,
@@ -33,7 +35,16 @@ Maimonides' answer to the other typical attributes uses the following formula: G
 - is wise without having the attribute of wisdom.
 
 Essentially, this transforms the attributes of unity, life, knowledge, power, and wisdom from _qualities_ of God to _attributes of action_, the only kinds of attributes we can speak of regarding God. It must be remembered, however, that his 'knowing' is not the same as our knowing, his omnipotence is not a stronger version of our own power, and so on. Maimonides acknowledges the linguistic difficulties that his concept of God runs into, stating 
-> It would be extremely difficult for us to find, in any language whatsoever, words adequate to this subject, and we can only employ inadequate language.
+> The investigation of this subject, which is almost too subtle for our understanding, must not be based on current expressions employed in describing it, for these are the great source of error. It would be extremely difficult for us to find, in any language whatsoever, words adequate to this subject, and we can only employ inadequate language.
+
+> Know that the negative attributes of God are the true attributes (أعلم أن وصف الله عز و جل بالسوالب هو الوصف الصحيح): they do not include any incorrect notions or any deficiency whatever in reference to God, while positive attributes imply polytheism (_shirk_ شرك), and are inadequate ... [I will then] explain how negative expressions can in a certain sense be employed as attributes, and how they are distinguished from positive attributes. Then I shall show that we cannot describe the Creator by any means except by negative attributes.
+
+Thus, Maimonides' arguments go something like this:
+1. God cannot have attributes added to his essence
+2. if God can be said to have Life, Power, Wisdom, etc., these words mean something very different from ordinary language: they describe actions, not qualities, and these actions bear no similarity to our normal uses of the terms.
+3. negative expressions can be used as attributes
+4. such negative attributes are the only ones that can be used to describe God
+
 
 
 
