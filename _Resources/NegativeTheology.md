@@ -4,6 +4,31 @@ title: Negative Theology
 order: 2
 nav: true
 ---
+God is NOT like a man --> NOT corporeal --> NOT _like_ anything --> Transcendental.
+
+By negating some of the commonly-held notions about God, for example, that he rules with a power like ours, only infinitely greater, knows with a knowledge that is like ours, only infinitely expansive, we purify our concept of God and, paradoxically, it is this process of negating things about God that tells us what God is. He is not A, not B, not C. Each successive negation tells us something more. Assume we have a Venn diagram that extends to infinity. asserting 'A' specifies a delimited portion of this space. Maimonides tells us that this is not allowed. You can't say God is A because His circumscribes God and prevents him from being infinite. But every time we say 'the set of all {some criterion}', things that don't fulfill the criterion are latent in the definition; they are what I leave out. 
+
+Let X be an infinite space.
+Let A be $x \in X: $ x satisfies some criterion.
+
+Then, according to Maimonides, we are not allowed to make statements of the hind 'God is A'. But we are allowed to say things like 'God is not-A'. (of course, only one of these will be correct, and we'd have to use our judgement to decide what we can rightfully till the placeholder 'A' with. 
+
+As I understand it, the reason why Maimonides says this is simple: statements of the kind f..) 'circumscribe' God, bring the infinite within the grasp of a finite intellect. Statements of the 2nd kind don't claim to define God fully; they only state what God is not; leaving the rest still an infinite region. Thus, Maimoni­des would have us radically re-interpret most of the religious language about God which ever he holds dear. 
+
+For example, when we say 'God is living'. this really means 'God is not dead'. Presumably, Maimonides thinks this is a very important distinction with far-reaching conclusions. Let's consider two statements and their negations:
+
+P: God is living; Q: God is dead
+Pn: God is not living; Qn: God is not dead
+
+ Traditional religious language would affirm P and deny Q. Maimonides also denies Q, but he does not affirm P either, strictly speaking. Instead, he thinks it is not correct to say P; instead, we must say instead Qn. 
+
+However, it is not really clear why Maimonides makes such a fuss about this. Shouldn't the set of Xt X which satisfy P be exactly the same as the set which satisfies Qn ? If P and Q are negations of each other and in all his examples they do seem to be then P and Q together exhaust all possibilities, at least according to the Law of Excluded Middle. We have no reason to believe that Maimonides subscribed to an idiosyncratic theory of logic which did not hold the law of the excluded middle. So what would Maimonides' answer to this objection be? Namely, what would he say to the objection that P and On are identical in all but name? 
+
+I believe that the answer lies in the use made by Maimonides of the conceptual machinery provided by the idea of negative attributes. He does not agree that the negative attributes are just a clever re-wording of the positive attributes. They are different, and they perform different functions than positive ones. According to Maimonides, each successive negative attribute gives us successively more information about God. It brings us closer and closer to a true understanding of the divine; the more you can negative about God, the more you know him. This can be so even though God is an infinite entity that cannot possibly be fully grasped.
+
+...
+
+---
 
 
 Maimonides is one of the proponents of 'apophatic' theology, i.e., a 'negative theology' in which nothing can be predicated of God and only negative statements can be made about Him. He develops this idea in close connection with the rest of his theology largely in Part I of the _Guide for the Perplexed_. In fact, we can read the entire first part of the _Guide_ as a demonstration of apophatic theology in practice, i.e., a process of getting to know God through a series of negative --- rather than positive --- statements. 
