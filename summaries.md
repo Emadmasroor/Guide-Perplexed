@@ -22,6 +22,7 @@ nav: true
       :arrow_up:
   </a>
   <span style="float:right;">
+        <a href="https://archive.org/details/DelalatolHaerin_201804/page/n{{ entry.pnum }}">Arabic on Archive.org</a> &emsp
         <a href="https://www.sefaria.org/Guide_for_the_Perplexed%2C_Part_{{ entry.part }}.{{ entry.chapter }}?lang=en">read on Sefaria</a>
     </span>
   </p>
@@ -45,6 +46,7 @@ nav: true
       :arrow_up:
   </a>
   <span style="float:right;">
+        <a href="https://archive.org/details/DelalatolHaerin_201804/page/n{{ entry.pnum }}">Arabic on Archive.org</a> &emsp
         <a href="https://www.sefaria.org/Guide_for_the_Perplexed%2C_Part_{{ entry.part }}.{{ entry.chapter }}?lang=en">read on Sefaria</a>
     </span>
   </p>
@@ -68,7 +70,7 @@ nav: true
       :arrow_up:
   </a>
   <span style="float:right;">
-        <a href="https://archive.org/details/DelalatolHaerin_201804/page/n{{ entry.pnum }}">Arabic on Archive.org</a>
+        <a href="https://archive.org/details/DelalatolHaerin_201804/page/n{{ entry.pnum }}">Arabic on Archive.org</a> &emsp
         <a href="https://www.sefaria.org/Guide_for_the_Perplexed%2C_Part_{{ entry.part }}.{{ entry.chapter }}?lang=en">read on Sefaria</a>
     </span>
   </p>
