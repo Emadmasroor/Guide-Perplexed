@@ -73,7 +73,7 @@ nav: true
   </a>
   <span style="float:right;">
         Arabic: 
-        <a href="https://archive.org/details/DelalatolHaerin_201804/page/n{{ entry.pnum }}"><img src="/Guide-Perplexed/assets/internetarchive_icon.svg" height=12em></a>
+        <a href="https://archive.org/details/DelalatolHaerin_201804/page/n{{ entry.pnum }}"><img src="/Guide-Perplexed/assets/internetarchive_icon.svg" height=24em></a>
         |English & Hebrew: 
         <a href="https://www.sefaria.org/Guide_for_the_Perplexed%2C_Part_{{ entry.part }}.{{ entry.chapter }}?lang=en"><img src="/Guide-Perplexed/assets/sefaria_icon.svg" height=12em></a>
     </span>
