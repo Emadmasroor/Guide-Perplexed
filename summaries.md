@@ -23,7 +23,7 @@ nav: true
   </a>
   <span style="float:right;">
         <a href="https://archive.org/details/DelalatolHaerin_201804/page/n{{ entry.pnum }}">Arabic on Archive.org</a> &emsp
-        <a href="https://www.sefaria.org/Guide_for_the_Perplexed%2C_Part_{{ entry.part }}.{{ entry.chapter }}?lang=en">read on Sefaria</a>
+        <a href="https://www.sefaria.org/Guide_for_the_Perplexed%2C_Part_{{ entry.part }}.{{ entry.chapter }}?lang=en">English & Hebrew Sefaria</a>
     </span>
   </p>
   <p>{{ entry.content | markdownify }}</p>
@@ -47,7 +47,7 @@ nav: true
   </a>
   <span style="float:right;">
         <a href="https://archive.org/details/DelalatolHaerin_201804/page/n{{ entry.pnum }}">Arabic on Archive.org</a> &emsp
-        <a href="https://www.sefaria.org/Guide_for_the_Perplexed%2C_Part_{{ entry.part }}.{{ entry.chapter }}?lang=en">read on Sefaria</a>
+        <a href="https://www.sefaria.org/Guide_for_the_Perplexed%2C_Part_{{ entry.part }}.{{ entry.chapter }}?lang=en">English & Hebrew on Sefaria</a>
     </span>
   </p>
   <p>{{ entry.content | markdownify }}</p>
@@ -71,7 +71,7 @@ nav: true
   </a>
   <span style="float:right;">
         <a href="https://archive.org/details/DelalatolHaerin_201804/page/n{{ entry.pnum }}">Arabic on Archive.org</a> &emsp
-        <a href="https://www.sefaria.org/Guide_for_the_Perplexed%2C_Part_{{ entry.part }}.{{ entry.chapter }}?lang=en">read on Sefaria</a>
+        <a href="https://www.sefaria.org/Guide_for_the_Perplexed%2C_Part_{{ entry.part }}.{{ entry.chapter }}?lang=en">English & Hebrew on Sefaria</a>
     </span>
   </p>
   <p>{{ entry.content | markdownify }}</p>
