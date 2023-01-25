@@ -74,7 +74,7 @@ nav: true
   <span style="float:right;">
         <a href="https://archive.org/details/DelalatolHaerin_201804/page/n{{ entry.pnum }}">Arabic on Archive.org</a>
         |
-        <a href="[link address](https://www.sefaria.org/Guide_for_the_Perplexed%2C_Part_{{ entry.part }}.{{ entry.chapter }}?lang=en)"><img src="/Guide-Perplexed/assets/sefaria_icon.svg"></a>
+        <a href="https://www.sefaria.org/Guide_for_the_Perplexed%2C_Part_{{ entry.part }}.{{ entry.chapter }}?lang=en"><img src="/Guide-Perplexed/assets/sefaria_icon.svg" height=1em></a>
         |
         <a href="https://www.sefaria.org/Guide_for_the_Perplexed%2C_Part_{{ entry.part }}.{{ entry.chapter }}?lang=en">English & Hebrew on Sefaria</a>
     </span>
