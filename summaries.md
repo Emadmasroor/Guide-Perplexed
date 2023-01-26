@@ -22,9 +22,10 @@ nav: true
       :arrow_up:
   </a>
   <span style="float:right;">
-        <a href="https://archive.org/details/DelalatolHaerin_201804/page/n{{ entry.pnum }}">Arabic on Archive.org</a>
-        |
-        <a href="https://www.sefaria.org/Guide_for_the_Perplexed%2C_Part_{{ entry.part }}.{{ entry.chapter }}?lang=en">English & Hebrew Sefaria</a>
+        Arabic: 
+        <a href="https://archive.org/details/DelalatolHaerin_201804/page/n{{ entry.pnum }}"><img src="/Guide-Perplexed/assets/internetarchive_icon.svg" height=24em></a>
+        |English & Hebrew: 
+        <a href="https://www.sefaria.org/Guide_for_the_Perplexed%2C_Part_{{ entry.part }}.{{ entry.chapter }}?lang=en"><img src="/Guide-Perplexed/assets/sefaria_icon.svg" height=12em></a>
     </span>
   </p>
   <p>{{ entry.content | markdownify }}</p>
@@ -47,9 +48,10 @@ nav: true
       :arrow_up:
   </a>
   <span style="float:right;">
-        <a href="https://archive.org/details/DelalatolHaerin_201804/page/n{{ entry.pnum }}">Arabic on Archive.org</a>
-        |
-        <a href="https://www.sefaria.org/Guide_for_the_Perplexed%2C_Part_{{ entry.part }}.{{ entry.chapter }}?lang=en">English & Hebrew on Sefaria</a>
+       Arabic: 
+        <a href="https://archive.org/details/DelalatolHaerin_201804/page/n{{ entry.pnum }}"><img src="/Guide-Perplexed/assets/internetarchive_icon.svg" height=24em></a>
+        |English & Hebrew: 
+        <a href="https://www.sefaria.org/Guide_for_the_Perplexed%2C_Part_{{ entry.part }}.{{ entry.chapter }}?lang=en"><img src="/Guide-Perplexed/assets/sefaria_icon.svg" height=12em></a>
     </span>
   </p>
   <p>{{ entry.content | markdownify }}</p>
