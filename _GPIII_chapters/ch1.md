@@ -4,6 +4,7 @@ title: 1-7
 part: 3
 chapter: 1
 highlights: commentary on Ezekiel
+pnum: 501
 nav: true
 ---
 
