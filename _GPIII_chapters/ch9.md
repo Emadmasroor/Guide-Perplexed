@@ -4,6 +4,7 @@ title: Chapter 9
 part: 3
 chapter: 9
 highlights: immateriality of God
+pnum: 529
 nav: true
 ---
 
