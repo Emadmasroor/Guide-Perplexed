@@ -4,6 +4,7 @@ title: Chapter 8
 part: 3
 chapter: 8
 highlights: matter and form
+pnum: 523
 nav: true
 ---
 
