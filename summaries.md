@@ -11,7 +11,7 @@ nav: true
 {% for entry in sorted_chapters %}
   <h3>
     <a href="{{site.baseurl}}{{entry.url}}">
-      {{ entry.title }}
+      Part I, {{ entry.title }}
     </a>
   {% if entry.highlights %}
     ({{ entry.highlights }})
@@ -37,7 +37,7 @@ nav: true
 {% for entry in sortedchapters %}
   <h3>
     <a href="{{site.baseurl}}{{entry.url}}">
-      {{ entry.title }}
+      Part II, {{ entry.title }}
     </a>
   {% if entry.highlights %}
     ({{ entry.highlights }})
@@ -63,7 +63,7 @@ nav: true
 {% for entry in sortedchapters %}
   <h3>
     <a href="{{site.baseurl}}{{entry.url}}">
-      {{ entry.title }}
+      Part III, {{ entry.title }}
     </a>
   {% if entry.highlights %}
     ({{ entry.highlights }})
