@@ -2,8 +2,8 @@ title: Maimonides' Guide for the Perplexed
 author: Emad Masroor  
 
 description: >- # this means to ignore newlines until "baseurl:"
-  This website is for a personal commentary on 
-  Maimonides' Guide for the Perplexed
+  This website is for a personal summary of 
+  and commentary on Maimonides' Guide for the Perplexed
 baseurl: "/Guide-Perplexed" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 email: emadmasroor@gmail.com
