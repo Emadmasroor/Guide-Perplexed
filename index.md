@@ -5,7 +5,7 @@
 layout: home
 ---
 
-This is a website about a book written more than 800 years ago by an Iberian Jewish doctor in Fatimid/Ayubid Cairo, in classical Arabic using the Hebrew script. People are _still_ writing entire monographs and filling the pages of many a research journal to understand it.
+This is a website about a book written more than 800 years ago by an Iberian Jewish doctor in Fatimid/Ayubid Cairo, in classical Arabic using the Hebrew script.
 
 # Introduction to the Guide 
 This book begins with the following phrase
