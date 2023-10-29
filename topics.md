@@ -14,7 +14,6 @@ Hello, world
     {% if page.keywords contains tag %}
       <h2>{{ page.title }}</h2>
         {{ page.content }}
-        Hello, world
     {% endif %}
   {% endfor %}
 {% endfor %}
