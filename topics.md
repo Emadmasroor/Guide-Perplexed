@@ -7,7 +7,7 @@ nav: true
 
 Hello, world
 
-{% assign tags =  site.collections | map: 'keywords' | uniq %}
+{% assign tags =  site.GPI_chapters | map: 'keywords' | uniq %}
 {% for tag in tags %}
   <h3>{{ tag }}</h3>
 {% endfor %}
