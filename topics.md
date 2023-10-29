@@ -13,7 +13,6 @@ Hello, world
   {% for page in site.GPI_chapters %}
     {% if page.keywords contains tag %}
       <h2>{{ page.title }}</h2>
-        {{page.title}} contains keyword {{ tag }}. We reproduce the text of this chapter below:
         {{ page.content }}
     {% endif %}
   {% endfor %}
