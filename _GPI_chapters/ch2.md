@@ -4,6 +4,7 @@ title: Chapter 2
 part: 1
 chapter: 2
 nav: true
+keywords: something
 ---
 
 A questioner once asked Maimonides: How is it that the punishment for Adam's sin (i.e., eating from the forbidden tree) resulted in the granting to mankind of that unique faculty which gives us precedence (فوقیت) over all other created beings, i.e. the ability to distinguish between good and evil?
