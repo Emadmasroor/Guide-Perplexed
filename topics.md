@@ -7,7 +7,7 @@ nav: true
 
 Hello, world
 
-{% assign tags =  site.GPI_chapters map: 'keywords' | join: ','  | split: ',' | uniq %}
+{% assign tags =  site.GPI_chapters | map: 'keywords' | join: ','  | split: ',' | uniq %}
 {% for tag in tags %}
   <h1>{{ tag }}</h1>
   {% for page in site.GPI_chapters %}
