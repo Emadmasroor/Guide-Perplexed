@@ -4,7 +4,7 @@ title: Chapter 3
 part: 1
 chapter: 3
 nav: true
-keywordS: otherthing
+keywords: otherthing
 ---
 
 This short chapter explains the apparent anthropomorphism in [Numbers XII 8](https://www.sefaria.org/Numbers.12.8): "and the similitude (_tavnit_ תבנית) of the Lord shall he behold".
