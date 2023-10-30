@@ -9,10 +9,10 @@ Hello, world
 
 {% assign tags =  site.GPI_chapters | map: 'keywords' | join: ','  | split: ',' | uniq %}
 {% for tag in tags %}
-  <h1>{{ tag }}</h1>
+  {{ tag }}
   {% for page in site.GPI_chapters %}
     {% if page.keywords contains tag %}
-      <h2>{{ page.title }}</h2>
+      {{ page.title }}
         {{ page.content }}
     {% endif %}
   {% endfor %}
