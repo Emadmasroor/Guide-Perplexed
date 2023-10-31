@@ -4,7 +4,7 @@ title: Chapter 1
 part: 1
 chapter: 1
 nav: true
-keywords: something, otherthing
+keywords: something,otherthing
 ---
 
 In chapter 1, Maimonides begins with a discussion of the phrase "Let us make man in our image" from [Genesis 1:26](https://www.sefaria.org/Genesis.1.26), and writes about how the use of the word "image" (Arabic: صورة ; Hebrew: צלם) misleads people into thinking that the Bible describes a corporeal God. In other words, a literal reading of the Torah seems to suggest that God has a body with a face and limbs.
