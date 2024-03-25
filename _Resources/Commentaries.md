@@ -50,3 +50,30 @@ The first option leads to a rationally-grounded belief system, which is the path
 This article looks at three different "Jewish strategies" toward the problem of Theodicy. The third one is what interests us here.
 
 > On Cohen's understanding of Maimonides (and through Maimonides, of authentic Judaism), divine attributes are to be understood as moral ideals. In general, given any simple, affIrmative predicate, P, what it means to say that God is P is that God is not Q, where Q is the complement of P. Hence, to say that God is good means that He is not bad, that He is powerful means that He is not weak, etc. The problem is, however, that to be able to predicate any P of God would render God-talk unintelligible, for why can we not say God is Q, which correctly means that literally God is not P, since no attribute literally understood can be predicated of God? Maimonides' answer is that we may predicate of God only those attributes that the Torah affirms of Him, and the reason why Scripture sayswhat it says is because the affirmed attributes are all human excellences. In other words, all statements about God are in reality disguised moral imperatives, where a statement of the narrative form, "God is P" means the commandment, "Strive to become P." 'What links the declaration to the imperative is the principle of holiness, viz., "You shall be holy as I the Lord your God am holy" ([Lev 19:2](https://sefaria.org/Leviticus.19.2)). In other words, the content of theological statements about God is entirely ethical, and the religion of the people of Israel who proclaim them is a political program to redeem the world. This Cohenian reading of Maimonides' theology has informed all subsequent Jewish theology.
+
+### Alfred Ivry
+
+**Ivry, Alfred L.**. _Maimonides' Guide of the Perplexed: A Philosophical Guide_. University of Chicago Press, 2016. 
+
+Alfred Ivry's masterful work revives the long tradition of textual commentaries on the Guide. To my knowledge, it is the first chapter-by-chapter, systematic _commentary_ on the Guide in the English language since Leo Strauss' introduction to Shlomo Pines' translation. 
+
+This book is divided into sections that follow the order of the Guide, but the sections are arranged according to Ivry's own systematization. Each section consists of a _paraphrase_ section and an _analysis_ section, where the paraphrase is marked by vertical lines running along the margins of the text. The sections he divides the Guide into are:
+1. Wrestling with Language
+2. Kalam claims and counterclaims
+3. Philosophy affirmed and qualified; Creation
+4. Prophecy
+5. The metaphysics of the chariot
+6. Providence and (Apparent) Evil
+7. Rationalizing the Law
+8. True Knowledge and Perfection
+
+In my opinion, what makes Alfred Ivry's 'Philosophical Guide' a distinctive contribution to the commenatarial tradition is that his Maimonides is somewhat _human_. For Ivry, the Rambam himself was one of the 'perplexed' for whom the Guide was written. Ivry teases out from within the intricate structure of the Guide a story of a man who began writing _dalalat al-ha'irin_ thinking that he was going to _prove_, definitively, the truths of scripture using the intellectual machinery of the Graeco-Arabic philosophical tradition. In the course of writing the book, however, Maimonides finds his own commitments challenged, both his philosophical ones and his religious ones. Thus, the Guide
+> veers from  ... an impersonal to a personal God; from treating the Bible literally to viewing it allegorically; from valorizing the study of metaphysics to doubting its veracity; and from treating observance of the Law as instrumental to viewing it as essential to achieving perfection.
+
+For Ivry, the Guide can be seen as 
+> a spiritual biography in which Maimondies lays out his beliefs and his disbeliefs, his doubts and his certainties, all subject to qualification.... The overwhelming thrust of the Guide is to construct a view of God that is logically consistent and philosophically persuasive, however undemonstrated... The structures of his metaphysical beliefs were wobbly at best, but he chose no other framework on which to hang his religious beliefs.
+
+The conclusion to his conclusion reads:
+> Today, we can dismiss the astronomy and celestial physics with which Maimonides struggled, the theories that supported emanationism and prophetology, and still warm to the concept of an ultimate source of the existence and continued being of the world, a source whose effects upon us we may personify as deliberate and wise. We still search for scientific knowledge, transcending personal subjectivities to join with what we view as universal truths. This can give us immense satisfaction, even if we may not believe that it grants us personal immortality; but neither did Maimonides. He considered the pursuit of truth, and the possibility of attaining it (to some degree) in every sphere of science, including metaphysics, a divine and blessed task, one that Judaism should embrace. He tried to lay out a road map for his people that would keep them together and ultimately allow for personal happiness and spiritual fulfillment. His map was accepted, the final destination, as he philosophucally envisaged it, not.
+
+
