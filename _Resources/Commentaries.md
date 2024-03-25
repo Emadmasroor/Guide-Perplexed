@@ -55,7 +55,7 @@ This article looks at three different "Jewish strategies" toward the problem of 
 
 **Ivry, Alfred L.**. _Maimonides' Guide of the Perplexed: A Philosophical Guide_. University of Chicago Press, 2016. 
 
-Alfred Ivry's masterful work revives the long tradition of textual commentaries on the Guide. To my knowledge, it is the first chapter-by-chapter, systematic _commentary_ on the Guide in the English language since Leo Strauss' introduction to Shlomo Pines' translation. 
+Alfred Ivry's masterful work revives the long tradition of textual commentaries on the Guide. To my knowledge, it is the first chapter-by-chapter, systematic _commentary_ on the Guide in the English language, period, and the first commentary since Leo Strauss' introduction to Shlomo Pines' translation. 
 
 This book is divided into sections that follow the order of the Guide, but the sections are arranged according to Ivry's own systematization. Each section consists of a _paraphrase_ section and an _analysis_ section, where the paraphrase is marked by vertical lines running along the margins of the text. The sections he divides the Guide into are:
 1. Wrestling with Language
