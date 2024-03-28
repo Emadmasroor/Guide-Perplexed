@@ -76,4 +76,15 @@ For Ivry, the Guide can be seen as
 The conclusion to his conclusion reads:
 > Today, we can dismiss the astronomy and celestial physics with which Maimonides struggled, the theories that supported emanationism and prophetology, and still warm to the concept of an ultimate source of the existence and continued being of the world, a source whose effects upon us we may personify as deliberate and wise. We still search for scientific knowledge, transcending personal subjectivities to join with what we view as universal truths. This can give us immense satisfaction, even if we may not believe that it grants us personal immortality; but neither did Maimonides. He considered the pursuit of truth, and the possibility of attaining it (to some degree) in every sphere of science, including metaphysics, a divine and blessed task, one that Judaism should embrace. He tried to lay out a road map for his people that would keep them together and ultimately allow for personal happiness and spiritual fulfillment. His map was accepted, the final destination, as he philosophucally envisaged it, not.
 
+### 'The Rav' Joseph Soloveitchik
 
+**Kaplan, Lawrence J.**., ed. _Maimonides: Between Philosophy and Halakhah: Rabbi Joseph B. Soloveitchik's Lectures on The Guide of the Perplexed_. Urim Publications, 2016. 
+
+- Maimonides followed an _inductive_ approach to God, in contrast with Spinoza's _deductive_ approach.
+- **Spinoza**: "I think the cause for such confusion is mainly, that they do not keep to the proper order of philosophic thinking. The nature of God, which should be reflected on first, inasmuch as it is prior both in the order of knowledge and the order of nature, they have taken to be last in the order of knowledge, and have put into the first place what they call the objects of sensation"
+- **Maimonides**: "there is nothing else in existence but God and His works, the latter including all existing things besides Him: we can only obtain a knowledge of Him through His works; His works give evidence of His existence, and show what must be assumed concerning Him, that is to say, what must be attributed to Him either affirmatively or negatively.
+- For Maimonides, the 'proper order of philosophizing is man --> world --> God; for Spinoza, the proper order is God --> world --> man.
+- According to the Rav, both of these approaches toward the Divine lack apodicticity; he classifies as part of the 'inductive' approach, all those who built up ontological proofs for the existence of God, such as Anselm and presumably Ibn Sina. These ways of demonstrating the presence of God were invalidated by Kant, we are told. As for Maimonides' valiant attempt to "demonstrate God's existence through science"; this, too, he says, "can't be done".
+- Still, the Rav finds value in the Rambam's approach because it represents what he calls "an empricist approach to God". For Maimonides (says the Rav), "the experience of God and the experience of the universe are identical".
+
+This
