@@ -80,6 +80,7 @@ The conclusion to his conclusion reads:
 
 **Kaplan, Lawrence J.**., ed. _Maimonides: Between Philosophy and Halakhah: Rabbi Joseph B. Soloveitchik's Lectures on The Guide of the Perplexed_. Urim Publications, 2016. 
 
+On deductive versus inductive approaches toward God:
 - Maimonides followed an _inductive_ approach to God, in contrast with Spinoza's _deductive_ approach.
 - **Spinoza**: "I think the cause for such confusion is mainly, that they do not keep to the **proper order of philosophic thinking**. The nature of **God**, which should be reflected on **first**, inasmuch as it is prior both in the order of knowledge and the order of nature, they have taken to be last in the order of knowledge, and have put into the first place what they call the objects of sensation"
 - **Maimonides**: "there is nothing else in existence but God and His works, the latter including all existing things besides Him: we can only obtain a knowledge of Him through His works; **His works give evidence of His existence**, and show what must be assumed concerning Him, that is to say, what must be attributed to Him either affirmatively or negatively.
