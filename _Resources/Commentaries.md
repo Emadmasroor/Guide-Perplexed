@@ -80,6 +80,8 @@ The conclusion to his conclusion reads:
 
 **Kaplan, Lawrence J.**., ed. _Maimonides: Between Philosophy and Halakhah: Rabbi Joseph B. Soloveitchik's Lectures on The Guide of the Perplexed_. Urim Publications, 2016. 
 
+Joseph Soloveitchik has been called "The greatest modern philosopher produced by Orthodox Judaism" (Daniel Rynhold, The Journal of Religion 2018).
+
 On deductive versus inductive approaches toward God:
 - Maimonides followed an _inductive_ approach to God, in contrast with Spinoza's _deductive_ approach.
 - **Spinoza**: "I think the cause for such confusion is mainly, that they do not keep to the **proper order of philosophic thinking**. The nature of **God**, which should be reflected on **first**, inasmuch as it is prior both in the order of knowledge and the order of nature, they have taken to be last in the order of knowledge, and have put into the first place what they call the objects of sensation"
@@ -87,3 +89,8 @@ On deductive versus inductive approaches toward God:
 - For Maimonides, the 'proper order of philosophizing is man --> world --> God; for Spinoza, the proper order is God --> world --> man.
 - According to the Rav, both of these approaches toward the Divine lack apodicticity; he classifies as part of the 'inductive' approach, all those who built up ontological proofs for the existence of God, such as Anselm and presumably Ibn Sina. These ways of demonstrating the presence of God were invalidated by Kant, we are told. As for Maimonides' valiant attempt to "demonstrate God's existence through science"; this, too, he says, "can't be done".
 - Still, the Rav finds value in the Rambam's approach because it represents what he calls "an empricist approach to God". For Maimonides (says the Rav), "the experience of God and the experience of the universe are identical".
+
+Maimonides' "pantheism":
+- With respect to **existence** and with respect to **essence**, Maimonides is a monist (Soloveitchik even uses the word 'pantheist'). Things don't have an existence independent of the existence of God, and they borrow their essence from God too. However, with respect to **substance**, Maimonides maintains a strict separation between God and the world.
+
+
