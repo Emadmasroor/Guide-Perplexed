@@ -3,6 +3,7 @@ layout: chaptersummary
 title: Chapter 4-5
 part: 2
 chapter: 4
+pnum: 321
 nav: true
 highlights: intelligences and spheres
 ---
