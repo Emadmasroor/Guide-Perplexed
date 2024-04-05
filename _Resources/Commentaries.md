@@ -91,7 +91,7 @@ Joseph Soloveitchik has been called "The greatest modern philosopher produced by
 - Still, the Rav finds value in the Rambam's approach because it represents what he calls "an empricist approach to God". For Maimonides (says the Rav), "the experience of God and the experience of the universe are identical".
 
 #### On Maimonides' subordination of Halakhic ethics to philosophical attainment.
-- Soloveitchik reads [GP.III.54](/summaries/III/ch54) and its clear-cut hierarchy between different kinds of perfection as having a certain degree of dissimulation.
+- Soloveitchik reads [GP.III.54](Guide-Perplexed/summaries/III/ch54) and its clear-cut hierarchy between different kinds of perfection as having a certain degree of dissimulation.
 - Usually, people associate dissimulation to Maimonides in his attitude toward Halakhah. But Soloveitchik attributes dissimulation to Maimonides in his attitude toward philosophy.
 - This despite the fact that Soloveitchik claims to be explicitly against the idea that there is an 'esoteric core' hidden in the Guide. The Rav says, in his explication of the 'motto' of the Guide, that " Maimonides ... seeks to negate any educational policy of esotericisim". Keep in mind that these lecture notes were written in 1951, well before Leo Strauss' essay on the _Guide_ came out in 1963
 - For Soloveitchik, while the text of the Guide may make it _seem_ that Maimonides subordinates the halakhah to philosophy, the Rav takes as given the premise that the author of the _Mishneh Torah_ and the _Commentary on the Mishnah_, the RMBM, הנשר הגדול, the one about whom it was said that "from Moses to Moses there was none like Moses", could not possibly have thought that شريعة is subordinate to حكمة.
