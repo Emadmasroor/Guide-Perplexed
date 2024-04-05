@@ -41,10 +41,12 @@ nav: true
     <a href="{{site.baseurl}}{{entry.url}}">
       Part 2, {{ entry.title }}
     </a>
-  {% if entry.highlights %}
-    ({{ entry.highlights }})
-  {% endif %}
   </h3>
+  <p style="font-weight: bold; font-size: 20px">
+    {% if entry.highlights %}
+      {{ entry.highlights }}
+  {% endif %}
+  </p>
   <p style="text-align:left;"> 
   <a href="{{site.baseurl}}{{page.url}}#top">
       :arrow_up:
@@ -65,12 +67,14 @@ nav: true
 {% for entry in sortedchapters %}
   <h3>
     <a href="{{site.baseurl}}{{entry.url}}">
-      Part 3, {{ entry.title }}
+      Part 1, {{ entry.title }}
     </a>
-  {% if entry.highlights %}
-    ({{ entry.highlights }})
-  {% endif %}
   </h3>
+  <p style="font-weight: bold; font-size: 20px">
+    {% if entry.highlights %}
+      {{ entry.highlights }}
+  {% endif %}
+  </p>
   <p style="text-align:left;"> 
   <a href="{{site.baseurl}}{{page.url}}#top">
       :arrow_up:
