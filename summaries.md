@@ -5,13 +5,13 @@ permalink: /summaries
 nav: true
 ---
 
-<h2> Part I </h2>
+<h2> Part 1 </h2>
 
 {% assign sorted_chapters = site.GPI_chapters | sort:"chapter" %}
 {% for entry in sorted_chapters %}
   <h3>
     <a href="{{site.baseurl}}{{entry.url}}">
-      Part I, {{ entry.title }}
+      Part 1, {{ entry.title }}
     </a>
   {% if entry.highlights %}
     ({{ entry.highlights }})
@@ -31,13 +31,13 @@ nav: true
   <p>{{ entry.content | markdownify }}</p>
 {% endfor %}
 
-<h2> Part II </h2>
+<h2> Part 2 </h2>
 
 {% assign sortedchapters = site.GPII_chapters | sort:"chapter" %}
 {% for entry in sortedchapters %}
   <h3>
     <a href="{{site.baseurl}}{{entry.url}}">
-      Part II, {{ entry.title }}
+      Part 2, {{ entry.title }}
     </a>
   {% if entry.highlights %}
     ({{ entry.highlights }})
@@ -57,13 +57,13 @@ nav: true
   <p>{{ entry.content | markdownify }}</p>
 {% endfor %}
 
-<h2> Part III </h2>
+<h2> Part 3 </h2>
 
 {% assign sortedchapters = site.GPIII_chapters | sort:"chapter" %}
 {% for entry in sortedchapters %}
   <h3>
     <a href="{{site.baseurl}}{{entry.url}}">
-      Part III, {{ entry.title }}
+      Part 3, {{ entry.title }}
     </a>
   {% if entry.highlights %}
     ({{ entry.highlights }})
