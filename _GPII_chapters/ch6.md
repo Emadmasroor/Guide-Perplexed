@@ -3,6 +3,7 @@ layout: chaptersummary
 title: Chapter 6-7
 part: 2
 chapter: 6
+pnum: 327
 nav: true
 highlights: angels
 ---
