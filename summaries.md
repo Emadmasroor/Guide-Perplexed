@@ -14,7 +14,7 @@ nav: true
       Part 1, {{ entry.title }}
     </a>
   </h3>
-  <p style="font-weight: bold; font-size: 20px">
+  <p style="font-size: 20px">
     {% if entry.highlights %}
       {{ entry.highlights }}
   {% endif %}
@@ -49,7 +49,7 @@ nav: true
       Part 2, {{ entry.title }}
     </a>
   </h3>
-  <p style="font-weight: bold; font-size: 20px">
+  <p style="font-size: 20px">
     {% if entry.highlights %}
       {{ entry.highlights }}
   {% endif %}
@@ -59,10 +59,14 @@ nav: true
       :arrow_up:
   </a>
   <span style="float:right;">
-       Arabic: 
+        <p style="text-align:right; font-size:11px">
+    Read it in Arabic:
         <a href="https://archive.org/details/DelalatolHaerin_201804/page/n{{ entry.pnum }}"><img src="/Guide-Perplexed/assets/internetarchive_icon.svg" height=24em></a>
-        |English & Hebrew: 
+  </p>
+  <p style="text-align:right; font-size:11px">
+    Read it in English & Hebrew:
         <a href="https://www.sefaria.org/Guide_for_the_Perplexed%2C_Part_{{ entry.part }}.{{ entry.chapter }}?lang=en"><img src="/Guide-Perplexed/assets/sefaria_icon.svg" height=12em></a>
+  </p>
     </span>
   </p>
   <p>{{ entry.content | markdownify }}</p>
@@ -77,7 +81,7 @@ nav: true
       Part 1, {{ entry.title }}
     </a>
   </h3>
-  <p style="font-weight: bold; font-size: 20px">
+  <p style="font-size: 20px">
     {% if entry.highlights %}
       {{ entry.highlights }}
   {% endif %}
@@ -86,11 +90,15 @@ nav: true
   <a href="{{site.baseurl}}{{page.url}}#top">
       :arrow_up:
   </a>
-  <span style="float:right;">
-        Arabic: 
+ <span style="float:right;">
+        <p style="text-align:right; font-size:11px">
+    Read it in Arabic:
         <a href="https://archive.org/details/DelalatolHaerin_201804/page/n{{ entry.pnum }}"><img src="/Guide-Perplexed/assets/internetarchive_icon.svg" height=24em></a>
-        |English & Hebrew: 
+  </p>
+  <p style="text-align:right; font-size:11px">
+    Read it in English & Hebrew:
         <a href="https://www.sefaria.org/Guide_for_the_Perplexed%2C_Part_{{ entry.part }}.{{ entry.chapter }}?lang=en"><img src="/Guide-Perplexed/assets/sefaria_icon.svg" height=12em></a>
+  </p>
     </span>
   </p>
   <p>{{ entry.content | markdownify }}</p>
