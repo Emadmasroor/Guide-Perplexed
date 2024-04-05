@@ -82,7 +82,7 @@ The conclusion to his conclusion reads:
 
 Joseph Soloveitchik has been called "The greatest modern philosopher produced by Orthodox Judaism" (Daniel Rynhold, The Journal of Religion 2018).
 
-On deductive versus inductive approaches toward God:
+#### On deductive versus inductive approaches toward God:
 - Maimonides followed an _inductive_ approach to God, in contrast with Spinoza's _deductive_ approach.
 - **Spinoza**: "I think the cause for such confusion is mainly, that they do not keep to the **proper order of philosophic thinking**. The nature of **God**, which should be reflected on **first**, inasmuch as it is prior both in the order of knowledge and the order of nature, they have taken to be last in the order of knowledge, and have put into the first place what they call the objects of sensation"
 - **Maimonides**: "there is nothing else in existence but God and His works, the latter including all existing things besides Him: we can only obtain a knowledge of Him through His works; **His works give evidence of His existence**, and show what must be assumed concerning Him, that is to say, what must be attributed to Him either affirmatively or negatively.
@@ -90,7 +90,7 @@ On deductive versus inductive approaches toward God:
 - According to the Rav, both of these approaches toward the Divine lack apodicticity; he classifies as part of the 'inductive' approach, all those who built up ontological proofs for the existence of God, such as Anselm and presumably Ibn Sina. These ways of demonstrating the presence of God were invalidated by Kant, we are told. As for Maimonides' valiant attempt to "demonstrate God's existence through science"; this, too, he says, "can't be done".
 - Still, the Rav finds value in the Rambam's approach because it represents what he calls "an empricist approach to God". For Maimonides (says the Rav), "the experience of God and the experience of the universe are identical".
 
-On Maimonides' subordination of Halakhic ethics to philosophical attainment.
+#### On Maimonides' subordination of Halakhic ethics to philosophical attainment.
 - Soloveitchik reads GP.III.54 and its clear-cut hierarchy between different kinds of perfection as having a certain degree of dissimulation.
 - Usually, people associate dissimulation to Maimonides in his attitude toward Halakhah. But Soloveitchik attributes dissimulation to Maimonides in his attitude toward philosophy.
 - This despite the fact that Soloveitchik claims to be explicitly against the idea that there is an 'esoteric core' hidden in the Guide. The Rav says, in his explication of the 'motto' of the Guide, that " Maimonides ... seeks to negate any educational policy of esotericisim". Keep in mind that these lecture notes were written in 1951, well before Leo Strauss' essay on the _Guide_ came out in 1963
@@ -102,7 +102,7 @@ On Maimonides' subordination of Halakhic ethics to philosophical attainment.
 - Kaplan summarizes the Rav's approach when he says in the Editor's Introduction, "The Rav resolves [this problem] by distinguishing between two types of ethics: a pre-theoretical ethics and a post-theoretical ethics." While pre-theoretical ethics is indeed subordinate to and merely a preapration for intellectual perfection, post-theoretical ethics arises out of intellectual perfection and constitutes the ultimate aim of man.
 
 
-Maimonides' "pantheism":
+#### Maimonides' "pantheism":
 - With respect to **existence** and with respect to **essence**, Maimonides is a monist (Soloveitchik even uses the word 'pantheist'). Things don't have an existence independent of the existence of God, and they borrow their essence from God too. However, with respect to **substance**, Maimonides maintains a strict separation between God and the world.
 
 
