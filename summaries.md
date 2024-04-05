@@ -31,6 +31,9 @@ nav: true
     </span>
   </p>
   <p>{{ entry.content | markdownify }}</p>
+  <p style="font-size: 10px;text-align:right">
+      <a href="https://github.com/Emadmasroor/Guide-Perplexed/blob/main/{{ entry.path }}">Edit this page on GitHub</a>
+    </p>
 {% endfor %}
 
 <h2> Part 2 </h2>
