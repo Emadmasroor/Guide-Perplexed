@@ -13,10 +13,12 @@ nav: true
     <a href="{{site.baseurl}}{{entry.url}}">
       Part 1, {{ entry.title }}
     </a>
-  {% if entry.highlights %}
-    ({{ entry.highlights }})
-  {% endif %}
   </h3>
+  <h4>
+    {% if entry.highlights %}
+      {{ entry.highlights }}
+  {% endif %}
+  </h4>
   <p style="text-align:left;"> 
   <a href="{{site.baseurl}}{{page.url}}#top">
       :arrow_up:
