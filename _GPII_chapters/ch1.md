@@ -3,7 +3,9 @@ layout: chaptersummary
 title: Chapter 1-3
 part: 2
 chapter: 1
+pnum:311
 nav: true
+highlights: disambiguate the introduction to part 2 from this
 ---
 
 Here, Maimonides sets out the philosophers' proof for the existence of God. At the end of this, he declares:
