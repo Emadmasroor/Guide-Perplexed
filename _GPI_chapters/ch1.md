@@ -3,6 +3,7 @@ layout: chaptersummary
 title: Chapter 1
 part: 1
 chapter: 1
+pnum: 65
 nav: true
 keywords: something,otherthing
 ---
