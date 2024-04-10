@@ -105,4 +105,9 @@ Joseph Soloveitchik has been called "The greatest modern philosopher produced by
 #### Maimonides' "pantheism":
 - With respect to **existence** and with respect to **essence**, Maimonides is a monist (Soloveitchik even uses the word 'pantheist'). Things don't have an existence independent of the existence of God, and they borrow their essence from God too. However, with respect to **substance**, Maimonides maintains a strict separation between God and the world.
 
+### Leo Strauss
+
+**Strauss, Leo**. _How to Begin to Study the Guide of the Perplexed_., in Maimonides, _The Guide of the Perplexed_, tr. Shlomo Pines.
+
+Leo Strauss' celebrated [Introduction](assets/books/Strauss.pdf) to Shlomo Pines' translation of the Guide has achieved a mythical stature in the literature on Maimonides' Guide. 
 
