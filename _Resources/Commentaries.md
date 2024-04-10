@@ -107,7 +107,19 @@ Joseph Soloveitchik has been called "The greatest modern philosopher produced by
 
 ### Leo Strauss
 
-**Strauss, Leo**. _How to Begin to Study the Guide of the Perplexed_., in Maimonides, _The Guide of the Perplexed_, tr. Shlomo Pines.
+**Strauss, Leo**. _How to Begin to Study the Guide of the Perplexed_., in Maimonides, _The Guide of the Perplexed_, tr. Shlomo Pines. 
 
-Leo Strauss' celebrated [Introduction](assets/books/Strauss.pdf) to Shlomo Pines' translation of the Guide has achieved a mythical stature in the literature on Maimonides' Guide. 
+Leo Strauss' celebrated [Introduction](assets/books/Strauss.pdf) to Shlomo Pines' translation of the Guide has achieved a mythical stature in the literature on Maimonides' Guide. Strauss' commentary should more properly be called an _interpretation_ of the Guide, for it presents to us a Maimonides filtered through Strauss' own ideas. Every commentary is an interpretation, of course, and Strauss is frank about his admiration of and devotion to the Guide ("twenty-five years of frequently interrupted but never abandoned study"; "the _Guide_ as a whole is ... an enchanted forest, and hence also an enchanting forest: it is a delight to the eyes.")
 
+Let us first review the plan of the Guide, "as it has become clear to me (Strauss) in the course of about twenty-five years of frequently interrupted but never abandoned study."
+
+1. Biblical Terms applied to God
+2. Demonstrations of the existence, unity and incorporeality of God
+3. Prophecy
+4. The account of the Chariot
+5. Providence
+6. The actions commanded by God and done by God
+7. Man's perfection and God's providence.
+
+Some excerpts:
+> Maimonides does say that the Account of the Beginning is the same as natural science and teh Account of the Chariot is the same as divine science [metaphysics]. This might lead one to think that the public teaching is identical with what the philosophers teach, while the secret teaching makes one understand the identity of the teaching of the philosophers with the secret teaching of the Law. One can safely say that this thought proves to be untenable on almost every level of one's comprehending the _Guide_: the nonidentity of the teaching of the philosophers as a whole and the thirteen roots of the Law as a whole are the first word and the last word of Maimonides.
