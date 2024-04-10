@@ -109,7 +109,7 @@ Joseph Soloveitchik has been called "The greatest modern philosopher produced by
 
 **Strauss, Leo**. _How to Begin to Study the Guide of the Perplexed_., in Maimonides, _The Guide of the Perplexed_, tr. Shlomo Pines. 
 
-Leo Strauss' celebrated [Introduction](assets/books/Strauss.pdf) to Shlomo Pines' translation of the Guide has achieved a mythical stature in the literature on Maimonides' Guide. Strauss' commentary should more properly be called an _interpretation_ of the Guide, for it presents to us a Maimonides filtered through Strauss' own ideas. Every commentary is an interpretation, of course, and Strauss is frank about his admiration of and devotion to the Guide ("twenty-five years of frequently interrupted but never abandoned study"; "the _Guide_ as a whole is ... an enchanted forest, and hence also an enchanting forest: it is a delight to the eyes.")
+Leo Strauss' celebrated [Introduction](/assets/books/Strauss.pdf) to Shlomo Pines' translation of the Guide has achieved a mythical stature in the literature on Maimonides' Guide. Strauss' commentary should more properly be called an _interpretation_ of the Guide, for it presents to us a Maimonides filtered through Strauss' own ideas. Every commentary is an interpretation, of course, and Strauss is frank about his admiration of and devotion to the Guide ("twenty-five years of frequently interrupted but never abandoned study"; "the _Guide_ as a whole is ... an enchanted forest, and hence also an enchanting forest: it is a delight to the eyes.")
 
 Let us first review the plan of the Guide, "as it has become clear to me (Strauss) in the course of about twenty-five years of frequently interrupted but never abandoned study."
 
