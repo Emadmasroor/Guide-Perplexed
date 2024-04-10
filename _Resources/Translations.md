@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Translations
-order: 5
+order: 7
 nav: true
 ---
 
