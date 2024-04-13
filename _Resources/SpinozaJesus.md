@@ -19,7 +19,9 @@ Harry Wolfson, on the last page of his monumental work on Spinoza, describes the
 
 > And I can picture him, once of a Sunday, at the invitation of the good old Doctor, taking the services in the church. He preaches a sermon which is an invective against what he styles "the prejudices of the theologians of our time." ' In it he inveighs against prevailing credulous beliefs in the spirituality of God, His  personal relation to men, his direct guidance of human affairs, the divine origin of the Scriptures, human freedom of the will, the separability of soul from body, and the survival of the soul after death as an individual entity. The sermon over, he pauses and says, "Now let us pray." And in his prayer he thanks God, "the creator of the universe," for His bountiful goodness; he begs for the forgiveness of "our sins," asks for divine enlightenment in the true understanding of "Thy revealed Word," and petitions for divine grace in "guiding us" in the paths of righteousness, to the end that "we may inherit" life everlasting and enjoy eternal bliss in the presence of "Thy glory." As he is about to close his prayer, he catches a glimpse of the congregation and suddenly realizes that he is in a Christian church. Immediately he adds: " In the name of Christ, the mouth of God, whose spirit is the idea of God, which alone leads us unto liberty, salvation, blessedness, and regeneration. Amen."
 
-#### How far is Spinoza's God from the Christian God?
+If I understand Wolfson correctly, the quotation marks are meant to indicate direct quotes of Spinoza.
+
+#### What does Wolfson's passage say about how far Spinoza's God is from the Christian God?
 Wolfson has succeeded in the unthinkable: he has crafted from the words of the "atheist" (see: Nadler) and "heretical" (see: the Portuguese Synagogue of Amsterdam, going strong for 400-ish years) Spinoza a pious and even Christian sermon. Clearly, for Spinoza, Jesus' spirit is the 'idea of God', which --- if we take some linguistic latitude and interpret this as meaning 'the Word of God', or the _λόγος_ --- means that Spinoza is happy to think of Jesus Christ as being the Word of God. But what does this mean? Does this mean that Spinoza essentially agrees with John 1? Let us start from John 1 in its most strongly homoousistic form, and through a series of substitutions arrive at the words of Spinoza.
 
 1. Word = God
@@ -53,7 +55,6 @@ so the eternal wisdom of God is not something _outside_ the Universe; the eterna
 5. and most of all in **Christ Jesus**
 
 Thus, Jesus qua human is not that important for salvation; one might or might not 'know' Jesus in that sense. But it _is_ important to 'know Christ according to the spirit', as Yitzhak Melamed would say. But for this it is important to simply know the 'eternal wisdom of God' which is available to all of us, since it "has manifested itself in all things, more especially in the human mind". 
-
 
 > For without this wisdom no one can attain to a state of blessendess, inasmuch as it alone teaches what is true and what is false, what is good and what is evil.
 
