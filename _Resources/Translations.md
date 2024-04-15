@@ -15,9 +15,14 @@ This is the only known transliteration of the _Guide_ into Arabic characters.
 ### Michael Friedlander (1881-85)
 Friedlander's translation initially appeared in three volumes with footnotes. In a subsequent 1904 edition, the footnotes were eliminated and the book was combined into a single volume; this is the edition that is most commonly published, and the earlier edition has long been out of print.
 
+This translation is no longer under copyright, and is available online.
+
 ### Chaim Rabin & Julius Guttmann (1952) [abridged]
 
 ### Shlomo Pines (1963)
+Pines' translation is considered the definitive scholarly English translation. It attempts to be consistent in translating the same Arabic term with the same English term. However, it has been criticized for being unduly influenced by the Leo Strauss school of interpretation.
+
+This translation is still under copyright.
 
 ### Lenn Goodman & Philip Lieberman (2024)
 
