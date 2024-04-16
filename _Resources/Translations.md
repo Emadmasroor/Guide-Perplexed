@@ -96,3 +96,13 @@ Let us compare the text of the _Guide_ in four different versions.
 | Salomon Munk (tr.)   | C'est là la fin dernière (de l'homme), qui donne à l'individu humain une véritable perfec- tion; elle appartient à lui seul, c'est par elle qu'il obtient l'im- mortalité, et c'est par elle que l'homme est (réellement) homme.    |
 | Salomon Munk (ed.) |  והד'ה הי אלגאיה אלאכ'ירה והי אלתי תכמל אלשכ'ץ כמאלא חקיקיא והי לה וחדה והי תפידה אלבקא אלדאים. ובהא אלאנסאן אנסאן |
 | Huseyin Atay (ed.) | و ھذہ ھی الغایة الاخیرة و ھی التی تُکمّل الشخص کمالا حقیقیّا، و ھی لہ وحدہ، و ھی تفیدہ البقاء الدائم، و بہا الانسان انسان |
+
+#### "If you consider ..."
+
+| Edition    | Text |
+| -------- | ------- |
+| Shlomo Pines  |  If you consider each of the the three perfections mentioned before, you will find that they pertain to others than you, not to you.  |
+| Michael Friedlander | Examine the first three kinds of perfection, you will find that, if you possess them, they are not your property, but the property of others;     |
+| Salomon Munk (tr.)   | Si tu considères chacune des trois perfections précédentes, tu trouveras qu'elles profitent à d'autres et non à toi (1),    |
+| Salomon Munk (ed.) |  ואעתבר כל כמאל מן אלת'לת'ה כמאלאת אלמתקדמה תג'דהא לגירך לא לך |
+| Huseyin Atay (ed.) | و اعتبر کل کمال من الثلثة کمالات المتقدمة تجدھا لغیرک، لا لک۔ |
