@@ -74,7 +74,7 @@ Let us compare the text of the _Guide_ in four different versions.
 | Michael Friedlander | The fourth kind of perfection is the true perfection of man: the possession of the highest, intellectual faculties     |
 | Salomon Munk (tr.)   | c'est-à-dire à con- cevoir des choses intelligibles qui puissent nous donner des idées saines sur les sujets métaphysiques    |
 | Salomon Munk (ed.) |  אעני תצור מעקולאת תפיד אראא צחיחה פי אלאלאהיאת |
-| Huseyin Atay (ed.) | اعنی تصوُّر معقولات تفید آراء صحیحة فی الالھیات |
+| Huseyin Atay (ed.) | و نوع الرابع ھو الکمال النسانی الحقیقی، و ھو حصول الفضائل النطقیة |
 
 #### "I refer to the conception of intelligibles ..."
 
@@ -84,7 +84,7 @@ Let us compare the text of the _Guide_ in four different versions.
 | Michael Friedlander | the possession of such notions which lead to true metaphysical opinions as regards God.    |
 | Salomon Munk (tr.)   | La quatrième espèce est la véritable perfection humaine; elle consiste à acquérir les vertus intellectuelles    |
 | Salomon Munk (ed.) |  ואלנוע אלראבע הו אלכמאל אלאנסאני אלחקיקי והו חצול אלפצ'איל אלנטקיה |
-| Huseyin Atay (ed.) | و نوع الرابع ھو الکمال النسانی الحقیقی، و ھو حصول الفضائل النطقیة |
+| Huseyin Atay (ed.) | اعنی تصوُّر معقولات تفید آراء صحیحة فی الالھیات |
 
 
 
