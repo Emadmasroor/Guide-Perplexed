@@ -129,8 +129,6 @@ Let us compare the text of the _Guide_ in four different versions.
 
 #### "Therefore you ought to ..."
 
-
-
 | Edition    | Text |
 | -------- | ------- |
 | Shlomo Pines  |  Therefore you ought to desire to achieve this thing, which will remain permanently with you  |
@@ -138,3 +136,14 @@ Let us compare the text of the _Guide_ in four different versions.
 | Salomon Munk (tr.)   | C'est pourquoi il faut que tu sois avide d'obtenir cette chose qui reste à toi  |
 | Salomon Munk (ed.) | ולהד'א ינבגי לך אן תחרץ עלי חצול הד'א אלבאקי לך |
 | Huseyin Atay (ed.) | و لھذا ینبغی لک ان تحرص علی حصول ھذا الباقی لک |
+
+
+#### "and not weary and trouble yourself ..."
+
+| Edition    | Text |
+| -------- | ------- |
+| Shlomo Pines  |  and not weary and trouble yourself for the sake of others, O you who neglect your own soul so that its whiteness has turned into blackness through the corporeal faculties having gained dominion over it   |
+| Michael Friedlander | and you ought not to continue to work and weary yourself for that which belongs to others, whilst neglecting your soul till it has lost entirely its original purity through the dominion of the bodily powers over it   |
+| Salomon Munk (tr.)   | et que tu ne te donnes ni fatigues, ni peine, pour ce qui profite à d'autres, en négligeant ton âme, de manière que son éclat soit terni par la prépondérance des facultés corporelles .  |
+| Salomon Munk (ed.) | לך ולא תתעב ותשקי לאכ'רין יא גאפלא ען נפסה חתי אסוד ביאצ'הא באסתילא אלקוי אלג'סמאניה עליהא |
+| Huseyin Atay (ed.) | ولا تتعب، و تشقی لاخرین، یا غافلا عن نفسہ!حتی اسودّ بیاضہا باستیلاء القوی الجسمانیة علیہا |
