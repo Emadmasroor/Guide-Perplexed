@@ -101,8 +101,18 @@ Let us compare the text of the _Guide_ in four different versions.
 
 | Edition    | Text |
 | -------- | ------- |
-| Shlomo Pines  |  If you consider each of the the three perfections mentioned before, you will find that they pertain to others than you, not to you.  |
+| Shlomo Pines  |  If you consider each of the the three perfections mentioned before, you will find that they pertain to others than you, not to you  |
 | Michael Friedlander | Examine the first three kinds of perfection, you will find that, if you possess them, they are not your property, but the property of others;     |
 | Salomon Munk (tr.)   | Si tu considères chacune des trois perfections précédentes, tu trouveras qu'elles profitent à d'autres et non à toi (1),    |
 | Salomon Munk (ed.) |  ואעתבר כל כמאל מן אלת'לת'ה כמאלאת אלמתקדמה תג'דהא לגירך לא לך |
 | Huseyin Atay (ed.) | و اعتبر کل کمال من الثلثة کمالات المتقدمة تجدھا لغیرک، لا لک۔ |
+
+#### "Even though, according to the..."
+
+| Edition    | Text |
+| -------- | ------- |
+| Shlomo Pines  |  even though, according to the generlaly accepted opinion, they inevitably pertain both to you and to others.  |
+| Michael Friedlander | according to the ordinary view, however, they belong to you and to others.    |
+| Salomon Munk (tr.)   | quoique, selon les idées vulgaires, elles profitent nécessairement à toi et aux autres (2);   |
+| Salomon Munk (ed.) |  ואן כאן ולא בד בחסב אלמשהור פהי לך ולגירך |
+| Huseyin Atay (ed.) | و ان کان ولابد بحسب المشہور، فھی لک و لغیرک |
