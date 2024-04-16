@@ -60,13 +60,16 @@ Let us compare the text of the _Guide_ in four different versions.
 ### Shlomo Pines (tr. English)
 > The fourth species is the true human perfection; it consists in the acqquiisition of the rational virtues --- I refer to the conception of intelligibles, which teach true opinions concerning the divine things. This is in true reality the ultimate end; this is what gives the indivudal true perfection, a perfection belonging to him alone; and it gives him permanent perdueance; through it man is man. If you consider each of the the three perfections mentioned before, you will find that they pertain to others than you, not to you, even though, according to the generlaly accepted opinion, they inevitably pertain both to you and to others. This ultimate perfection, however, pertains to you alone, no one else being associated in it with you in any way: _They shall be only thine own, and so on._ Therefore you ought to desire to achieve this thing, which will remain permanently with you, and not weary and trouble yourself for the sake of others, O you who neglect your own soul so that its whiteness has turned into blackness through the corporeal faculties having gained dominion over it --- as is said in the beginning of the poetical parables that have been coined for these occasions ...
 
-### Huseyin Atay
+### Huseyin Atay (ed. Arabic)
 > و نوع الرابع ھو الکمال النسانی الحقیقی، و ھو حصول الفضائل النطقیة، اعنی تصوُّر معقولات تفید آراء صحیحة فی الالھیات۔ و ھذہ ھی الغایة الاخیرة و ھی التی تُکمّل الشخص کمالا حقیقیّا، و ھی لہ وحدہ، و ھی تفیدہ البقاء الدائم، و بہا الانسان انسان۔ و اعتبر کل کمال من الثلثة کمالات المتقدمة تجدھا لغیرک، لا لک۔ و ان کان ولابد بحسب المشہور، فھی لک و لغیرک۔
 > اما ھذا الکمال الاخیر فھو لک وحدک، لیس لاخر معک فیہ مشارکة بوجہ: "لتکن لک وحدک الخ"۔ و لھذا ینبغی لک ان تحرص علی حصول ھذا الباقی لک، ولا تتعب، و تشقی لاخرین، یا غافلا عن نفسہ!حتی اسودّ بیاضہا باستیلاء القوی الجسمانیة علیہا، کما قیل فی ابتداء تلک الامثال الشریعة المضروبة لھذہ المعانی قال: "قد غضب ۔۔۔"
 
 ### Line-by-line comparison
 
+| Edition    | Text |
 | -------- | ------- |
-| January  | $250    |
-| February | $80     |
-| March    | $420    |
+| Shlomo Pines  | The fourth species is the true human perfection; it consists in the acqquiisition of the rational virtues   |
+| Michael Friedlander | The fourth kind of perfection is the true perfection of man: the possession of the highest, intellectual faculties     |
+| Salomon Munk (tr.)   | La quatrième espèce est la véritable perfection humaine; elle consiste à acquérir les vertus intellectuelles    |
+| Salomon Munk (ed.) |  ואלנוע אלראבע הו אלכמאל אלאנסאני אלחקיקי והו חצול אלפצ'איל אלנטקיה |
+| Huseyin Atay (ed.) | و نوع الرابع ھو الکمال النسانی الحقیقی، و ھو حصول الفضائل النطقیة |
