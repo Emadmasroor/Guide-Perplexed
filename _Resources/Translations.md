@@ -126,3 +126,15 @@ Let us compare the text of the _Guide_ in four different versions.
 | Salomon Munk (tr.)   | mais cette dernière perfection profite à toi seul, et aucun autre n'en partage avec toi le bénéfice : qu'elles soient à toi seul, etc. (Prov., V, 17)    |
 | Salomon Munk (ed.) |  אמא הד'א אלכמאל אלאכ'יר פהו לך וחדך ליס לאכ'ר מעך פיה משארכה בוג'ה יהיו לך לבדך וגו' ולהד'א ינבגי (need to correct) |
 | Huseyin Atay (ed.) | "اما ھذا الکمال الاخیر فھو لک وحدک، لیس لاخر معک فیہ مشارکة بوجہ: "لتکن لک وحدک الخ |
+
+#### "Therefore you ought to ..."
+
+
+
+| Edition    | Text |
+| -------- | ------- |
+| Shlomo Pines  |  Therefore you ought to desire to achieve this thing, which will remain permanently with you  |
+| Michael Friedlander | Therefore you ought to desire to achieve this thing, which will remain permanently with you    |
+| Salomon Munk (tr.)   | C'est pourquoi il faut que tu sois avide d'obtenir cette chose qui reste à toi  |
+| Salomon Munk (ed.) | ולהד'א ינבגי לך אן תחרץ עלי חצול הד'א אלבאקי לך |
+| Huseyin Atay (ed.) | و لھذا ینبغی لک ان تحرص علی حصول ھذا الباقی لک |
