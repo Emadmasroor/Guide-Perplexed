@@ -116,3 +116,13 @@ Let us compare the text of the _Guide_ in four different versions.
 | Salomon Munk (tr.)   | quoique, selon les idées vulgaires, elles profitent nécessairement à toi et aux autres (2);   |
 | Salomon Munk (ed.) |  ואן כאן ולא בד בחסב אלמשהור פהי לך ולגירך |
 | Huseyin Atay (ed.) | و ان کان ولابد بحسب المشہور، فھی لک و لغیرک |
+
+#### "This ultimate perfection, however ..."
+
+| Edition    | Text |
+| -------- | ------- |
+| Shlomo Pines  |  This ultimate perfection, however, pertains to you alone, no one else being associated in it with you in any way: _They shall be only thine own, and so on._  |
+| Michael Friedlander | But the last kind of perfection is exclusively yours; no one else owns any part of it, “They shall be only thine own, and not strangers’ with thee” ([Prov. 5:17](https://sefaria.org/Proverbs.5.17)).    |
+| Salomon Munk (tr.)   | mais cette dernière perfection profite à toi seul, et aucun autre n'en partage avec toi le bénéfice : qu'elles soient à toi seul, etc. (Prov., V, 17)    |
+| Salomon Munk (ed.) |  אמא הד'א אלכמאל אלאכ'יר פהו לך וחדך ליס לאכ'ר מעך פיה משארכה בוג'ה יהיו לך לבדך וגו' ולהד'א ינבגי (need to correct) |
+| Huseyin Atay (ed.) | "اما ھذا الکمال الاخیر فھو لک وحدک، لیس لاخر معک فیہ مشارکة بوجہ: "لتکن لک وحدک الخ |
