@@ -66,6 +66,16 @@ Let us compare the text of the _Guide_ in four different versions.
 
 ### Line-by-line comparison
 
+#### "The fourth species is ..."
+
+| Edition    | Text |
+| -------- | ------- |
+| Shlomo Pines  | The fourth species is the true human perfection; it consists in the acquisition of the rational virtues   |
+| Michael Friedlander | The fourth kind of perfection is the true perfection of man: the possession of the highest, intellectual faculties     |
+| Salomon Munk (tr.)   | c'est-à-dire à con- cevoir des choses intelligibles qui puissent nous donner des idées saines sur les sujets métaphysiques    |
+| Salomon Munk (ed.) |  אעני תצור מעקולאת תפיד אראא צחיחה פי אלאלאהיאת |
+| Huseyin Atay (ed.) | اعنی تصوُّر معقولات تفید آراء صحیحة فی الالھیات |
+
 #### "I refer to the conception of intelligibles ..."
 
 | Edition    | Text |
@@ -77,15 +87,6 @@ Let us compare the text of the _Guide_ in four different versions.
 | Huseyin Atay (ed.) | و نوع الرابع ھو الکمال النسانی الحقیقی، و ھو حصول الفضائل النطقیة |
 
 
-#### "The fourth species is ..."
-
-| Edition    | Text |
-| -------- | ------- |
-| Shlomo Pines  | The fourth species is the true human perfection; it consists in the acquisition of the rational virtues   |
-| Michael Friedlander | The fourth kind of perfection is the true perfection of man: the possession of the highest, intellectual faculties     |
-| Salomon Munk (tr.)   | c'est-à-dire à con- cevoir des choses intelligibles qui puissent nous donner des idées saines sur les sujets métaphysiques    |
-| Salomon Munk (ed.) |  אעני תצור מעקולאת תפיד אראא צחיחה פי אלאלאהיאת |
-| Huseyin Atay (ed.) | اعنی تصوُّر معقولات تفید آراء صحیحة فی الالھیات |
 
 #### "This is in true reality ..."
 
