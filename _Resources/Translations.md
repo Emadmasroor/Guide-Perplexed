@@ -86,3 +86,13 @@ Let us compare the text of the _Guide_ in four different versions.
 | Salomon Munk (tr.)   | c'est-à-dire à con- cevoir des choses intelligibles qui puissent nous donner des idées saines sur les sujets métaphysiques    |
 | Salomon Munk (ed.) |  אעני תצור מעקולאת תפיד אראא צחיחה פי אלאלאהיאת |
 | Huseyin Atay (ed.) | اعنی تصوُّر معقولات تفید آراء صحیحة فی الالھیات |
+
+#### "This is in true reality ..."
+
+| Edition    | Text |
+| -------- | ------- |
+| Shlomo Pines  |  This is in true reality the ultimate end; this is what gives the indivudal true perfection, a perfection belonging to him alone; and it gives him permanent perdueance; through it man is man.   |
+| Michael Friedlander | With this perfection man has obtained his final object; it gives him true human perfection; it remains to him alone; it gives him immortality, and on its account he is called man.     |
+| Salomon Munk (tr.)   | C'est là la fin dernière (de l'homme), qui donne à l'individu humain une véritable perfec- tion; elle appartient à lui seul, c'est par elle qu'il obtient l'im- mortalité, et c'est par elle que l'homme est (réellement) homme.    |
+| Salomon Munk (ed.) |  והד'ה הי אלגאיה אלאכ'ירה והי אלתי תכמל אלשכ'ץ כמאלא חקיקיא והי לה וחדה והי תפידה אלבקא אלדאים. ובהא אלאנסאן אנסאן |
+| Huseyin Atay (ed.) | و ھذہ ھی الغایة الاخیرة و ھی التی تُکمّل الشخص کمالا حقیقیّا، و ھی لہ وحدہ، و ھی تفیدہ البقاء الدائم، و بہا الانسان انسان |
