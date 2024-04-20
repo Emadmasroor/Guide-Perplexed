@@ -17,6 +17,8 @@ Friedlander's translation initially appeared in three volumes with footnotes. In
 
 This translation is no longer under copyright, and is available online.
 
+[Harvey, Warren Zev. "6. Michael Friedländer’s Pioneering English Translation of the Guide." (2019)](Guide-Perplexed/assets/pdf/Friedlander-Harvey.pdf)
+
 ### Chaim Rabin & Julius Guttmann (1952) [abridged]
 
 ### Shlomo Pines (1963)
