@@ -26,7 +26,15 @@ Pines' translation is considered the definitive scholarly English translation. I
 
 This translation is still under copyright.
 
+[Stroumsa, Sarah. "7. The Elegance of Precision: On Pines’s Translation of the Literary Parts of the Guide." (2019).](Guide-Perplexed/assets/pdf/Pines-Stroumsa.pdf) from Stern, Josef, James T. Robinson, and Yonatan Shemesh, eds. Maimonides'" Guide of the Perplexed" in Translation: A History from the Thirteenth Century to the Twentieth. University of Chicago Press, 2019.
+
 ### Lenn Goodman & Philip Lieberman (2024)
+
+## French Translations
+
+#### Salomon Munk
+
+[Fenton, Paul B. "5. The Second Ibn Tibbon: Salomon Munk and His Translation of the Guide." (2019).](Guide-Perplexed/assets/pdf/Munk-Fenton.pdf) from Stern, Josef, James T. Robinson, and Yonatan Shemesh, eds. Maimonides'" Guide of the Perplexed" in Translation: A History from the Thirteenth Century to the Twentieth. University of Chicago Press, 2019.
 
 ## Hebrew Translations
 
@@ -40,6 +48,8 @@ In 1981, Yehuda Even-Shmuel edited the Ibn Tibbon translation.
 ### Yehuda al-Harizi (1213)
 
 ### Yosef Qafih (1972)
+
+[Langermann, Y. Tzvi. "9. Rabbi Yosef Qafih’s Modern Medieval Translation of the Guide." (2019).](Guide-Perplexed/assets/pdf/Qafih-Langermann) from Stern, Josef, James T. Robinson, and Yonatan Shemesh, eds. Maimonides'" Guide of the Perplexed" in Translation: A History from the Thirteenth Century to the Twentieth. University of Chicago Press, 2019.
 
 ### Michael Schwarz (1996-2002)
 
