@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Bibliography
+permalink: /Guide-Perplexed/
 order: 8
 nav: true
 ---
