@@ -23,16 +23,12 @@ nav: true
   <a href="{{site.baseurl}}{{page.url}}#top">
       :arrow_up:
   </a>
-  <span style="float:right;">
-        <p style="text-align:right; font-size:11px">
-    Read it in Arabic:
-        <a href="https://archive.org/details/DelalatolHaerin_201804/page/n{{ entry.pnum }}"><img src="/Guide-Perplexed/assets/internetarchive_icon.svg" height=24em></a>
   </p>
   <p style="text-align:right; font-size:11px">
-    Read it in English & Hebrew:
-        <a href="https://www.sefaria.org/Guide_for_the_Perplexed%2C_Part_{{ entry.part }}.{{ entry.chapter }}?lang=en"><img src="/Guide-Perplexed/assets/sefaria_icon.svg" height=12em></a>
-  </p>
-    </span>
+    <a href="https://archive.org/details/DelalatolHaerin_201804/page/n{{ page.pnum }}">Arabic (Huseyin Attai, 1962)</a> | 
+    <a href="https://www.sefaria.org/Guide_for_the_Perplexed%2C_Part_{{ page.part }}.{{ page.chapter }}?lang=en">English (Michael Friedländer, 1885)</a> |
+    <a href="https://www.sefaria.org/Guide_for_the_Perplexed%2C_Part_{{ page.part }}.{{ page.chapter }}?lang=bi">Hebrew (Ibn Tibbon, 1204)</a> | 
+    <a href="https://www.sefaria.org/Guide_for_the_Perplexed%2C_Part_{{ page.part }}.{{ page.chapter }}?vhe=Judeo_Arabic,_Paris,_1856_(ar)&lang=bi">Arabic (Munk, 1856)</a>
   </p>
   <p>{{ entry.content | markdownify }}</p>
   <p style="font-size: 10px;text-align:right">
@@ -58,16 +54,12 @@ nav: true
   <a href="{{site.baseurl}}{{page.url}}#top">
       :arrow_up:
   </a>
-  <span style="float:right;">
-        <p style="text-align:right; font-size:11px">
-    Read it in Arabic:
-        <a href="https://archive.org/details/DelalatolHaerin_201804/page/n{{ entry.pnum }}"><img src="/Guide-Perplexed/assets/internetarchive_icon.svg" height=24em></a>
   </p>
   <p style="text-align:right; font-size:11px">
-    Read it in English & Hebrew:
-        <a href="https://www.sefaria.org/Guide_for_the_Perplexed%2C_Part_{{ entry.part }}.{{ entry.chapter }}?lang=en"><img src="/Guide-Perplexed/assets/sefaria_icon.svg" height=12em></a>
-  </p>
-    </span>
+    <a href="https://archive.org/details/DelalatolHaerin_201804/page/n{{ page.pnum }}">Arabic (Huseyin Attai, 1962)</a> | 
+    <a href="https://www.sefaria.org/Guide_for_the_Perplexed%2C_Part_{{ page.part }}.{{ page.chapter }}?lang=en">English (Michael Friedländer, 1885)</a> |
+    <a href="https://www.sefaria.org/Guide_for_the_Perplexed%2C_Part_{{ page.part }}.{{ page.chapter }}?lang=bi">Hebrew (Ibn Tibbon, 1204)</a> | 
+    <a href="https://www.sefaria.org/Guide_for_the_Perplexed%2C_Part_{{ page.part }}.{{ page.chapter }}?vhe=Judeo_Arabic,_Paris,_1856_(ar)&lang=bi">Arabic (Munk, 1856)</a>
   </p>
   <p>{{ entry.content | markdownify }}</p>
 {% endfor %}
@@ -90,16 +82,12 @@ nav: true
   <a href="{{site.baseurl}}{{page.url}}#top">
       :arrow_up:
   </a>
- <span style="float:right;">
-        <p style="text-align:right; font-size:11px">
-    Read it in Arabic:
-        <a href="https://archive.org/details/DelalatolHaerin_201804/page/n{{ entry.pnum }}"><img src="/Guide-Perplexed/assets/internetarchive_icon.svg" height=24em></a>
   </p>
   <p style="text-align:right; font-size:11px">
-    Read it in English & Hebrew:
-        <a href="https://www.sefaria.org/Guide_for_the_Perplexed%2C_Part_{{ entry.part }}.{{ entry.chapter }}?lang=en"><img src="/Guide-Perplexed/assets/sefaria_icon.svg" height=12em></a>
-  </p>
-    </span>
+    <a href="https://archive.org/details/DelalatolHaerin_201804/page/n{{ page.pnum }}">Arabic (Huseyin Attai, 1962)</a> | 
+    <a href="https://www.sefaria.org/Guide_for_the_Perplexed%2C_Part_{{ page.part }}.{{ page.chapter }}?lang=en">English (Michael Friedländer, 1885)</a> |
+    <a href="https://www.sefaria.org/Guide_for_the_Perplexed%2C_Part_{{ page.part }}.{{ page.chapter }}?lang=bi">Hebrew (Ibn Tibbon, 1204)</a> | 
+    <a href="https://www.sefaria.org/Guide_for_the_Perplexed%2C_Part_{{ page.part }}.{{ page.chapter }}?vhe=Judeo_Arabic,_Paris,_1856_(ar)&lang=bi">Arabic (Munk, 1856)</a>
   </p>
   <p>{{ entry.content | markdownify }}</p>
 {% endfor %}
