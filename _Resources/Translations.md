@@ -45,6 +45,8 @@ In general, this translation has been described as hewing closely to the text, s
 
 In 1981, Yehuda Even-Shmuel edited the Ibn Tibbon translation.
 
+[Robinson, James T. "1. Moreh ha-nevukhim: The First Hebrew Translation of the Guide of the Perplexed." (2019).](/Guide-Perplexed/assets/pdf/IbnTibbon-Robinson.pdf) from Stern, Josef, James T. Robinson, and Yonatan Shemesh, eds. Maimonides'" Guide of the Perplexed" in Translation: A History from the Thirteenth Century to the Twentieth. University of Chicago Press, 2019.
+
 ### Yehuda al-Harizi (1213)
 
 ### Yosef Qafih (1972)
