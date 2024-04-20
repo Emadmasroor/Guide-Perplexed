@@ -17,7 +17,7 @@ Friedlander's translation initially appeared in three volumes with footnotes. In
 
 This translation is no longer under copyright, and is available online.
 
-[Harvey, Warren Zev. "6. Michael Friedländer’s Pioneering English Translation of the Guide." (2019)](Guide-Perplexed/assets/pdf/Friedlander-Harvey.pdf)
+[Harvey, Warren Zev. "6. Michael Friedländer’s Pioneering English Translation of the Guide." (2019)](Guide-Perplexed/assets/pdf/Friedlander-Harvey.pdf) from Stern, Josef, James T. Robinson, and Yonatan Shemesh, eds. Maimonides'" Guide of the Perplexed" in Translation: A History from the Thirteenth Century to the Twentieth. University of Chicago Press, 2019.
 
 ### Chaim Rabin & Julius Guttmann (1952) [abridged]
 
