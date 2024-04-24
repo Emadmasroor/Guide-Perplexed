@@ -1,14 +1,20 @@
+% use xelatex
 \documentclass[12pt]{article}
 
 \usepackage[left=1in,right=1in,top=1in,bottom=1in]{geometry}
-\usepackage[english]{babel}
+%\usepackage[english]{babel}
+
 \usepackage{biblatex}
 \addbibresource{refs.bib}
-%\usepackage{fontspec}
+\usepackage{fontspec}
+\newfontfamily\myfont[Script=Arabic,Scale=1,Path=/System/Library/Fonts/]{NotoNastaliq.ttc}
+\newfontfamily\nyfont[Script=Hebrew,Scale=1,Path=/System/Library/Fonts/]{ArialHB.ttc}
+
 %\usepackage{polyglossia}
 %\setmainlanguage{english}
 %\setotherlanguage{arabic}
 
+\usepackage{enumitem}
 \usepackage{csquotes}
 
 \begin{document}
@@ -16,17 +22,42 @@
 
 Maimonides is one of the proponents of `apophatic' theology, i.e., a `negative theology' in which nothing can be predicated of God and only negative statements can be made about Him. He develops this idea in close connection with the rest of his theology largely in Part I of the \textit{Guide for the Perplexed}. In fact, we can read the entire first part of the \textit{Guide} as a demonstration of apophatic theology in practice, i.e., a process of getting to know God through a series of negative --- rather than positive --- statements. In GP.I.55, he sets out a scheme for this as follows:
 \begin{displayquote}
-	it is necessary to demonstrate by proof that nothing can be predicated of God that implies any of the following four things: 1) corporeality, 2) emotion or change, 3) nonexistence --- e.g., that something would be potential at one time and real at another --- and 4) similarity with any of His creatures. \quad (\textit{numbering added.})
+	it is necessary to demonstrate by proof that nothing can be predicated of God that implies any of the following four things: 1) corporeality, 2) emotion or change, 3) nonexistence --- e.g., that something would be potential at one time and real at another --- and 4) similarity with any of His creatures. \quad (\textit{numbering added.}) \hfill (GP I.55)
 \end{displayquote}
 
 In the following two chapters, Maimonides stakes his position on the Ashari/Mutazilite debate about essential attributes of God. He follows a hard Mutazilite position by denying the existence of any essential attributes in God, arguing for a simple Unity which admits no internal differentiation. He is critical of what \citeauthor{leaman2013moses} has called a `Superman' view of God, declaring
 \begin{displayquote}
-	It cannot be said, as they practically believe, that His existence is only more stable, His life more permanent, His power greater, His wisdom more perfect, and His will more general than ours, and that the same definition applies to both. This is in no way admissible, for the expression “more than” is used in comparing two things as regards a certain attribute predicated of both of them in exactly the same sense, and consequently implies similarity [between God and His creatures].
+	It cannot be said, as they practically believe, that His existence is only more stable, His life more permanent, His power greater, His wisdom more perfect, and His will more general than ours, and that the same definition applies to both. This is in no way admissible, for the expression “more than” is used in comparing two things as regards a certain attribute predicated of both of them in exactly the same sense, and consequently implies similarity [between God and His creatures]. \hfill (GP I.56)
 \end{displayquote}
 
 So, according to Maimonides, if we are to apply the qualities usually attributed to God in the Abrahamic faiths, such as Life, Power, Wisdom, etc., we must do so with the recognition that we are using terms `equivocally', i.e., with entirely different meanings than when we use these terms in ordinary usage about, e.g., a human being. Believing that God has Power in the same way that we have power, but to an infinite degree, would violate the simplicity and `beyond-compare-ness' of God. Thus, while Maimonides does not go so far as to do away with these terms (Life, Power, Wisdom, etc.), he does render our usage of these terms quite empty of meaning. If these terms are to be used about God, they must carry \emph{some} meaning, but Maimonides insists that the mental content of these words (pace \citeauthor{key2018language}) when applied to God is emphatically not the normal linguistic meaning. What, then, do these terms mean? We will see that Maimonides' negative theology, which he has not yet stated at this point in the \emph{Guide}, provides the answer to this question.
 
-In chapter 57, we find some of the most philosophically troubling applications of Maimonides' radical denial of attributes in God. The main way in which Maimonides succeeds in imparting the concept of God with some religious meaning despite his commitment to an attribute-less God is by reconceptualizing God's attributes as \emph{actions}. In chapter 52, there is a systematic characterization of attributes, 
+
+In chapter 57, we find some of the most philosophically troubling applications of Maimonides' radical denial of attributes in God. The main way in which Maimonides succeeds in imparting the concept of God with some religious meaning despite his commitment to an attribute-less God is by reconceptualizing God's attributes as \emph{actions}. 
+
+In Maimonides' account of the Revelation at Sinai, Moses asked God two questions:
+\begin{enumerate}[itemsep=0mm]
+\item Let me know Your ways, that I may know You \hfill Exodus 33.13
+\item Let me behold Your Presence \hfill Exodus 33.18
+\end{enumerate}
+and receives the following replies respectively:
+\begin{enumerate}[itemsep=0mm]
+\item I will make all My goodness pass before you \hfill Exodus 33.19
+\item But you cannot see My face \hfill Exodus 33.20
+\end{enumerate}
+In the second question, according to Maimonides, Moses asked to be given knowledge of the essence of God, the \emph{Deus Absconditus}. This was, of course, denied to him, ``for a human being may not see Me and live". Knowledge of the \emph{essence} of God, what he truly is like, is for Maimonides utterly closed to human beings.
+
+However, the first question put by Moses to God ---``Let me know Your ways, that I may know You" --- \emph{did} receive an answer. But what does it mean for God to answer Moses' question with the words ``I will make all My goodness pass before you"? An important key, for Maimonides, is that ``all my goodness'' uses the word `{\nyfont טוב}' \textit{tov}, the same word that's used in Genesis 1.31, ``and God saw all that had been made, and found it very \emph{good} ({\nyfont טוב})''. So the answer to Moses' request that God `show him God's ways' is intimately tied up with the business of Creation; as Rav Soloveitchik has said in his lectures on the \emph{Guide}, Maimonides believes that we can only approach (the knowledge of) God by way of his creation.
+
+\begin{displayquote}
+Consider how many excellent ideas found expression in the words, “Show me thy way, that I may know thee.” We learn from them that God is known by His attributes, for Moses believed that he knew Him, when he was shown the way of God. ...
+The words “all my goodness” imply that God promised to show him the whole creation, concerning which it has been stated, “And God saw everything that he had made, and, behold, it was very good”. When I say “to show him the whole creation,” I mean to imply that God promised to make him comprehend the nature of all things, their relation to each other, and the way they are governed by God both in reference to the universe as a whole and to each creature in particular ... the knowledge of the works of God is the knowledge of His attributes, by which He can be known. ... It is therefore clear that the ways which Moses wished to know, and which God taught him, are the actions emanating from God. \hfill (GP I.54)
+\end{displayquote}
+So we find that God \emph{can} be known, even though we cannot (without error) speak about him in the usual religious language. At this point in the Guide, it seems that Maimonides teaches that God cannot be known directly (i.e., in essence) but he \emph{can} be known by his attributes. But a couple of chapters later, Maimonides sets out to deny that God has attributes! In what sense, then, was Moses given knowledge of God, if attributes cannot really be predicated of God?
+
+
+\subsection*{The theological problems posed by an attribute-less God}
+A rigorous commitment to the denial of the predicability of attributes to God leads to a number of problems. If God is as utterly indescribeable and inscrutable as Maimonides suggests, then how does he relate to the world in general and to human beings in particular? How is Providence possible, and how is Revelation possible? Maimonides' answers lie in the Neoplatonic emanation scheme and, in particular, the concept of \textit{fayd}.
 
 \vfill
 \printbibliography
