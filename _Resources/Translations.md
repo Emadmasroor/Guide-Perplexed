@@ -74,6 +74,10 @@ Let us compare the text of the _Guide_ in four different versions.
 ### Shlomo Pines (tr. English)
 > The fourth species is the true human perfection; it consists in the acquisition of the rational virtues --- I refer to the conception of intelligibles, which teach true opinions concerning the divine things. This is in true reality the ultimate end; this is what gives the indivudal true perfection, a perfection belonging to him alone; and it gives him permanent perdueance; through it man is man. If you consider each of the the three perfections mentioned before, you will find that they pertain to others than you, not to you, even though, according to the generlaly accepted opinion, they inevitably pertain both to you and to others. This ultimate perfection, however, pertains to you alone, no one else being associated in it with you in any way: _They shall be only thine own, and so on._ Therefore you ought to desire to achieve this thing, which will remain permanently with you, and not weary and trouble yourself for the sake of others, O you who neglect your own soul so that its whiteness has turned into blackness through the corporeal faculties having gained dominion over it...
 
+### Lenn Goodman and Phillip Lieberman (tr. English):
+> The fourth kind is the truly human attainment, winning the intellectual virtues, the conceptual thinking that yields sound views of divinity. That is our highest goal: truly perfecting the self, an attainment indeed one's own, winning immortality by fulfilling in oneself what makes a human _human_.
+> Consider the three attaingments mentioned already, and you will find that they all serve others, not yourself --- or even in the common view, others as well as oneself. But this last is wholly and solely yours: [ _Drink water from thin own cistern, fresh frrom thine own well_ ] _thine alone_ (Proverbs 5:15-17). This is what you should cherish, yours forever, not tiring yourself and toiling for others. Listen! You neglect yourself anf blacken the white of your soul in thrall to your bodily powers ...
+
 ### Huseyin Atay (ed. Arabic)
 > و نوع الرابع ھو الکمال الانسانی الحقیقی، و ھو حصول الفضائل النطقیة، اعنی تصوُّر معقولات تفید آراء صحیحة فی الالھیات۔ و ھذہ ھی الغایة الاخیرة و ھی التی تُکمّل الشخص کمالا حقیقیّا، و ھی لہ وحدہ، و ھی تفیدہ البقاء الدائم، و بہا الانسان انسان۔ و اعتبر کل کمال من الثلثة کمالات المتقدمة تجدھا لغیرک، لا لک۔ و ان کان ولابد بحسب المشہور، فھی لک و لغیرک۔
 > اما ھذا الکمال الاخیر فھو لک وحدک، لیس لاخر معک فیہ مشارکة بوجہ: "لتکن لک وحدک الخ"۔ و لھذا ینبغی لک ان تحرص علی حصول ھذا الباقی لک، ولا تتعب، و تشقی لاخرین، یا غافلا عن نفسہ!حتی اسودّ بیاضہا باستیلاء القوی الجسمانیة علیہا...
@@ -117,6 +121,7 @@ Let us compare the text of the _Guide_ in four different versions.
 | -------- | ------- |
 | Shlomo Pines  |  If you consider each of the the three perfections mentioned before, you will find that they pertain to others than you, not to you  |
 | Michael Friedlander | Examine the first three kinds of perfection, you will find that, if you possess them, they are not your property, but the property of others;     |
+| Goodman & Liberman | Consider the three attainments mentioned already, and you will find they all serve others, not yourself |
 | Salomon Munk (tr.)   | Si tu considères chacune des trois perfections précédentes, tu trouveras qu'elles profitent à d'autres et non à toi (1),    |
 | Salomon Munk (ed.) |  ואעתבר כל כמאל מן אלת'לת'ה כמאלאת אלמתקדמה תג'דהא לגירך לא לך |
 | Huseyin Atay (ed.) | و اعتبر کل کمال من الثلثة کمالات المتقدمة تجدھا لغیرک، لا لک۔ |
@@ -127,6 +132,7 @@ Let us compare the text of the _Guide_ in four different versions.
 | -------- | ------- |
 | Shlomo Pines  |  even though, according to the generlaly accepted opinion, they inevitably pertain both to you and to others.  |
 | Michael Friedlander | according to the ordinary view, however, they belong to you and to others.    |
+| Goodman & Liberman | --- or even in the common view, others as well as oneself. |
 | Salomon Munk (tr.)   | quoique, selon les idées vulgaires, elles profitent nécessairement à toi et aux autres (2);   |
 | Salomon Munk (ed.) |  ואן כאן ולא בד בחסב אלמשהור פהי לך ולגירך |
 | Huseyin Atay (ed.) | و ان کان ولابد بحسب المشہور، فھی لک و لغیرک |
@@ -137,6 +143,7 @@ Let us compare the text of the _Guide_ in four different versions.
 | -------- | ------- |
 | Shlomo Pines  |  This ultimate perfection, however, pertains to you alone, no one else being associated in it with you in any way: _They shall be only thine own, and so on._  |
 | Michael Friedlander | But the last kind of perfection is exclusively yours; no one else owns any part of it, “They shall be only thine own, and not strangers’ with thee” ([Prov. 5:17](https://sefaria.org/Proverbs.5.17)).    |
+| Goodman & Liberman | But this last is wholely and solely yours: [ _Drink water from thin own cistern, fresh frrom thine own well_ ] _thine alone_ (Proverbs 5:15-17).|
 | Salomon Munk (tr.)   | mais cette dernière perfection profite à toi seul, et aucun autre n'en partage avec toi le bénéfice : qu'elles soient à toi seul, etc. (Prov., V, 17)    |
 | Salomon Munk (ed.) |  אמא הד'א אלכמאל אלאכ'יר פהו לך וחדך ליס לאכ'ר מעך פיה משארכה בוג'ה יהיו לך לבדך וגו' ולהד'א ינבגי (need to correct) |
 | Huseyin Atay (ed.) | "اما ھذا الکمال الاخیر فھو لک وحدک، لیس لاخر معک فیہ مشارکة بوجہ: "لتکن لک وحدک الخ |
@@ -147,6 +154,7 @@ Let us compare the text of the _Guide_ in four different versions.
 | -------- | ------- |
 | Shlomo Pines  |  Therefore you ought to desire to achieve this thing, which will remain permanently with you  |
 | Michael Friedlander | Therefore you ought to desire to achieve this thing, which will remain permanently with you    |
+| Goodman & Liberman | This is what you should cherish, |
 | Salomon Munk (tr.)   | C'est pourquoi il faut que tu sois avide d'obtenir cette chose qui reste à toi  |
 | Salomon Munk (ed.) | ולהד'א ינבגי לך אן תחרץ עלי חצול הד'א אלבאקי לך |
 | Huseyin Atay (ed.) | و لھذا ینبغی لک ان تحرص علی حصول ھذا الباقی لک |
