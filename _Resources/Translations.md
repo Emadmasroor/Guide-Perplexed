@@ -90,6 +90,7 @@ Let us compare the text of the _Guide_ in four different versions.
 | -------- | ------- |
 | Shlomo Pines  | The fourth species is the true human perfection; it consists in the acquisition of the rational virtues   |
 | Michael Friedlander | The fourth kind of perfection is the true perfection of man: the possession of the highest, intellectual faculties     |
+| Goodman & Liberman | The fourth species is the true human perfection; it consists in the acquisition of the rational virtues |
 | Salomon Munk (tr.)   | c'est-à-dire à con- cevoir des choses intelligibles qui puissent nous donner des idées saines sur les sujets métaphysiques    |
 | Salomon Munk (ed.) |  אעני תצור מעקולאת תפיד אראא צחיחה פי אלאלאהיאת |
 | Huseyin Atay (ed.) | و نوع الرابع ھو الکمال الانسانی الحقیقی، و ھو حصول الفضائل النطقیة |
@@ -100,6 +101,7 @@ Let us compare the text of the _Guide_ in four different versions.
 | -------- | ------- |
 | Shlomo Pines  | I refer to the conception of intelligibles, which teach true opinions concerning the divine things   |
 | Michael Friedlander | the possession of such notions which lead to true metaphysical opinions as regards God.    |
+| Goodman & Liberman | the conceptual thinking that yields sound views of divinity |
 | Salomon Munk (tr.)   | La quatrième espèce est la véritable perfection humaine; elle consiste à acquérir les vertus intellectuelles    |
 | Salomon Munk (ed.) |  ואלנוע אלראבע הו אלכמאל אלאנסאני אלחקיקי והו חצול אלפצ'איל אלנטקיה |
 | Huseyin Atay (ed.) | اعنی تصوُّر معقولات تفید آراء صحیحة فی الالھیات |
@@ -111,6 +113,7 @@ Let us compare the text of the _Guide_ in four different versions.
 | -------- | ------- |
 | Shlomo Pines  |  This is in true reality the ultimate end; this is what gives the indivudal true perfection, a perfection belonging to him alone; and it gives him permanent perdueance; through it man is man.   |
 | Michael Friedlander | With this perfection man has obtained his final object; it gives him true human perfection; it remains to him alone; it gives him immortality, and on its account he is called man.     |
+| Goodman & Lieberman | That is our highest goal: truly perfecting the self, an attainment indeed one's own, winning immortality by fulfilling in oneself what makes a human _human_ |
 | Salomon Munk (tr.)   | C'est là la fin dernière (de l'homme), qui donne à l'individu humain une véritable perfec- tion; elle appartient à lui seul, c'est par elle qu'il obtient l'im- mortalité, et c'est par elle que l'homme est (réellement) homme.    |
 | Salomon Munk (ed.) |  והד'ה הי אלגאיה אלאכ'ירה והי אלתי תכמל אלשכ'ץ כמאלא חקיקיא והי לה וחדה והי תפידה אלבקא אלדאים. ובהא אלאנסאן אנסאן |
 | Huseyin Atay (ed.) | و ھذہ ھی الغایة الاخیرة و ھی التی تُکمّل الشخص کمالا حقیقیّا، و ھی لہ وحدہ، و ھی تفیدہ البقاء الدائم، و بہا الانسان انسان |
@@ -154,7 +157,7 @@ Let us compare the text of the _Guide_ in four different versions.
 | -------- | ------- |
 | Shlomo Pines  |  Therefore you ought to desire to achieve this thing, which will remain permanently with you  |
 | Michael Friedlander | Therefore you ought to desire to achieve this thing, which will remain permanently with you    |
-| Goodman & Liberman | This is what you should cherish, |
+| Goodman & Liberman | This is what you should cherish, yours forever, |
 | Salomon Munk (tr.)   | C'est pourquoi il faut que tu sois avide d'obtenir cette chose qui reste à toi  |
 | Salomon Munk (ed.) | ולהד'א ינבגי לך אן תחרץ עלי חצול הד'א אלבאקי לך |
 | Huseyin Atay (ed.) | و لھذا ینبغی لک ان تحرص علی حصول ھذا الباقی لک |
@@ -166,6 +169,7 @@ Let us compare the text of the _Guide_ in four different versions.
 | -------- | ------- |
 | Shlomo Pines  |  and not weary and trouble yourself for the sake of others, O you who neglect your own soul so that its whiteness has turned into blackness through the corporeal faculties having gained dominion over it   |
 | Michael Friedlander | and you ought not to continue to work and weary yourself for that which belongs to others, whilst neglecting your soul till it has lost entirely its original purity through the dominion of the bodily powers over it   |
+| Goodman & Lieberman | not tiring yourself and toiling for others. Listen! You neglect yourself anf blacken the white of your soul in thrall to your bodily powers |
 | Salomon Munk (tr.)   | et que tu ne te donnes ni fatigues, ni peine, pour ce qui profite à d'autres, en négligeant ton âme, de manière que son éclat soit terni par la prépondérance des facultés corporelles .  |
 | Salomon Munk (ed.) | לך ולא תתעב ותשקי לאכ'רין יא גאפלא ען נפסה חתי אסוד ביאצ'הא באסתילא אלקוי אלג'סמאניה עליהא |
 | Huseyin Atay (ed.) | ولا تتعب، و تشقی لاخرین، یا غافلا عن نفسہ!حتی اسودّ بیاضہا باستیلاء القوی الجسمانیة علیہا |
