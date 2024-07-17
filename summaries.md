@@ -70,7 +70,7 @@ nav: true
 {% for entry in sortedchapters %}
   <h3>
     <a href="{{site.baseurl}}{{entry.url}}">
-      Part 1, {{ entry.title }}
+      Part 3, {{ entry.title }}
     </a>
   </h3>
   <p style="font-size: 20px">
