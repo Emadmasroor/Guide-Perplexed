@@ -33,5 +33,12 @@ Next, the Rambam further qualifies this claim by differentiating between 'good' 
 - If a prophet prophecies calamities on his people, it is possible that "Heaven will have compassion, and all their affairs will remain in peace and contentment. One cannot, in this manner, know the untruth of such a prophet... It is also possible that they did penance and turned from their provocative acts, or that the Holy One blessed Be He deferred their punishment in His compassion."
 - If a prophet promises unconditional good tidings to his people, "then for this good not to become fulfilled is impossible and cannot be."
 
-It should not be surprising that the Commentary on the Mishnah lacks any of the Neoplatonic language of the _Guide_'s [description of prophecy](../summaries/II/ch36/). In that work, Maimonides clearly describes Prophecy in terms of an emanation.
+It should not be surprising that the Commentary on the Mishnah lacks any of the Neoplatonic language of the _Guide_'s [description of prophecy](../summaries/II/ch36/). In that work, Maimonides clearly describes Prophecy in terms of an emanation. However, the Commentary on the Mishnah is meant to be a layman's book, and has a more religious character, so it makes sense that it would avoid the philosophical terminology found in the _Guide_.
+
+What is surprising, however, is that the _Guide_ lacks any mention of the clairvoyance of a prophet as having any bearing on the truth of his prophecy. Here are some possible options.
+- Maimonides changed his mind between the writing of the _Commentary on the Mishnah_ and the writing of the _Guide_. The former was completed by 1168, whereas the latter was completed in the late 1190s. Certainly that's a long enough time for a serious thinker to change his mind.
+- The two books are written for different audiences; he considers the clairvoyance test to be a sufficient criterion when teaching the lay Jewish audience, but reserves the more sophisticated understanding of prophecy for his beloved student and others like him.
+- The Straussian interpretation here would be that he himself believed in the Neoplatonized account of prophecy, but he promulgated the _CM_'s account of prophecy as a form of 'dissimulation'.
+
+## Telos in the Commentary on the Mishnah
 
