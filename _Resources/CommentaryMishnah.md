@@ -79,3 +79,12 @@ This leads us to a grand _telos_ for the entire universe:
 What about all the people in this world who do not apply themselves to the fundamental truths and do not attain wisdom? Well, the other human beings were made _for the purpose of the realization of such a perfect human_ or humans. For Maimonides recognizes that society is a necessary prerequisite of achieiving human perfection; no man is an island. The Platonic elitism practically drips from his words, as he says things like "the masses were created to provide company for the wise, so that the latter not remain desolate. You maay consider this to be of small value, but it still is necessary..."
 
 It may be possible to reconcile the two accounts of the Universe's _telos_ given in the _Guide_ and in the _CM_, but it does seem that Maimonides' thoughts on this question evolved between the writing of these two works.
+
+## A memorable passage from the _Commentary on the Mishnah_
+
+I will use Fred Rosner's translation, p. 128
+
+> How well was it stated: "were it not for madness, the world would be desolate". For there is no folly in the world comparable to the folly of man. For man has a feeble soul and a weak constitution; yet he travels from the beginning of the second region of the serven inhabitable districts until the end of the sixth. He traverses oceans in the winter, and travels through lands of drought in both drought and summer. He endangers himself (by exposure to) beasts of the field and reptiles in order to increase his wealth. [the Hebrew text has _dinarim_ (דינרים) When he has assembled a minute quantity of gold coins for which he sold his three souls* , and, if he wishes to enjoy them, he commences to distribute them to laborers to build for him a foundation in the depths of the earth with lime and stones, in order to construct a wall to last for many years. Yet he knows that there do not remain in his lifetime enough years to even survive a structure made of reeds. Is there a greater folly or lunacy than this?
+> Similarly, all the delights of the world are complete mockery and madness. However, (at the same time) they are a factor for the settlement of the functioning world.
+
+اس میں کچھ شائبۂ خوبیِ تقدیر بھی تھا
