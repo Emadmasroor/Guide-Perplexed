@@ -13,7 +13,7 @@ The _Commentary on the Mishnah_ (_CM_) has never been translated fully into Engl
 
 In this essay, I would like to highlight how the _CM_ relates to the _GP_, in some ways prefiguring the later work and in other ways standing in sharp contrast to it. Thus, the _CM_ may offer us some clues in understanding what we can perhaps call 'the Young Moses (ben Maimon)'.
 
-## Prophecy in the Commentary on the Mishnah
+## Prophecy in the Commentary on the Mishnah (p. 47 to 62)
 
 The _CM_ is the site of Maimonides' well-known promise to one day write a "book about Prophecy"; it is often believed that the Guide _is_ that book, since Prophecy is one of its chief subjects. In the _CM_, Maimonides writes:
 
@@ -30,15 +30,32 @@ Immediately afterward, he acknowledges that this could cause a problem: the worl
 Therefore, astonishingly for a reader of the _Guide_, Maimonides appears to hinge the whole prophetic enterprise on, well, correct and fully-realized prophecies about the future. Thus, according to the Rambam in the _CM_, a prophet whose predictions do not turn out correctly is a _false_ prophet. 
 
 Next, the Rambam further qualifies this claim by differentiating between 'good' predictions and 'bad' predictions, i.e., predictions about good events vs. predictions about bad events.
-- If a prophet prophecies calamities on his people, it is possible that "Heaven will have compassion, and all their affairs will remain in peace and contentment. One cannot, in this manner, know the untruth of such a prophet... It is also possible that they did penance and turned from their provocative acts, or that the Holy One blessed Be He deferred their punishment in His compassion."
+- If a prophet prophecies calamities on his people, it is possible that "Heaven will have compassion, and all their affairs will remain in peace and contentment. One cannot, in this manner, know the untruth of such a prophet."
 - If a prophet promises unconditional good tidings to his people, "then for this good not to become fulfilled is impossible and cannot be."
 
-It should not be surprising that the Commentary on the Mishnah lacks any of the Neoplatonic language of the _Guide_'s [description of prophecy](../summaries/II/ch36/). In that work, Maimonides clearly describes Prophecy in terms of an emanation. However, the Commentary on the Mishnah is meant to be a layman's book, and has a more religious character, so it makes sense that it would avoid the philosophical terminology found in the _Guide_.
+It should not be surprising that the Commentary on the Mishnah lacks any of the Neoplatonic language of the _Guide_'s [description of prophecy](../../summaries/II/ch36/). In that work, Maimonides clearly describes Prophecy in terms of an emanation. However, the Commentary on the Mishnah is meant to be a layman's book, and has a more religious character, so it makes sense that it would avoid the philosophical terminology found in the _Guide_.
 
 What is surprising, however, is that the _Guide_ lacks any mention of the clairvoyance of a prophet as having any bearing on the truth of his prophecy. Here are some possible options.
-- Maimonides changed his mind between the writing of the _Commentary on the Mishnah_ and the writing of the _Guide_. The former was completed by 1168, whereas the latter was completed in the late 1190s. Certainly that's a long enough time for a serious thinker to change his mind.
+- Maimonides changed his mind between the writing of the _Commentary on the Mishnah_ and the writing of the _Guide_. The former was completed by 1168, whereas the latter was completed in 1204. Certainly that's a long enough time for a serious thinker to change his mind.
 - The two books are written for different audiences; he considers the clairvoyance test to be a sufficient criterion when teaching the lay Jewish audience, but reserves the more sophisticated understanding of prophecy for his beloved student and others like him.
-- The Straussian interpretation here would be that he himself believed in the Neoplatonized account of prophecy, but he promulgated the _CM_'s account of prophecy as a form of 'dissimulation'.
+- The Straussian interpretation here would be that Maimonides himself believed in the Neoplatonized account of prophecy, but he promulgated the _CM_'s account of prophecy as a form of 'dissimulation'.
+
+### On prophecy and reason
+
+Maimonides does not see the prophets as sources of truth regarding matters of reason. This mirrors Spinoza's attitude toward the Prophets.
+
+> If a prophet should argue an opinion, and similarly if a non-prophet should reason (a differing opinion), and if the prophet should say "The Holy One Blessed be He told me that my conclusion is the correct one", one should not listen to him. Even if a thousand prophets, all of the satature of Elijah or Elisha would hold one opinion, and one thousand and one Sages would hold the opposite opinion, one must follow the majority, and the final ruling is in accordance with the one thousand and one Sages, and not in accordance with the one thousand honored prophets. (p. 61)
+
+Of course, Maimonides _does_ see the prophets as carrying authority in terms of their ability to communicate the will of God; on this matter, Spinoza and Maimonides do not agree, since Spinoza views the Law as binding only on the People of Israel in the time when they lived together as a nation.
+
+One passage in the _Commentary_ lays Maimonides' thoughts on this problem bare. In Fred Rosner's translation, this passage appears on page 62:
+
+> The Holy One Blessed be He did not permit us to learn from prophets; rather from the Sages, people of deductive reasoning and knowledgable views. It is not written "And thou shalt come to the prophet that shall be in those days"; thather _And thou shalt come unto the priests, the Levites and unto the Judge that shall be in those days_ [Deuteronomy 17.9](https://www.sefaria.org/Deutereonomy/17.9).
+
+In the translation available on Sefaria, we have
+> And we have not been permitted to learn from the prophets, but rather from the sages, the men of reasoning and discernment. It did not say, "and you shall come to the prophet who will be at that time, but rather (Deuteronomy 17:9) "and you shall come to the Levite priests, or the judge." 
+
+It will be interesting to see what words were used for "reasoning" and "discernment" in the original Arabic.
 
 ## Telos in the Commentary on the Mishnah
 
