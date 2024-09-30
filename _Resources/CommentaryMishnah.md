@@ -65,10 +65,10 @@ In the _Guide of the Perplexed_, Maimonides states [GP III.13](../../summaries/I
 
 But in the _Commentary on the Mishnah_, we find (p. 121)
 
-> However, in general, one must note that all things that exist under the lunar sphere exist for man alone. ... Now when it is realized that the pripose of all these plants and animals is for the survival of man, then one is led to investigate why man exists, and what was the intent behind his creation.
+> However, in general, one must note that all things that exist under the lunar sphere exist for man alone. ... Now when it is realized that the purpose of all these plants and animals is for the survival of man, then one is led to investigate why man exists, and what was the intent behind his creation.
 
 Then, speaking of the final cause of man, he says:
-> The other skills (man possesses) serve only the purpose of assuring his survival, to insure the (fulfillment of) that one activity. This (cardinal) activity is the following: to grasp in his mind the secretes of the fundamental truths, and to understand the verities (in life) according to his ability.
+> The other skills (man possesses) serve only the purpose of assuring his survival, to insure (the fulfillment of) that one activity. This (cardinal) activity is the following: to grasp in his mind the secrets of the fundamental truths, and to understand the verities (in life) according to his ability.
 
 What are these "verities"? (Rosner does not give the Arabic word)
 > The prime verity to grasp is the Unity of the Holy One, Blessed be He, and all that pertains to that Divine matter. Other verities [footnote: sciences] serve only to exercise one toward the attainment of Divine knowledge.
@@ -76,7 +76,7 @@ What are these "verities"? (Rosner does not give the Arabic word)
 This leads us to a grand _telos_ for the entire universe:
 > It seems clear from these introductory remarks that the purpose of this world, and all that is contained therein, is (to help make) a wise and good man. 
 
-What about all the people in this world who do not apply themselves to the fundamental truths and do not attain wisdom? Well, the other human beings were made _for the purpose of the realization of such a perfect human_ or humans. For Maimonides recognizes that society is a necessary prerequisite of achieiving human perfection; no man is an island. The Platonic elitism practically drips from his words, as he says things like "the masses were created to provide company for the wise, so that the latter not remain desolate. You maay consider this to be of small value, but it still is necessary..."
+What about all the people in this world who do not apply themselves to the fundamental truths and do not attain wisdom? Well, the other human beings were made _for the purpose of the realization of such a perfect human_ or humans. For Maimonides recognizes that society is a necessary prerequisite of achieiving human perfection; no man is an island. The Platonic elitism practically drips from his words, as he says things like "the masses were created to provide company for the wise, so that the latter not remain desolate. You may consider this to be of small value, but it still is necessary..."
 
 It may be possible to reconcile the two accounts of the Universe's _telos_ given in the _Guide_ and in the _CM_, but it does seem that Maimonides' thoughts on this question evolved between the writing of these two works.
 
