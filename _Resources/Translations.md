@@ -169,7 +169,7 @@ Let us compare the text of the _Guide_ in four different versions.
 | -------- | ------- |
 | Shlomo Pines  |  and not weary and trouble yourself for the sake of others, O you who neglect your own soul so that its whiteness has turned into blackness through the corporeal faculties having gained dominion over it   |
 | Michael Friedlander | and you ought not to continue to work and weary yourself for that which belongs to others, whilst neglecting your soul till it has lost entirely its original purity through the dominion of the bodily powers over it   |
-| Goodman & Lieberman | not tiring yourself and toiling for others. Listen! You neglect yourself anf blacken the white of your soul in thrall to your bodily powers |
+| Goodman & Lieberman | not tiring yourself and toiling for others. Listen! You neglect yourself and blacken the white of your soul in thrall to your bodily powers |
 | Salomon Munk (tr.)   | et que tu ne te donnes ni fatigues, ni peine, pour ce qui profite à d'autres, en négligeant ton âme, de manière que son éclat soit terni par la prépondérance des facultés corporelles .  |
 | Salomon Munk (ed.) | לך ולא תתעב ותשקי לאכ'רין יא גאפלא ען נפסה חתי אסוד ביאצ'הא באסתילא אלקוי אלג'סמאניה עליהא |
 | Huseyin Atay (ed.) | ولا تتعب، و تشقی لاخرین، یا غافلا عن نفسہ!حتی اسودّ بیاضہا باستیلاء القوی الجسمانیة علیہا |
