@@ -8,7 +8,7 @@ nav: true
 ## Arabic Transliterations
 
 ### Huseyin Atay (1963 or 1974)
-This is the only known transliteration of the _Guide_ into Arabic characters.
+This is the only published transliteration of the _Guide_ into Arabic characters. It was compiled using Hebrew texts as well as medieval Arabic manuscripts, including ...
 
 ## English Translations
 
