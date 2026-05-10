@@ -1,59 +1,74 @@
 <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap" rel="stylesheet">
 
 <style>
-  /* The Navigation Bar */
+  /* The Container for the whole translation section */
+  .translations-section {
+    background-color: #fcfaf7; /* A soft, paper-like off-white */
+    border: 1px solid #eee;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 25px 0;
+  }
+
+  .translations-heading {
+    margin-top: 0;
+    margin-bottom: 15px;
+    font-size: 1.2rem;
+    color: #666;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    /* No font-family specified here so it uses your site default */
+  }
+
+  /* The Tab Navigation Bar */
   .tab-nav { 
     display: flex; 
     flex-wrap: wrap; 
     gap: 5px; 
-    border-bottom: 2px solid #eee; 
+    border-bottom: 2px solid #e0dbd1; 
     margin-bottom: 20px; 
   }
 
-  .tab-button {
-    padding: 8px 12px; 
-    font-family: "EB Garamond", serif;
-    font-variant: small-caps; /* Professional scholarly look */
-    font-size: 16px; 
+  .tab-button { 
+    padding: 8px 16px; 
+    font-size: 14px;
     border: none; 
-    background: #f9f9f9;
+    background: transparent; 
     cursor: pointer; 
-    border-bottom: 2px solid transparent;
+    border-bottom: 2px solid transparent; 
     transition: 0.2s;
+    /* No font-family specified here so it uses your site default */
   }
 
   .tab-button.active { 
     border-bottom: 2px solid #2a7ae2; 
     color: #2a7ae2; 
     font-weight: bold; 
-    background: white;
   }
 
-  /* The Content Panels */
+  /* The Content Area - Keeping EB Garamond only here */
   .tab-panel { 
     display: none; 
     font-family: "EB Garamond", serif;
-    font-size: 1.2rem; /* Garamond is naturally small; this makes it legible */
+    font-size: 1.2rem;
     line-height: 1.6;
     color: #333;
   }
 
-  /* Force Markdown paragraphs to use the font */
   .tab-panel p {
     font-family: "EB Garamond", serif !important;
+    margin-bottom: 1.2em;
   }
 
   .tab-panel.active { 
     display: block; 
   }
 
-  /* Right-to-Left support for Arabic/Hebrew */
-  .tab-panel[id*="atay"], 
-  .tab-panel[id*="tibbon"], 
-  .tab-panel[id*="munk"] {
+  /* RTL Support */
+  [id*="atay"], [id*="tibbon"], [id*="munk"], [id*="arabic"], [id*="hebrew"] {
     direction: rtl;
     text-align: right;
-    font-size: 1.4rem; /* Arabic/Hebrew needs more size to be clear */
+    font-size: 1.4rem;
   }
 </style>
 
