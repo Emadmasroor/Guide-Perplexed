@@ -58,5 +58,6 @@ collections:
 
 # Table of contents
 plugins:
+  - jekyll-tabs
   - jemoji
 #  - jekyll-toc
