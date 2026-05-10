@@ -1,0 +1,22 @@
+<style>
+  .tab-nav { display: flex; flex-wrap: wrap; gap: 5px; border-bottom: 2px solid #eee; margin-bottom: 20px; }
+  .tab-button { 
+    padding: 8px 12px; font-size: 14px; border: none; background: #f9f9f9; 
+    cursor: pointer; border-bottom: 2px solid transparent; 
+  }
+  .tab-button.active { border-bottom: 2px solid #2a7ae2; color: #2a7ae2; font-weight: bold; }
+  .tab-panel { display: none; }
+  .tab-panel.active { display: block; }
+</style>
+
+<script>
+  function openTab(evt, tabId) {
+    const container = evt.currentTarget.parentElement.parentElement;
+    const panels = container.querySelectorAll('.tab-panel');
+    const buttons = container.querySelectorAll('.tab-button');
+    panels.forEach(p => p.classList.remove('active'));
+    buttons.forEach(b => b.classList.remove('active'));
+    document.getElementById(tabId).classList.add('active');
+    evt.currentTarget.classList.add('active');
+  }
+</script>
