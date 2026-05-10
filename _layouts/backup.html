@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+{% include tab-setup.html %}
+
+<article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">Part {{ page.part}}, {{ page.title | escape }}</h1>
+    <h2 class="post-tagline"> {{ page.highlights}} </h2>
+    <h3 class="post-tagline"> <a href="{{site.baseurl}}/summaries#part-{{page.part}}-chapter-{{page.chapter}}"> :arrow_left: </a> </h3>
+  </header>
+
+  <p style="text-align:right; font-size:11px">
+    <a target="_blank" rel="noopener noreferrer" href="https://archive.org/details/DelalatolHaerin_201804/page/n{{ page.pnum }}">Arabic (Huseyin Attai, 1962)</a> | 
+    <a target="_blank" rel="noopener noreferrer" href="https://www.sefaria.org/Guide_for_the_Perplexed%2C_Part_{{ page.part }}.{{ page.chapter }}?lang=en">English (Michael Friedländer, 1885)</a> |
+    <a target="_blank" rel="noopener noreferrer" href="https://www.sefaria.org/Guide_for_the_Perplexed%2C_Part_{{ page.part }}.{{ page.chapter }}?lang=bi">Hebrew (Ibn Tibbon, 1204)</a> | 
+    <a target="_blank" rel="noopener noreferrer" href="https://www.sefaria.org/Guide_for_the_Perplexed%2C_Part_{{ page.part }}.{{ page.chapter }}?vhe=Judeo_Arabic,_Paris,_1856_(ar)&lang=bi">Arabic (Munk, 1856)</a>
+  </p>
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+  <footer>
+    <p style="font-size: 10px;text-align:right">
+    © Emad Masroor
+      <a href="https://github.com/Emadmasroor/Guide-Perplexed/blob/main/{{ page.path }}">Edit this page on GitHub</a>
+    </p>
+  </footer>
+
+</article>
