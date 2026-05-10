@@ -10,39 +10,6 @@ layout: default
     <h1 class="post-title">{{ page.title | escape }}</h1>
   </header>
 
-<div class="translations-section">
-  <h4 class="translations-heading">Translations</h4>
-  
-  {% assign part_key = "part" | append: page.part %}
-  {% assign ch_key = "ch" | append: page.chapter %}
-  {% assign entry = site.data.translations[part_key][ch_key] %}
-  
-  {% if entry %}
-    <div class="tabs-container">
-      <div class="tab-nav">
-        {% for translation in entry %}
-          {% assign t_name = translation[0] %}
-          <button class="tab-button {% if forloop.first %}active{% endif %}" 
-                  onclick="openTab(event, '{{ t_name }}-p{{ page.part }}c{{ page.chapter }}')">
-            {{ t_name | replace: "tibbon", "Ibn Tibbon" | capitalize }}
-          </button>
-        {% endfor %}
-      </div>
-
-      {% for translation in entry %}
-        {% assign t_name = translation[0] %}
-        {% assign t_content = translation[1] %}
-        <div id="{{ t_name }}-p{{ page.part }}c{{ page.chapter }}" 
-             class="tab-panel {% if forloop.first %}active{% endif %}" markdown="1">
-          {{ t_content | markdownify }}
-        </div>
-      {% endfor %}
-    </div>
-  {% else %}
-    <p style="font-style: italic; color: #888;">Translation content pending...</p>
-  {% endif %}
-</div>
-
 
 <div class="post-content">
     {% capture post_content %}{% include anchor_headings.html html=content generateId=true %}{% endcapture %}
