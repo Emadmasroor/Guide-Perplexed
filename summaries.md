@@ -11,7 +11,7 @@ nav: true
 {% for entry in sortedchapters %}
   <h3>
     <a href="{{site.baseurl}}{{entry.url}}">
-      Part 1, {{ entry.title }} with full text
+      Part 1, {{ entry.title }} 
     </a>
   </h3>
   <p style="font-size: 20px">
@@ -41,7 +41,7 @@ nav: true
 {% for entry in sortedchapters %}
   <h3>
     <a href="{{site.baseurl}}{{entry.url}}">
-      Part 2, {{ entry.title }} with full text
+      Part 2, {{ entry.title }} 
     </a>
   </h3>
   <p style="font-size: 20px">
@@ -69,7 +69,7 @@ nav: true
 {% for entry in sortedchapters %}
   <h3>
     <a href="{{site.baseurl}}{{entry.url}}">
-      Part 3, {{ entry.title }} with full text
+      Part 3, {{ entry.title }} 
     </a>
   </h3>
   <p style="font-size: 20px">
