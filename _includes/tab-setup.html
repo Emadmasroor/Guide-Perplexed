@@ -1,12 +1,60 @@
+<link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap" rel="stylesheet">
+
 <style>
-  .tab-nav { display: flex; flex-wrap: wrap; gap: 5px; border-bottom: 2px solid #eee; margin-bottom: 20px; }
-  .tab-button { 
-    padding: 8px 12px; font-size: 14px; border: none; background: #f9f9f9; 
-    cursor: pointer; border-bottom: 2px solid transparent; 
+  /* The Navigation Bar */
+  .tab-nav { 
+    display: flex; 
+    flex-wrap: wrap; 
+    gap: 5px; 
+    border-bottom: 2px solid #eee; 
+    margin-bottom: 20px; 
   }
-  .tab-button.active { border-bottom: 2px solid #2a7ae2; color: #2a7ae2; font-weight: bold; }
-  .tab-panel { display: none; }
-  .tab-panel.active { display: block; }
+
+  .tab-button {
+    padding: 8px 12px; 
+    font-family: "EB Garamond", serif;
+    font-variant: small-caps; /* Professional scholarly look */
+    font-size: 16px; 
+    border: none; 
+    background: #f9f9f9;
+    cursor: pointer; 
+    border-bottom: 2px solid transparent;
+    transition: 0.2s;
+  }
+
+  .tab-button.active { 
+    border-bottom: 2px solid #2a7ae2; 
+    color: #2a7ae2; 
+    font-weight: bold; 
+    background: white;
+  }
+
+  /* The Content Panels */
+  .tab-panel { 
+    display: none; 
+    font-family: "EB Garamond", serif;
+    font-size: 1.2rem; /* Garamond is naturally small; this makes it legible */
+    line-height: 1.6;
+    color: #333;
+  }
+
+  /* Force Markdown paragraphs to use the font */
+  .tab-panel p {
+    font-family: "EB Garamond", serif !important;
+  }
+
+  .tab-panel.active { 
+    display: block; 
+  }
+
+  /* Right-to-Left support for Arabic/Hebrew */
+  .tab-panel[id*="atay"], 
+  .tab-panel[id*="tibbon"], 
+  .tab-panel[id*="munk"] {
+    direction: rtl;
+    text-align: right;
+    font-size: 1.4rem; /* Arabic/Hebrew needs more size to be clear */
+  }
 </style>
 
 <script>
@@ -14,8 +62,10 @@
     const container = evt.currentTarget.parentElement.parentElement;
     const panels = container.querySelectorAll('.tab-panel');
     const buttons = container.querySelectorAll('.tab-button');
+    
     panels.forEach(p => p.classList.remove('active'));
     buttons.forEach(b => b.classList.remove('active'));
+    
     document.getElementById(tabId).classList.add('active');
     evt.currentTarget.classList.add('active');
   }
