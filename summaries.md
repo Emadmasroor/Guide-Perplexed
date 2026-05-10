@@ -38,35 +38,36 @@ nav: true
 <div class="translations-section">
   <h4 class="translations-heading">Translations</h4>
 
-  {% assign part_key = "part" | append: page.part %}
-  {% assign ch_key = "ch" | append: page.chapter %}
-  {% assign entry = site.data.translations[part_key][ch_key] %}
+  {% assign part_key = "part" | append: entry.part %}
+  {% assign ch_key = "ch" | append: entry.chapter %}
+  {% assign trans_data = site.data.translations[part_key][ch_key] %}
 
-  {% if entry %}
+  {% if trans_data %}
     <div class="tabs-container">
       <div class="tab-nav">
-        {% for translation in entry %}
+        {% for translation in trans_data %}
           {% assign t_name = translation[0] %}
           <button class="tab-button {% if forloop.first %}active{% endif %}" 
-                  onclick="openTab(event, '{{ t_name }}-p{{ page.part }}c{{ page.chapter }}')">
+                  onclick="openTab(event, '{{ t_name }}-p{{ entry.part }}c{{ entry.chapter }}')">
             {{ t_name | replace: "tibbon", "Ibn Tibbon" | capitalize }}
           </button>
         {% endfor %}
       </div>
 
-      {% for translation in entry %}
+      {% for translation in trans_data %}
         {% assign t_name = translation[0] %}
         {% assign t_content = translation[1] %}
-        <div id="{{ t_name }}-p{{ page.part }}c{{ page.chapter }}" 
+        <div id="{{ t_name }}-p{{ entry.part }}c{{ entry.chapter }}" 
              class="tab-panel {% if forloop.first %}active{% endif %}" markdown="1">
           {{ t_content | markdownify }}
         </div>
       {% endfor %}
     </div>
   {% else %}
-    <p style="font-style: italic; color: #888;">Translation content pending...</p>
+    <p style="font-style: italic; color: #888; font-size: 11px;">Translation pending for Part {{ entry.part }} Ch {{ entry.chapter }}</p>
   {% endif %}
 </div>
+
 
 {% endfor %}
 
