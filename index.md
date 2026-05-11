@@ -6,7 +6,7 @@ This is a personal website dedicated to the study of _The Guide for the Perplexe
 
 ## About the book
 
-_The Guide for the Perplexed_ was written c. 1190 in Cairo, and was originally written in Classical Arabic using the Hebrew script. See the [Translations & Transliterations page](resources/Translations/) for details about the numerous translations and transliterations of this book that have been made over the centuries from the 12th century to the 21st.
+_The Guide for the Perplexed_ was written c. 1190 in Cairo, and was originally written in Classical Arabic using the Hebrew script. See the [Translations & Transliterations page](resources/Translations/) for details about the numerous translations and transliterations of this book that have been made over the centuries from the 12th to the 21st.
 
 Broadly, the _Guide_ is about the relationship between **Reason** and **Revelation**. In addressing this topic, Maimonides wades into a number of medieval philosophical/theological debates, such as:
 
@@ -29,7 +29,7 @@ and ends with a quotation of the following Scriptural passages:
 
 ## About the website
 
-Here, you will find the beginnings of a personal commentary on the _Guide_ with extensive quotations from Friedlander's translation, in the form of chapter summaries. Each chapter summary is accompanied by a link to that chapter available on [Sefaria](https://www.sefaria.org/). The full text of each chapter is also made available here from five sources:
+Here, you will find the beginnings of a personal commentary on the _Guide_ with extensive quotations from Friedlander's translation, in the form of [chapter summaries](summaries). The full text of each chapter is also made available here from five sources:
 
 - the English translation of Michael Friedländer
 - the English translation of Lenn Goodman and Philip Lieberman
