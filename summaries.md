@@ -10,7 +10,7 @@ nav: true
 {% assign sortedchapters = site.GPI_chapters | sort:"chapter" %}
 {% for entry in sortedchapters %}
   <h3>
-      Part 1, {{ entry.title }} 
+      Part I, {{ entry.title }} 
   </h3>
   <p style="font-size: 16px">
     {% if entry.highlights %}
@@ -43,13 +43,11 @@ nav: true
 {% assign sortedchapters = site.GPII_chapters | sort:"chapter" %}
 {% for entry in sortedchapters %}
   <h3>
-    <a href="{{site.baseurl}}{{entry.url}}">
-      Part 2, {{ entry.title }} 
-    </a>
+      Part II, {{ entry.title }} 
   </h3>
-  <p style="font-size: 20px">
+  <p style="font-size: 16px">
     {% if entry.highlights %}
-      {{ entry.highlights }}
+      Topics: {{ entry.highlights }}
   {% endif %}
   </p>
   <p style="text-align:left;"> 
@@ -62,6 +60,11 @@ nav: true
     <a target="_blank" rel="noopener noreferrer" href="https://www.sefaria.org/Guide_for_the_Perplexed%2C_Part_{{ entry.part }}.{{ entry.chapter }}?lang=en">English (Michael Friedländer, 1885)</a> |
     <a target="_blank" rel="noopener noreferrer" href="https://www.sefaria.org/Guide_for_the_Perplexed%2C_Part_{{ entry.part }}.{{ entry.chapter }}?lang=bi">Hebrew (Ibn Tibbon, 1204)</a> | 
     <a target="_blank" rel="noopener noreferrer" href="https://www.sefaria.org/Guide_for_the_Perplexed%2C_Part_{{ entry.part }}.{{ entry.chapter }}?vhe=Judeo_Arabic,_Paris,_1856_(ar)&lang=bi">Arabic (Munk, 1856)</a>
+  </p>
+  <p style="text-align:left; font-size: 12px">
+    <a href="{{site.baseurl}}{{entry.url}}">
+      Read source text for this chapter and compare translations 
+    </a>
   </p>
   <p>{{ entry.content | markdownify }}</p>
 {% endfor %}
@@ -71,13 +74,11 @@ nav: true
 {% assign sortedchapters = site.GPIII_chapters | sort:"chapter" %}
 {% for entry in sortedchapters %}
   <h3>
-    <a href="{{site.baseurl}}{{entry.url}}">
-      Part 3, {{ entry.title }} 
-    </a>
+      Part III, {{ entry.title }} 
   </h3>
-  <p style="font-size: 20px">
+  <p style="font-size: 16px">
     {% if entry.highlights %}
-      {{ entry.highlights }}
+      Topics: {{ entry.highlights }}
   {% endif %}
   </p>
   <p style="text-align:left;"> 
@@ -90,6 +91,11 @@ nav: true
     <a target="_blank" rel="noopener noreferrer" href="https://www.sefaria.org/Guide_for_the_Perplexed%2C_Part_{{ entry.part }}.{{ entry.chapter }}?lang=en">English (Michael Friedländer, 1885)</a> |
     <a target="_blank" rel="noopener noreferrer" href="https://www.sefaria.org/Guide_for_the_Perplexed%2C_Part_{{ entry.part }}.{{ entry.chapter }}?lang=bi">Hebrew (Ibn Tibbon, 1204)</a> | 
     <a target="_blank" rel="noopener noreferrer" href="https://www.sefaria.org/Guide_for_the_Perplexed%2C_Part_{{ entry.part }}.{{ entry.chapter }}?vhe=Judeo_Arabic,_Paris,_1856_(ar)&lang=bi">Arabic (Munk, 1856)</a>
+  </p>
+  <p style="text-align:left; font-size: 12px">
+    <a href="{{site.baseurl}}{{entry.url}}">
+      Read source text for this chapter and compare translations 
+    </a>
   </p>
   <p>{{ entry.content | markdownify }}</p>
 {% endfor %}
