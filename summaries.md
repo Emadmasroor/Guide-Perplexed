@@ -30,6 +30,11 @@ nav: true
     <a target="_blank" rel="noopener noreferrer" href="https://www.sefaria.org/Guide_for_the_Perplexed%2C_Part_{{ entry.part }}.{{ entry.chapter }}?lang=bi">Hebrew (Ibn Tibbon, 1204)</a> | 
     <a target="_blank" rel="noopener noreferrer" href="https://www.sefaria.org/Guide_for_the_Perplexed%2C_Part_{{ entry.part }}.{{ entry.chapter }}?vhe=Judeo_Arabic,_Paris,_1856_(ar)&lang=bi">Arabic (Munk, 1856)</a>
   </p>
+  <p style="text-align:left; font-size: 12px">
+    <a href="{{site.baseurl}}{{entry.url}}">
+      Read source text and compare translations 
+    </a>
+  </p>
   <p>{{ entry.content | markdownify }}</p>
 {% endfor %}
 
