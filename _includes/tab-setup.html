@@ -64,12 +64,18 @@
     display: block; 
   }
 
-  /* RTL Support */
-  [id*="atay"], [id*="tibbon"], [id*="munk"], [id*="arabic"], [id*="hebrew"] {
-    direction: rtl;
-    text-align: right;
-    font-size: 1.4rem;
-  }
+/* RTL Support */
+[id*="atay"], 
+[id*="tibbon"], 
+[id*="munk"]:not([id*="_fr"]), /* Targets Munk, but excludes Munk_fr */
+[id*="arabic"], 
+[id*="hebrew"] {
+  direction: rtl;
+  text-align: right;
+  font-size: 1.4rem;
+  font-family: "SBL Hebrew", "Times New Roman", serif; /* Recommended for readability */
+}
+
 </style>
 
 <script>
