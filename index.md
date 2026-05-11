@@ -4,7 +4,7 @@ layout: home
 
 This is a personal website dedicated to the study of _The Guide for the Perplexed_ (_dalalat al-haa'ireen_ دلالة الحائرين  or _moreh nebuchim_ מורה נבוכים), the philosophical magnum opus of _Musa bin Maimun_ (موسى بن ميمون; known in Hebrew as _Moshe ben Maimon_ משה בן-מימון‎, and in the European intellectual tradition as Maimonides).
 
-### About the book
+## About the book
 
 _The Guide for the Perplexed_ was written c. 1190 in Cairo, and was originally written in Classical Arabic using the Hebrew script. See the [Translations & Transliterations page](resources/Translations/) for details about the numerous translations and transliterations of this book that have been made over the centuries from the 12th century to the 21st.
 
