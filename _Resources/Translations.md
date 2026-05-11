@@ -156,7 +156,7 @@ Let us compare the text of the _Guide_ in four different versions.
 | Edition    | Text |
 | -------- | ------- |
 | Shlomo Pines  |  Therefore you ought to desire to achieve this thing, which will remain permanently with you  |
-| Michael Friedlander | Therefore you ought to desire to achieve this thing, which will remain permanently with you    |
+| Michael Friedlander | Your aim must therefore be to attain this [fourth] perfection that is exclusively yours,    |
 | Goodman & Liberman | This is what you should cherish, yours forever, |
 | Salomon Munk (tr.)   | C'est pourquoi il faut que tu sois avide d'obtenir cette chose qui reste à toi  |
 | Salomon Munk (ed.) | ולהד'א ינבגי לך אן תחרץ עלי חצול הד'א אלבאקי לך |
