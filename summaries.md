@@ -10,13 +10,11 @@ nav: true
 {% assign sortedchapters = site.GPI_chapters | sort:"chapter" %}
 {% for entry in sortedchapters %}
   <h3>
-    <a href="{{site.baseurl}}{{entry.url}}">
       Part 1, {{ entry.title }} 
-    </a>
   </h3>
-  <p style="font-size: 20px">
+  <p style="font-size: 16px">
     {% if entry.highlights %}
-      {{ entry.highlights }}
+      Topics: {{ entry.highlights }}
   {% endif %}
   </p>
   <p style="text-align:left;"> 
@@ -32,7 +30,7 @@ nav: true
   </p>
   <p style="text-align:left; font-size: 12px">
     <a href="{{site.baseurl}}{{entry.url}}">
-      Read source text and compare translations 
+      Read source text for this chapter and compare translations 
     </a>
   </p>
   <p>{{ entry.content | markdownify }}</p>
