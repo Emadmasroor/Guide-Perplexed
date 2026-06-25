@@ -105,6 +105,31 @@ Joseph Soloveitchik has been called "The greatest modern philosopher produced by
 #### Maimonides' "pantheism":
 - With respect to **existence** and with respect to **essence**, Maimonides is a monist (Soloveitchik even uses the word 'pantheist'). Things don't have an existence independent of the existence of God, and they borrow their essence from God too. However, with respect to **substance**, Maimonides maintains a strict separation between God and the world.
 
+### Josef Stern
+
+Josef Stern's book _Matter and Form in Maimonides' Guide_ is, for all intents and purposes, a commentary on the Guide, albeit one that advances a specific thesis. Stern's contention appears to be that Maimonides is a skeptic, but Stern draws a distinction between (scientific) knowledge, _'ilm_, on the one hand and belief, _i'tiqad_, on the other. If I understand Stern correctly, he believes that Maimonides is a skeptic when it comes to man's ability to have certain (scientific) knowledge of metaphysics. It is important to distinguish between beliefs and knowledge, here, because Stern seems to be using a definition of knowledge that is not the usual '[justified true belief](https://en.wikipedia.org/wiki/Definitions_of_knowledge#Justified_true_belief)' but something different. Crucially, he does not claim that Maimonides disavowed religious beliefs about God, but he does claim that Maimonides believes that it is not possible to have certain knowledge about God.
+
+#### On Emanation
+
+According to Stern, Maimonides brings in emanation --- a Neoplatonic idea --- into his otherwise Aristotelian system at the point in his argument where he needs to show, with Aristotle, that immaterial things can be causes for material effects. Emanation is essentially a mysterious device that bridges the unbridgeable chasm between the Active Intellect and our material world. More concretely, emanation is the device which is Maimonides' answer to the question: how can an immaterial God who is Form bring about a world that is not just form but form+matter? How can something immaterial produce something material? For example, the RMBM says in [II.22](/summaries/II/ch22):
+
+> how can these minds cause spheres to issue from them by some necessary entailment? What link is there between matter and what is wholly incorporeal?
+
+Maimonides' short answer (earlier in the book) was emanation, but in the famous Chapter 22 of Part II, he points out that this naturalizing/philosophizing account of the world is not satisfactory:
+
+> You can see clearly now that these things do not issue by the kind of necessity he [Aristotle] cites 
+
+According to Stern, Maimonides' concept of emanation is a device to convey an idea that is difficult for the human mind to conceive. Since human mind cannot imagine the influence on B of A without conceiving of the influence taking the form of a direction, the word emanation is employed, which suggests influence in _all_ directions. According to Stern, what _really_ expresses the idea behind emanation is influence on B of A with _no_ direction at all, but this would be difficult for the imagination to grasp. Emanation is therefore an extended metaphor, a visualizing device, a concession to the human imaginative faculty as it tries to grapple with ideas that are ultimately outside its ken. In Stern's telling, Maimonides himself acknowledged that _fayd_ is a bit mysterious (citation needed).
+
+If Stern is right, this suggests that Maimonides was aware of the Neoplatonic admixture in Aristotle's ideas, to some extent, and was a thorough Aristotelian who only employed the alien concept of emanation in a limited way.
+
+See Goodman's footnote 107 of part II:
+
+> The Philosophers’ cosmology is admittedly conjectural (II 22, 2.50a), but scientific findings square with Scripture soundly understood (II 8, citing the Rabbis’ words: “The sages of the nations of the world prevail”). Philosophers, like prophets, use the tropes they have. But the broad idea of emanation conveys deeper truths than the detailed cosmology of the spheres. It bespeaks God’s grace, ontic and epistemic, an “attribute” we human beings can
+emulate.
+
+
+
 ### Leo Strauss
 
 **Strauss, Leo**. _How to Begin to Study the Guide of the Perplexed_, in Maimonides, _The Guide of the Perplexed_, tr. Shlomo Pines. 
